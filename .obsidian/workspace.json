@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الباقي.md",
+                "file": "AI/Fine_Tunning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "الباقي"
+              "title": "Fine_Tunning"
             }
           }
         ],
@@ -255,10 +255,14 @@
   },
   "active": "ddb883e0e09f8303",
   "lastOpenFiles": [
+    "الباقي.md",
     "بب.md",
+    "AI/Fine_Tunning.md",
+    "Pasted image 20260304145532.png",
+    "AI/Untitled",
+    "AI",
     "Spring Core/AplicationContext.md",
     "Spring Core/Example on IOC & DI & ApplicationContext.md",
-    "الباقي.md",
     "Spring Core/Beans.md",
     "Spring Core/IOC Container.md",
     "Spring Core/Intro & tightly & loosely coupled.md",
@@ -267,7 +271,6 @@
     "Spring Core/Spring Architecture.md",
     "Spring Core/Loose and Tight Coupling.md",
     "beans.md",
-    "Pasted image 20260304145532.png",
     "JAVA CORE☕/Sticky notes/Controller.md",
     "Pasted image 20260307014044.png",
     "JAVA CORE☕/Sticky notes/Sticky.md",
@@ -285,8 +288,6 @@
     "JAVA CORE☕/Sticky notes/Finally Block.md",
     "JAVA CORE☕/Collections in java/Linked List and Array List.md",
     "PHP/connection d5.md",
-    "PHP/Day 5.md",
-    "PHP/Day4 Files.md",
     "JAVA CORE☕/MAVEN",
     "Cloud",
     "Java materials",
@@ -294,8 +295,6 @@
     "JAVA CORE☕/Sticky notes",
     "PHP",
     "BACKEND",
-    "JAVA.zip",
-    "Untitled.base",
     "x/Untitled.canvas"
   ]
 }

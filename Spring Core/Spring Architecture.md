@@ -33,7 +33,7 @@ POST /orders
 @RestController
 @RequestMapping("/users")
 public class UserController {
-
+//DI
     private UserService userService;
 
     public UserController(UserService userService){
@@ -46,8 +46,8 @@ public class UserController {
     }
 }
 ```
-
-هنا الـ Controller:
+ 
+هنا الـ Controller: يستقبل الريكويست ياخد منه  الداتا ويبعتها الي السيرفيز
 
 1. استقبل request
     
@@ -80,7 +80,7 @@ public class UserController {
 ```java
 @Service
 public class UserService {
-
+//DI
     private UserRepository userRepository;
 
     public UserService(UserRepository userRepository){
@@ -96,7 +96,7 @@ public class UserService {
 }
 ```
 
-الـ Service:
+الـ Service: يستقبل من ال controller ويبعته للداتا بيز 
 
 - استقبل الطلب من Controller
     

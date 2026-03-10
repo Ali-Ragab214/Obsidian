@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BACKEND/WEB Authentication.md",
-                "mode": "preview",
+                "file": "Version Contols/Explain.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WEB Authentication"
+              "title": "Explain"
             }
           }
         ],
@@ -255,8 +255,13 @@
   },
   "active": "ddb883e0e09f8303",
   "lastOpenFiles": [
-    "BACKEND/ROADMAP.md",
+    "Type Script/EXPLAIN.md",
+    "Version Contols/Explain.md",
+    "Version Contols",
+    "Version Control",
     "BACKEND/WEB Authentication.md",
+    "Type Script",
+    "BACKEND/ROADMAP.md",
     "Spring Core/AplicationContext.md",
     "الباقي.md",
     "بب.md",
@@ -286,16 +291,11 @@
     "JAVA CORE☕/Sticky notes/Field hiding.md",
     "JAVA CORE☕/MAVEN/MavenArchetypes 🎯.md",
     "JAVA CORE☕/MAVEN/Simple proj.md",
-    "JAVA CORE☕/MAVEN/POM.xml.md",
     "Pasted image 20260304145125.png",
-    "JAVA CORE☕/MAVEN/Explaination.md",
     "JAVA CORE☕/MAVEN",
     "Cloud",
     "Java materials",
     "Untitled.canvas",
-    "JAVA CORE☕/Sticky notes",
-    "PHP",
-    "BACKEND",
     "x/Untitled.canvas"
   ]
 }

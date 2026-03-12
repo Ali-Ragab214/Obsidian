@@ -45,7 +45,7 @@ public class UserService {
 }
 ```
 
-أو
+أو@Component
 
 ```java
 @Component
@@ -85,13 +85,13 @@ Spring هو الذي أنشأ الـ object وليس أنت.
 
 # دورة حياة الـ Bean (باختصار)
 
-عندما يبدأ Spring:
+عندما يبدأ Spring: 
 
 1️⃣ يقرأ الـ configuration  
 2️⃣ ينشئ Beans  
 3️⃣ يعمل Dependency Injection  
 4️⃣ يستخدم الـ Beans  
-5️⃣ عند إغلاق التطبيق يتم تدميرها
+5️⃣ عند إغلاق التطبيق يتم تدميرها 
 
 ---
 
@@ -128,7 +128,7 @@ Application
    |---- UserService (نفس الـ object لكل الاستخدامات)
 ```
 
-### مثال
+### مثال 
 
 ```java
 @Service
@@ -155,6 +155,42 @@ s1 == s2  -> true
 ```
 
 نفس الـ object.
+EXAMPLE 
+### مثال عملي يوضح الفكرة
+
+@Component  
+public class Counter {  
+  
+    int count = 0;  
+  
+    public void increment() {  
+        count++;  
+    }  
+  
+}
+
+@Service  
+public class TestService {  
+  
+    @Autowired  
+    Counter counter;  
+  
+    public void test() {  
+        counter.increment();  
+        System.out.println(counter.count);  
+    }  
+  
+}
+
+لو استدعينا `test()` أكثر من مرة:
+
+1  
+2  
+3
+
+ليه؟
+
+لأن **نفس object بيتستخدم**.
 
 ---
 
@@ -186,6 +222,79 @@ s1 == s2 -> false
 ```
 
 Objects مختلفة.
+## Singleton vs Prototype — مثال كامل
+
+```java
+// Car.java
+@Component
+@Scope("prototype")
+public class Car {
+    public Car() {
+        System.out.println("Car created");
+    }
+}
+```
+
+```java
+// Main.java
+@SpringBootApplication
+public class Main {
+    public static void main(String[] args) {
+        
+        ApplicationContext context = 
+            SpringApplication.run(Main.class, args);
+
+        // طلبنا الـ bean مرتين
+        Car car1 = context.getBean(Car.class);
+        Car car2 = context.getBean(Car.class);
+
+        // هل هم نفس الـ object؟
+        System.out.println(car1 == car2);
+    }
+}
+```
+
+---
+
+### النتيجة مع `@Scope("prototype")`
+
+```
+Car created   ← المرة الأولى
+Car created   ← المرة التانية (object جديد)
+false         ← مش نفس الـ object
+```
+
+---
+
+### النتيجة مع `Singleton` (شيل الـ @Scope)
+
+```java
+@Component
+// مفيش @Scope = singleton by default
+public class Car {
+    public Car() {
+        System.out.println("Car created");
+    }
+}
+```
+
+```
+Car created   ← مرة واحدة بس
+true          ← نفس الـ object الاتنين
+```
+
+---
+
+### الفكرة ببساطة
+
+```
+Prototype:  car1 ──► 🚗 (object A)
+            car2 ──► 🚗 (object B)   ← اتعمل من جديد
+
+Singleton:  car1 ──┐
+                   ├──► 🚗 (object واحد بس)
+            car2 ──┘
+```
 
 ---
 

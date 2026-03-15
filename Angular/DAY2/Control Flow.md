@@ -80,6 +80,7 @@ export class AppComponent {
 
 #### المتغيرات الجاهزة جوه `@for`:
 
+
 ```html
 @for (item of items; track item.id) {
   <p>Index: {{ $index }}</p>       <!-- رقم العنصر -->

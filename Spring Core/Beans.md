@@ -67,6 +67,25 @@ Spring IoC Container
 creates Bean
 ```
 
+### الـ Bean Configuration — إزاي تعرّف Beans؟
+
+**طريقة 1 — Annotations (الأشهر)**
+
+java
+
+```java
+@Component   // Bean عادية
+public class MyUtil { }
+
+@Service     // Bean للـ Business Logic
+public class UserService { }
+
+@Repository  // Bean للـ Database
+public class UserRepository { }
+
+@Controller  // Bean للـ Web Layer
+public class UserController { }
+```
 ---
 
 # الدياجرام الأساسي للـ Beans

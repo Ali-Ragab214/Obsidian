@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/zNote.md",
+                "file": "Angular/Day3/4-Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zNote"
+              "title": "4-Service"
             }
           }
         ],
@@ -269,15 +269,24 @@
   },
   "active": "059ec2abd1bd01e9",
   "lastOpenFiles": [
-    "Spring Boot/1-What is Spring Boot.md",
-    "Spring Boot/zNote.md",
-    "Spring Core/Beans.md",
+    "Angular/Day3/Till Now.md",
+    "Angular/Day3/4-Service.md",
+    "Angular/Day3/3-Content Projection.md",
+    "Angular/Day3/2-Angular Lifecycle.md",
+    "Angular/Day3/1-Component Communication.md",
+    "Spring Boot/7-Main Class.md",
+    "Spring Boot/8-Embeded Server.md",
+    "Spring Boot/6-zNote.md",
+    "Spring Boot/5=1+2+3+4.md",
     "Spring Boot/4-Starter Dependencies.md",
     "Spring Boot/3-Convention Over Configuration.md",
-    "Spring Boot/5=1+2+3+4.md",
+    "Spring Boot/2-Auto Configuration Concept.md",
+    "Spring Boot/1-What is Spring Boot.md",
+    "Spring Core/Bean & Bean Scope.md",
+    "Angular/Day3",
+    "Spring Core/Beans.md",
     "Pasted image 20260314234307.png",
     "Untitled.base",
-    "Spring Boot/2-Auto Configuration Concept.md",
     "Spring Boot Roadmap.md",
     "Spring Boot",
     "Pasted image 20260314205805.png",
@@ -294,14 +303,6 @@
     "Angular/DAY2",
     "Angular",
     "PHP/Day 5.md",
-    "PHP/Day4 Files.md",
-    "PHP/Day3 OOP.md",
-    "PHP/Day2 Lab.md",
-    "PHP/Global vars in Day2.md",
-    "PHP/DAY1.md",
-    "Spring Core/NOTES.md",
-    "Spring Core/Bean & Bean Scope.md",
-    "Version Contols/Explain.md",
     "Version Contols",
     "Version Control",
     "Type Script",
@@ -310,7 +311,6 @@
     "GEN AI",
     "Pasted image 20260304151502.png",
     "Pasted image 20260307014044.png",
-    "Spring Core",
     "Pasted image 20260304145125.png",
     "Untitled.canvas",
     "x/Untitled.canvas"

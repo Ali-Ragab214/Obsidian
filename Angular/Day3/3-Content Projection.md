@@ -39,12 +39,12 @@ Navbar Component
 ```ts
 imports: [ReusableButtonComponent]
 ```
-
+اعمل امبورت للريوزابل في الاساسي الاةل 
 ---
 
 ## 2️⃣ استخدام الـ selector في HTML
 
-مثال:
+مثال: استخدمه عن طريق السيليكتور بتاعه في الاساسي
 
 ```html
 <app-button></app-button>

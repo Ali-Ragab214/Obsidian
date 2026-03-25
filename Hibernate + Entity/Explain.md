@@ -1986,6 +1986,7 @@ public class Student {
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
 
+
     public Status getStatus() { return status; }
     public void setStatus(Status status) { this.status = status; }
 
@@ -2070,7 +2071,7 @@ public class Department {
     public List<Student> getStudents() { return students; }
 
     // Helper Methods
-    public void addStudent(Student student) {
+    public void addStudent(Student student) {=> هنا التربيط
         students.add(student);
         student.setDepartment(this);
     }
@@ -2078,6 +2079,12 @@ public class Department {
     public void removeStudent(Student student) {
         students.remove(student);
         student.setDepartment(null);
+    }
+    
+    public void removeStudent(Student student)
+    {
+    students.remove(student);
+    student.setDepartment(null);
     }
 }
 ```
@@ -2111,6 +2118,8 @@ public class Course {
     public void setTitle(String title) { this.title = title; }
 
     public Set<Student> getStudents() { return students; }
+    
+
 }
 ```
 

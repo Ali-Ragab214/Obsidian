@@ -130,9 +130,53 @@
               "icon": "lucide-file",
               "title": "Explain"
             }
+          },
+          {
+            "id": "9efcede6a989b206",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate + Entity/Explain.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Explain"
+            }
+          },
+          {
+            "id": "a7b9389a2d76665e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/DAY2/Binding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binding"
+            }
+          },
+          {
+            "id": "f293a660c23e0d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Data jpa/z-notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "z-notes"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -189,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 273.5
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -295,17 +339,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ef40beebb5c674f",
+  "active": "a7b9389a2d76665e",
   "lastOpenFiles": [
-    "MySQL/Revision.md",
-    "Hibernate + Entity/Notes.md",
-    "MySQL",
-    "Hibernate + Entity/Explain.md",
+    "Spring Data jpa/Z-ROADMAP.md",
+    "Spring Data jpa/5-JPA Inheritance & Entity Design in Spring Data JPA.md",
+    "Spring Data jpa/2-Hibernate vs Spring Data & JPA.md",
+    "Spring Data jpa/z-notes.md",
+    "Spring Data jpa/4-Repository.md",
+    "Spring Data jpa/3-Foundation.md",
+    "Spring Data jpa/1-intro.md",
+    "Spring Boot/10-Environment Variables.md",
     "aroad.md",
-    "Agile/INTRO.md",
-    "Agile",
-    "BACKEND/Cashing/Intro.md",
+    "Hibernate + Entity/Explain.md",
+    "LOMBOK Library.md",
+    "Sp_Builder Pattern/EXP.md",
+    "Sp_Builder Pattern",
+    "test.md",
+    "BACKEND/ROADMAP.md",
+    "BACKEND/Cashing/2-Types Of Cashing.md",
     "BACKEND/Cashing/z-roadmap.md",
+    "BACKEND/Cashing/1-Intro.md",
+    "Java materials/JDBC.md",
+    "Java materials/java io and Networking.md",
+    "Hibernate + Entity/Notes.md",
+    "Spring Data jpa",
+    "Agile/INTRO.md",
+    "MySQL/Revision.md",
+    "MySQL",
+    "Agile",
     "BACKEND/Cashing.md",
     "BACKEND/Cashing",
     "Pasted image 20260320210123.png",
@@ -313,30 +374,13 @@
     "Spring Boot/Untitled.md",
     "Hibernate + Entity",
     "Spring Boot Roadmap.md",
-    "الباقي.md",
-    "Spring Boot/10-Environment Variables.md",
-    "Spring Boot/9-Configs & properties.md",
-    "BACKEND/ORM.md",
-    "BACKEND/ROADMAP.md",
-    "proj.md",
     "Pasted image 20260314234307.png",
     "Pasted image 20260314205515.png",
-    "Angular/Day4/HTTP Client.md",
-    "Angular/Day4/1-Reactive Forms.md",
-    "Spring Boot/8-Embeded Server.md",
     "Spring Boot/9-Configs & properties",
-    "Spring Boot/7-Main Class.md",
-    "JAVA CORE☕/RECAP ON CORE.md",
-    "Angular/Untitled.md",
     "Angular/Day4",
     "Untitled.base",
-    "BACKEND/WEB Authentication.md",
-    "BACKEND/Sessions & Cookies.md",
-    "Angular/Day3/4-Service.md",
     "Angular/Day3",
-    "Spring Boot",
     "Pasted image 20260314205805.png",
-    "Angular/DAY2",
     "Pasted image 20260304145532.png",
     "Pasted image 20260304151502.png",
     "Pasted image 20260307014044.png",

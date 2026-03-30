@@ -3,6 +3,14 @@
 
 ---
 com.notification.jpa
+Entities + DB connection ✅
+Repositories (CRUD) ❌ ← الدور عليها الآن
+Service Layer ❌
+DTO + Mapping ❌
+Relationships ❌
+Advanced JPA ❌
+
+
 │
 ├── controller        (API layer)
 ├── service           (business logic)

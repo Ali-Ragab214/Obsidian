@@ -4,179 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "10cd926da937d5fb",
+        "id": "887021fb38e6b8e2",
         "type": "tabs",
         "children": [
           {
-            "id": "2972bc13010cfb84",
+            "id": "3d530d3dafc93422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Core.md",
+                "file": "Spring Data jpa/zz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core"
+              "title": "zz"
             }
           },
           {
-            "id": "58d16155fde554d1",
+            "id": "f7a56ac98812df0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Core/Spring Architecture.md",
+                "file": "LARAVEL/1-DAY ONE TWO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Architecture"
-            }
-          },
-          {
-            "id": "43a0ee4bdcbcaf26",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260304151502.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260304151502"
-            }
-          },
-          {
-            "id": "0f6d4dd90315640e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROADMAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROADMAP"
-            }
-          },
-          {
-            "id": "9bd3896da4b535bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "الباقي.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "الباقي"
-            }
-          },
-          {
-            "id": "ddb883e0e09f8303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Day 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 5"
-            }
-          },
-          {
-            "id": "059ec2abd1bd01e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "الباقي.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "الباقي"
-            }
-          },
-          {
-            "id": "2edf95ea96b3f538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Boot Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring Boot Roadmap"
-            }
-          },
-          {
-            "id": "4ef40beebb5c674f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate + Entity/Explain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Explain"
-            }
-          },
-          {
-            "id": "9efcede6a989b206",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate + Entity/Explain.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Explain"
-            }
-          },
-          {
-            "id": "a7b9389a2d76665e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/DAY2/Binding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binding"
-            }
-          },
-          {
-            "id": "f293a660c23e0d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Data jpa/z-notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "z-notes"
+              "title": "1-DAY ONE TWO"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -339,47 +199,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7b9389a2d76665e",
+  "active": "f7a56ac98812df0b",
   "lastOpenFiles": [
-    "Spring Data jpa/Z-ROADMAP.md",
-    "Spring Data jpa/5-JPA Inheritance & Entity Design in Spring Data JPA.md",
-    "Spring Data jpa/2-Hibernate vs Spring Data & JPA.md",
+    "LARAVEL/1-DAY1.md",
+    "LARAVEL/1-DAY ONE TWO.md",
+    "LARAVEL/2-DAY2 Migrations.md",
+    "LARAVEL/dd.md",
+    "PHP/Day3 OOP.md",
+    "LARAVEL",
+    "PHP/Day4 Files.md",
+    "PHP/Global vars in Day2.md",
+    "PHP/Day2 Lab.md",
+    "PHP/DAY1.md",
+    "Spring Data jpa/17-Global Exception Handling.md",
+    "Spring Data jpa/16-Validation framework.md",
     "Spring Data jpa/z-notes.md",
+    "Spring Data jpa/Z-ROADMAP.md",
+    "Spring Data jpa/zz.md",
+    "Spring Data jpa/15-Transactions.md",
+    "Final proj.md",
+    "Spring Data jpa/13-Example on Service Layer.md",
+    "Spring Data jpa/14-Note on Service.md",
+    "Spring Data jpa/12-Service Layer.md",
+    "Spring Data jpa/11-DTO Pattern.md",
+    "Spring Data jpa/10-Auditing.md",
+    "Spring Data jpa/9-Pagination.md",
+    "Spring Data jpa/8-Custom Queries.md",
+    "Spring Data jpa/7-Derived Query Methods.md",
+    "Spring Data jpa/6-JPA REPOSITORY.md",
     "Spring Data jpa/4-Repository.md",
-    "Spring Data jpa/3-Foundation.md",
-    "Spring Data jpa/1-intro.md",
-    "Spring Boot/10-Environment Variables.md",
-    "aroad.md",
-    "Hibernate + Entity/Explain.md",
-    "LOMBOK Library.md",
-    "Sp_Builder Pattern/EXP.md",
+    "Design Patterns with JAVA",
+    "SOLID",
+    "Agile/Scrum",
     "Sp_Builder Pattern",
-    "test.md",
-    "BACKEND/ROADMAP.md",
-    "BACKEND/Cashing/2-Types Of Cashing.md",
-    "BACKEND/Cashing/z-roadmap.md",
-    "BACKEND/Cashing/1-Intro.md",
-    "Java materials/JDBC.md",
-    "Java materials/java io and Networking.md",
-    "Hibernate + Entity/Notes.md",
     "Spring Data jpa",
-    "Agile/INTRO.md",
-    "MySQL/Revision.md",
     "MySQL",
     "Agile",
-    "BACKEND/Cashing.md",
     "BACKEND/Cashing",
     "Pasted image 20260320210123.png",
-    "BACKEND/APIS.md",
-    "Spring Boot/Untitled.md",
     "Hibernate + Entity",
-    "Spring Boot Roadmap.md",
     "Pasted image 20260314234307.png",
     "Pasted image 20260314205515.png",
-    "Spring Boot/9-Configs & properties",
-    "Angular/Day4",
-    "Untitled.base",
-    "Angular/Day3",
     "Pasted image 20260314205805.png",
     "Pasted image 20260304145532.png",
     "Pasted image 20260304151502.png",

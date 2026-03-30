@@ -440,6 +440,7 @@ $arr2=["mohammed","sara","aya"];
 
 $arr3=array_merge($arr1,$arr2);
 $array3=[...$arr1,...$arr2];
+$array4 =array_merge($arr1,$arr2,$arr3)
 ```
 
 📌 `array_merge()` يعيد ترتيب المفاتيح الرقمية  

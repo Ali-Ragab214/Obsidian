@@ -308,3 +308,10 @@ public class AuthorRequest {
 
 قولي لو تكمل بالـ **Global Exception Handler** أو الـ **Custom Validation**.
 ```
+
+
+---
+
+![[Pasted image 20260331122442.png]]
+
+![[Pasted image 20260331122456.png]]

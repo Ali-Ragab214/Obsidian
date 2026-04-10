@@ -74,6 +74,8 @@ export class AppComponent {
 <!-- track بالـ id (الأفضل دايماً) -->
 @for (product of products; track product.id) { }
 
+@for(product of products ; track peoduct.id){}
+
 <!-- track بالـ index (لو مفيش id) -->
 @for (item of items; track $index) { }
 ```
@@ -154,6 +156,20 @@ export class AppComponent {
     <p>مش مسجل دخول</p>
   }
 }
+
+
+
+
+
+
+
+@switch(orderStatus)
+{
+@case('completed')
+{
+<p>Done</p>
+}
+}
 ```
 
 ---
@@ -187,9 +203,10 @@ export class AppComponent {
     }
   }
 
+
   @for (product of products; track product.id) {
     <div class="card">
-      <h3>{{ $index + 1 }}. {{ product.name }}</h3>
+      <h3>{{ $index + 1 }} . {{ product.name }}</h3>
       <p>السعر: {{ product.price }}</p>
 
       @switch (product.status) {

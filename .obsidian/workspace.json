@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring-API/3-Response Entity.md",
+                "file": "LARAVEL/7-API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-Response Entity"
+              "title": "7-API"
+            }
+          },
+          {
+            "id": "e493529d9a0741b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns with JAVA/Structural/2-FACADE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-FACADE"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -127,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROADMAP.md",
+                "file": "Design Patterns with JAVA/Structural/2-FACADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ROADMAP"
+              "title": "Outgoing links from 2-FACADE"
             }
           },
           {
@@ -184,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,54 +212,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7a56ac98812df0b",
+  "active": "e493529d9a0741b0",
   "lastOpenFiles": [
-    "Spring-API/2-example.md",
-    "Spring-API/3-Response Entity.md",
-    "Spring-API/1-EXP.md",
-    "LARAVEL/3-DAY3/3-Custom from request + Query Builder.md",
-    "WhatsApp Image 2026-04-01 at 3.14.41 AM (1).jpeg",
-    "WhatsApp Image 2026-03-31 at 12.27.01 PM.jpeg",
-    "WhatsApp Image 2026-04-01 at 3.14.41 AM.jpeg",
-    "Pasted image 20260401031521.png",
-    "LARAVEL/3-DAY3/1-seeder and factory.md",
-    "LARAVEL/3-DAY3/2-tinker.md",
-    "Spring Data jpa/16-Validation framework.md",
+    "Pasted image 20260410115450.png",
+    "Pasted image 20260410115322.png",
+    "Design Patterns with JAVA/Structural/1-ADAPTER.md",
+    "Design Patterns with JAVA/Structural/2-FACADE.md",
+    "Design Patterns with JAVA/Creational/1-Abstract Factory.md",
+    "Design Patterns with JAVA/Creational/3-Builder.md",
+    "Design Patterns with JAVA/Creational/2-Singleton.md",
+    "Spring Security/8-All Before JWT.md",
+    "Design Patterns with JAVA/Creational",
+    "Design Patterns with JAVA/Behavoiral",
+    "Design Patterns with JAVA/Structural",
+    "English Presentation.md",
+    "aroad.md",
+    "English Presentation.zip",
+    "English Presentation.txt",
+    "ChatGPT Image Apr 7, 2026, 09_27_36 PM.png",
+    "spf-record-check-3674.jpg",
+    "Crafting_a_Remote_Work_Policy_That_Boosts_Productivity.png",
+    "remote.jpg",
+    "LARAVEL/7-API.md",
+    "LARAVEL/8-API-Fullpackage.md",
+    "LARAVEL/9-Eager vs Lazy Loading in laravel.md",
+    "LARAVEL/5-Gates and Policies.md",
+    "LARAVEL/3-Guards vs fillable.md",
+    "LARAVEL/6-Day5.md",
+    "LARAVEL/4-Gates_Day4.md",
+    "Spring Security/7-UserDetails Interface.md",
+    "Spring Security/6-Security Config Basics.md",
+    "Spring Security/5-CSRF TOKEN.md",
+    "Spring Security/4-CSRF.md",
+    "Spring Security/3-FILTERS.md",
+    "Spring Security/2-ITI Security.md",
+    "Pasted image 20260406211409.png",
+    "Spring Security/🧠 1-رحلة الـ Request داخل Spring MVC + Servlet Container1.md",
+    "Pasted image 20260406005919.png",
+    "Spring Security/user entity.md",
+    "Spring Security/road.md",
+    "Spring Security/gpt.md",
+    "Spring Security",
+    "Pasted image 20260402042510.png",
+    "Pasted image 20260402042444.png",
+    "Pasted image 20260402042417.png",
     "LARAVEL/3-DAY3",
-    "LARAVEL/Untitled.md",
-    "Pasted image 20260331122456.png",
-    "Pasted image 20260331122442.png",
-    "Spring Data jpa/10-Auditing.md",
-    "LARAVEL/1-DAY ONE TWO.md",
     "Untitled 2",
     "Untitled 1",
     "Spring-API",
-    "LARAVEL/1-DAY1.md",
-    "LARAVEL/2-DAY2 Migrations.md",
-    "LARAVEL/dd.md",
-    "PHP/Day3 OOP.md",
-    "LARAVEL",
-    "PHP/Day4 Files.md",
-    "PHP/Global vars in Day2.md",
-    "PHP/Day2 Lab.md",
-    "PHP/DAY1.md",
-    "Spring Data jpa/17-Global Exception Handling.md",
-    "Spring Data jpa/z-notes.md",
-    "Spring Data jpa/Z-ROADMAP.md",
-    "Spring Data jpa/zz.md",
-    "Spring Data jpa/15-Transactions.md",
-    "Final proj.md",
-    "Spring Data jpa/13-Example on Service Layer.md",
-    "Spring Data jpa/14-Note on Service.md",
-    "Design Patterns with JAVA",
-    "SOLID",
-    "Agile/Scrum",
-    "Sp_Builder Pattern",
-    "Spring Data jpa",
-    "Pasted image 20260320210123.png",
-    "Pasted image 20260314234307.png",
-    "Pasted image 20260314205515.png",
-    "Pasted image 20260314205805.png",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

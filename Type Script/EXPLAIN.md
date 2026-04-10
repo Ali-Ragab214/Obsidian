@@ -77,6 +77,7 @@ x = ["sd"]
 // تحديد النوع صراحةً ✅
 var fName: string = "Mohamed"
 // fName = true  ❌ Error!
+var adress:string = "shebin"
 
 var age: number = 20
 var flag: boolean = false
@@ -100,6 +101,12 @@ var isActive: boolean = true
 var age: number | string
 age = 20
 age = "Twenty"  // كلاهما مقبول ✅
+
+
+
+var name : string | bool  => union
+name = "cr7"
+name = true
 ```
 
 #### Type Alias — تسمية نوع مخصص
@@ -107,6 +114,10 @@ age = "Twenty"  // كلاهما مقبول ✅
 ```typescript
 type Status = "pending" | "rejected" | "approved"
 var orderStatus: Status = "pending"  // ✅
+
+
+type Status = "pending" | "rejected" | "approved"
+var orderstatus : Status = "pending"
 // orderStatus = "hello"  ❌ Error!
 ```
 
@@ -150,6 +161,14 @@ let names: string[] = ["Ahmed", "Sara"]
 
 // Array بأكتر من نوع
 let mixed: (number | string)[] = [9, "fg"]
+
+
+
+
+======array======
+let nums : number[] = [12,12,21]
+let names : string[] = ["ali","sara"]
+
 ```
 
 ---
@@ -280,6 +299,17 @@ class Person { //مختصر
         console.log("Hello " + this.name)
     }
 }
+
+class Person 
+{
+constructor(public name:string , private age :number)
+{}
+
+greet()
+{
+}
+}
+
 
 let p1 = new Person("Sara", 22)
 p1.greet()    // ✅
@@ -440,6 +470,11 @@ let students: IStudent[] = [
     { name: "Ahmed", grade: 99 },
     { name: "Sara", grade: 85 },
     { name: "Mohamed", grade: 91 },
+]
+
+let students : IStudent[] = 
+[
+{},{},{}
 ]
 ```
 

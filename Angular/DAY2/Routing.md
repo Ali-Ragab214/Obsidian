@@ -58,6 +58,7 @@ import { Navbar } from './Components/navbar/navbar';
 
 export const routes: Routes = [
 
+    {path:"",redirectTo:"home",pathMatch:"full"}, عشان لما ميكونش في حاجه يوديك عالهوم 
   { path: '', component: Navbar },
 
   { path: 'cards', component: Cards },
@@ -126,6 +127,8 @@ CardsComponent
 
 ```
 ng new project-name --routing
+
+ng new ecommerce
 ```
 
 Angular سينشئ ملف:
@@ -134,14 +137,10 @@ Angular سينشئ ملف:
 app-routing.module.ts
 ```
 
-
-
-
-```
-
-```
-
 ---
+
+
+
 
 # 5️⃣ Router Outlet
 

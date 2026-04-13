@@ -1,92 +1,243 @@
-
-
----
-
-
-## 🟣 Slide 1
-
-### **Title: The Hidden Challenges of Remote Work**
->- Remote work is one of the biggest workplace shifts in history it  grew rapidly after COVID-19 
->"Alaa gave us the intro, Robaa showed us the benefits…"_… but remote work isn't perfect
-  It changed how millions of people live and work
-- But new challenges appeared for employees and companies  
-- ![[Crafting_a_Remote_Work_Policy_That_Boosts_Productivity.png]]
-
-
+تمام، ده ترتيب مناسب وواضح تقدر تقوله في برزنتيشن بشكل احترافي 👇  
+(كل نقطة بالإنجليزي وتحتها الترجمة بالعربي)
 
 ---
 
-## 🟣 Slide 2 — Mental Health & Isolation
+## **1. Introduction**
 
-### **Title: Isolation & Mental Health**
+### **Positive Effects of Social Media**
 
-#1️⃣ Loneliness increase :  > Many remote workers report feeling more lonely because they spend most of their day working alone.
-#2️⃣ Lack of social interaction : > Offices used to provide daily social interaction like casual conversations and team bonding, which are now missing.
-#3️⃣ Zoom fatigue : > Continuous online meetings cause what we call “Zoom fatigue”, which makes people mentally exhausted.
-  and we will put a picture here  ![[remote.jpg]]
-> "Working from home removes the daily human connection."
+**التأثيرات الإيجابية لوسائل التواصل الاجتماعي**
 
----
-
-## 🟣 Slide 3 — Productivity Debate ⚖️
-
-### **Title: Is Remote Work Really More Productive?**
-
-> Studies about remote work productivity are divided. Some show productivity increases, while others show it decreases. 
->   ✅ Pros
-
-- No commuting saves time and energy : > First, remote workers save commuting time, which gives them more energy and time to work.
-- Flexible working hours : > Flexible schedules allow employees to work during their most productive hours.
-- Better focus for some employees
-
-### ❌ Cons
-
-- Home distractions : > However, working from home also brings distractions like family, noise, and social media. واعرض الفيديو هنقول this is  the biggest challenge 
-فيديو كوميدي وندخل عال challenges 
-- Harder team collaboration
-- Difficult to monitor performance 
-  **So the truth is: remote work is productive for some people, but not for everyone.**
+Social media plays a significant role in our daily lives, offering opportunities for connection, awareness, and support.  
+تلعب وسائل التواصل الاجتماعي دورًا مهمًا في حياتنا اليومية، حيث توفر فرصًا للتواصل، وزيادة الوعي، والدعم.
 
 ---
 
-## 🟣 Slide 4 — Security & Communication Problems
-
-### **Title: Security & Communication Challenges**
-
-> Remote work creates new security and communication challenges for companies.
-- Higher cybersecurity risks : > Companies worry more about cybersecurity because employees work from different locations and devices.
-- Data leaks from home networks : > Home Wi-Fi networks are often less secure than office networks. 
-- Time zone differences  : > Global teams often work in different time zones, making communication slower. 
-- Increased miscommunication : > Text messages can easily be misunderstood without tone and body language.
- ![[spf-record-check-3674.jpg]]
----
-
-## 🟣 Slide 5 — Companies Strategies
- 
-## **How Companies Respond**
-> Because of these challenges, companies started choosing different work strategies.
-
-### 🌍 Remote-First 
-**Some companies rely completely on remote work: 
-- Spotify
-- Dropbox
-
-### 🏢 Office-First
-> Other companies asked employees to return to the office to improve collaboration and control like : 
-
-- Goldman Sachs
-- Disney
-
-### 🔄 Hybrid Work
-> Many companies chose a hybrid model that mixes remote and office work like : 
-
-- Google
-- Adobe
-
- **“There is no single solution. Each company chooses what fits its culture.”**
-> _“Now let’s talk about the future of remote work.”_ 🔥
-
-![[ChatGPT Image Apr 7, 2026, 09_27_36 PM.png]]
+تمام 👌 هظبطهولك كأنك هتقدمه **step by step** + **ترجمة تحت كل جزء** بحيث تمشي عليه بسهولة جدًا 👇 
 
 ---
 
+## 🎤 **1. Introduction (الدخلة)**
+
+**English:**  
+Good morning everyone, today I’m going to talk about the positive effects of social media in our daily life. 
+
+**العربي:**  
+صباح الخير جميعًا، النهاردة هتكلم عن التأثيرات الإيجابية لوسائل التواصل الاجتماعي في حياتنا اليومية. 
+
+---
+
+**English:**  no doubt
+As we all know, social media is a big part of our lives, and it has many benefits that we sometimes don’t notice.
+
+**العربي:**  
+زي ما كلنا عارفين، السوشيال ميديا بقت جزء كبير من حياتنا، وليها فوائد كتير ممكن أحيانًا مش بنلاحظها.
+
+---
+
+## 🎤 **2. Transition (الدخول على أول سلايد)**
+
+**English:**  
+So, let’s start by talking about some of the key benefits of social media.
+
+**العربي:**  
+خلينا نبدأ ونتكلم عن أهم فوائد وسائل التواصل الاجتماعي.
+
+---
+
+## 🎤 **3. Slide 1 Explanation**
+
+### **English:**
+
+First, social media helps in global connectivity.
+
+**العربي:**  
+أول حاجة، السوشيال ميديا بتساعد في التواصل العالمي.
+
+---
+
+**English:**  
+It allows us to stay connected with friends and family, and even meet new people from different cultures.
+
+**العربي:**  
+بتخلينا نفضل على تواصل مع أصحابنا وعيلتنا، وكمان نتعرف على ناس جديدة من ثقافات مختلفة.
+
+---
+
+### **English:**
+
+Second, it helps in building meaningful relationships.
+
+**العربي:**  
+ثاني حاجة، بتساعد في بناء علاقات حقيقية ومؤثرة.
+
+---
+
+**English:**  
+We can share our thoughts, experiences, and support each other.
+
+**العربي:**  
+نقدر نشارك أفكارنا وتجاربنا وندعم بعض.
+
+---
+
+### **English:**
+
+Also, social media plays a big role in social activism and awareness.
+
+**العربي:**  
+كمان، السوشيال ميديا ليها دور كبير في التوعية والنشاط المجتمعي.
+
+---
+
+**English:**  
+People can raise awareness about important issues and support causes that matter.
+
+**العربي:**  
+الناس تقدر تنشر الوعي عن قضايا مهمة وتدعم حاجات ليها قيمة.
+
+---
+
+### **English:**
+
+Finally, it helps in professional networking.
+
+**العربي:**  
+وأخيرًا، بتساعد في التواصل المهني.
+
+---
+
+**English:**  
+People can find job opportunities, learn new skills, and connect with professionals.
+
+**العربي:**  
+الناس تقدر تلاقي شغل، تتعلم مهارات جديدة، وتتواصل مع محترفين في مجالهم.
+
+---
+
+## 🎤 **4. Transition (الانتقال للسلايد التاني)**
+
+**English:**  
+Now, let’s move to another important positive effect of social media.
+
+**العربي:**  
+دلوقتي خلينا ننتقل لتأثير إيجابي مهم تاني.
+
+---
+
+## 🎤 **5. Slide 2 Explanation (Mental Health)**
+
+### **English:**
+
+Social media also plays an important role in mental health support.
+
+**العربي:**  
+السوشيال ميديا كمان ليها دور مهم في دعم الصحة النفسية.
+
+---
+
+### **English:**
+
+First, it encourages open conversations.
+
+**العربي:**  
+أول حاجة، بتشجع الناس تتكلم بصراحة.
+
+---
+
+**English:**  
+People feel more comfortable sharing their feelings like stress and anxiety.
+
+**العربي:**  
+الناس بقت مرتاحة أكتر تتكلم عن مشاعرها زي التوتر والقلق.
+
+---
+
+### **English:**
+
+It also helps reduce stigma around mental health.
+
+**العربي:**  
+كمان بتقلل الوصمة المرتبطة بالصحة النفسية.
+
+---
+
+**English:**  
+People are less afraid to ask for help.
+
+**العربي:**  
+الناس بقت أقل خوفًا إنها تطلب المساعدة.
+
+---
+
+### **English:**
+
+In addition, it provides access to helpful resources.
+
+**العربي:**  
+وكمان بتوفر الوصول لمصادر مفيدة.
+
+---
+
+**English:**  
+Like advice, support groups, and mental health content.
+
+**العربي:**  
+زي النصايح، مجموعات الدعم، ومحتوى عن الصحة النفسية.
+
+---
+
+### **English:**
+
+Most importantly, it helps people feel less alone.
+
+**العربي:**  
+وأهم حاجة، بتخلي الناس تحس إنها مش لوحدها.
+
+---
+
+**English:**  
+Because they can connect with others who have similar experiences.
+
+**العربي:**  
+لأنهم بيلاقوا ناس بتمر بنفس التجارب.
+
+---
+
+## 🎤 **6. Conclusion (الخاتمة)**
+
+**English:**  
+In conclusion, social media has many positive effects if we use it in the right way.
+
+**العربي:**  
+في النهاية، السوشيال ميديا ليها تأثيرات إيجابية كتير لو استخدمناها بشكل صح.
+
+---
+
+**English:**  
+It helps us connect, learn, and support each other.
+
+**العربي:**  
+بتساعدنا نتواصل ونتعلم وندعم بعض.
+
+---
+
+**English:**  
+Thank you for listening.
+
+**العربي:**  
+شكرًا ليكم على الاستماع.
+
+---
+
+💡 **نصيحة مهمة:**
+
+- حاول تبص للجمهور مش الورق
+    
+- خليك طبيعي كأنك بتحكي
+    
+- خد pause صغيرة بين كل جزء
+    
+
+لو عايز أديك **نسخة مختصرة تحفظها بسرعة** أو أعملك **أسلوب delivery احترافي** قولّي 👍

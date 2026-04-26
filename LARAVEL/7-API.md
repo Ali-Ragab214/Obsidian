@@ -84,6 +84,7 @@ routes/api.php
 
 ```bash
 php artisan make:model Product -m
+php artisn make:model Name -m
 ```
 
 Laravel لديه User جاهز.

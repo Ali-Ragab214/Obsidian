@@ -16,6 +16,7 @@
 ```
 PHP Migration File  →  php artisan migrate  →  MySQL Table
 ```
+php artisan migrate 
 
 ---
 

@@ -12,7 +12,7 @@ TypeScript = JavaScript + Rules + Safety
 ```
 
 - صدر سنة **2012** من **Microsoft**
-- بيتكتب الكود في `.ts` وبيتحوّل (Compile) لـ `.js`
+- بيتكتب الكود في `.ts` وبيتحوّل (Compile) لـ `.js`  
 - الـ `.js` هو اللي بيشتغل في الـ HTML
 
 ### المراحل التاريخية

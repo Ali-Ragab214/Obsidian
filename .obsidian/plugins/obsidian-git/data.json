@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "Update Notes",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "commit",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
@@ -23,7 +23,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": false,
+  "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,

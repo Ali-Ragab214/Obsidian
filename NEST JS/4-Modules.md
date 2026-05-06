@@ -72,6 +72,7 @@ Nest يبدأ من هنا ويبني باقي التطبيق.
 ---
 
 # 🧩 Module Decorator Anatomy
+must take its decorator 
 
 ```ts
 @Module({
@@ -113,7 +114,7 @@ export class UsersModule {}
 
 ---
 
-# 3️⃣ imports
+# 3️⃣ imports مهم جدا 
 
 لو محتاج Providers من Module تاني.
 

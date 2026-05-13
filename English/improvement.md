@@ -173,4 +173,69 @@
 
 ---
 
-💡 **نصيحة:** حاول تستخدم كل كلمة في محادثة حقيقية أو تكتبها في جملة من عندك عشان تترسّخ أكتر!
+| #   | Word            | Sentence                                                                | الترجمة                   |
+| --- | --------------- | ----------------------------------------------------------------------- | ------------------------- |
+| 1   | **Allocate**    | We need to allocate more resources to the backend team this sprint.     | تخصيص / توزيع الموارد     |
+| 2   | **Escalate**    | If the bug is critical, escalate it to the senior engineer immediately. | تصعيد / رفع الأمر         |
+| 3   | **Optimize**    | We need to optimize the database queries to improve response time.      | تحسين / ضبط الأداء        |
+| 4   | **Integrate**   | We decided to integrate a third-party payment gateway into the system.  | دمج / ربط                 |
+| 5   | **Milestone**   | Launching the beta version is a key milestone for the team.             | محطة مهمة / إنجاز         |
+| 6   | **Robust**      | The new API is more robust and handles edge cases properly.             | متين / قوي                |
+| 7   | **Refactor**    | We decided to refactor the codebase before adding new features.         | إعادة هيكلة الكود         |
+| 8   | **Prioritize**  | We need to prioritize the critical bugs before the next release.        | ترتيب الأولويات           |
+| 9   | **Stakeholder** | The stakeholders approved the new product roadmap yesterday.            | أصحاب المصلحة             |
+| 10  | **Capacity**    | The team is at full capacity and can't take on new tasks right now.     | الطاقة الاستيعابية        |
+| 11  | **Iterate**     | We iterate quickly based on user feedback every two weeks.              | التكرار والتطوير التدريجي |
+| 12  | **Compliance**  | The system must be in full compliance with GDPR regulations.            | الامتثال للوائح           |
+| 13  | **Deprecate**   | We plan to deprecate the old API by end of Q3.                          | إيقاف الدعم تدريجياً      |
+| 14  | **Onboard**     | It takes about two weeks to onboard a new developer properly.           | دمج / تأهيل موظف جديد     |
+| 15  | **Overhead**    | Adding too many abstractions increases the overhead significantly.      | التكلفة الإضافية / العبء  |
+
+
+| #   | Word               | Type      | Sentence                                                                        | الترجمة                                                                                         |
+| --- | ------------------ | --------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 1   | **Procrastinate**  | verb      | Many developers procrastinate on writing documentation until the last minute.   | يُسوّف — كتير من المطورين بيسوّفوا كتابة الـ documentation لآخر لحظة.                           |
+| 2   | **Redundancy**     | noun      | Adding redundancy to the system ensures it stays online during failures.        | التكرار الاحتياطي — إضافة نسخ احتياطية بتضمن إن النظام يفضل شغال وقت الأعطال.                   |
+| 3   | **Throughput**     | noun      | The system's throughput dropped significantly under heavy load.                 | معدل الإنتاجية — معدل أداء النظام انخفض بشكل كبير تحت الضغط العالي.                             |
+| 4   | **Negotiate**      | verb      | You should negotiate your salary before signing the contract.                   | يتفاوض — لازم تتفاوض على مرتبك قبل ما توقع العقد.                                               |
+| 5   | **Concurrency**    | noun      | Handling concurrency correctly prevents data corruption in multi-threaded apps. | التزامن — التعامل الصح مع التزامن بيمنع تلف البيانات في التطبيقات متعددة الـ threads.           |
+| 6   | **Turnover**       | noun      | High employee turnover is a sign of poor management or low satisfaction.        | معدل دوران الموظفين — ارتفاع معدل دوران الموظفين علامة على إدارة ضعيفة أو رضا منخفض.            |
+| 7   | **Inject**         | verb      | The framework uses dependency injection to make the code more testable.         | يحقن / يُدخل — الـ framework بيستخدم الـ dependency injection عشان يخلي الكود أسهل في الاختبار. |
+| 8   | **Workload**       | noun      | The team is struggling to manage their workload during the sprint.              | عبء العمل — الفريق بيتعب في إدارة عبء الشغل أثناء الـ sprint.                                   |
+| 9   | **Encryption**     | noun      | All sensitive user data must be stored with strong encryption.                  | التشفير — كل بيانات المستخدم الحساسة لازم تُخزَّن بتشفير قوي.                                   |
+| 10  | **Microservices**  | noun      | The app was rebuilt using microservices to improve scalability.                 | الخدمات المصغرة — التطبيق اتعمل من الأول باستخدام microservices لتحسين قابلية التوسع.           |
+| 11  | **Deadlock**       | noun      | A deadlock occurred when two threads were waiting on each other indefinitely.   | الجمود / الـ deadlock — حصل deadlock لما threadين كانوا كل واحد بيستنى التاني للأبد.            |
+| 12  | **Accountability** | noun      | Every team member must take accountability for the tasks they own.              | المسؤولية — كل عضو في الفريق لازم ياخد مسؤولية المهام بتاعته.                                   |
+| 13  | **Rollback**       | noun/verb | The deployment failed so the team had to rollback to the previous version.      | التراجع — الـ deployment فشل فالفريق اضطر يرجع للإصدار السابق.                                  |
+| 14  | **Overhaul**       | noun/verb | The legacy system needs a complete overhaul to meet modern standards.           | إعادة هيكلة كاملة — النظام القديم محتاج إعادة هيكلة كاملة عشان يلبي المعايير الحديثة.           |
+| 15  | **Liaise**         | verb      | The developer needs to liaise with the design team before implementing changes. | يتواصل / ينسّق — المطور محتاج ينسّق مع فريق الديزاين قبل ما ينفّذ أي تغييرات.                   |
+
+
+
+
+
+
+---
+---
+---
+---
+
+|#|Word|Meaning|Arabic|Example|
+|---|---|---|---|---|
+|1|**Procurement**|buying goods/services for a company|الشراء / التوريد|_The procurement team handles all supplier contracts._|
+|2|**Onboarding**|process of integrating a new employee|تأهيل الموظف الجديد|_The onboarding process takes two weeks._|
+|3|**Deadline**|the final time to complete a task|الموعد النهائي|_We must meet the deadline or lose the client._|
+|4|**Encryption**|converting data into a secure code|التشفير|_All passwords are protected by encryption._|
+|5|**Delegation**|assigning tasks to others|تفويض المهام|_Good delegation improves team efficiency._|
+|6|**Turnover**|rate of employees leaving a company|معدل دوران الموظفين|_High turnover is costly for any business._|
+|7|**Firewall**|a security system that blocks threats|جدار الحماية|_The firewall blocked the suspicious traffic._|
+|8|**Stakeholder**|anyone with interest in a project|صاحب المصلحة|_We must update all stakeholders on progress._|
+|9|**Automation**|using machines to do tasks automatically|الأتمتة / التشغيل الآلي|_Automation reduced manual errors by 80%._|
+|10|**Troubleshoot**|to identify and fix problems|تشخيص وحل المشكلات|_Can you troubleshoot the network issue?_|
+|11|**Agile**|flexible, fast-adapting work method|منهجية العمل المرنة|_Our team follows an agile methodology._|
+|12|**Deploy**|to launch or release software/staff|نشر / إطلاق|_We'll deploy the update on Friday._|
+|13|**Redundant**|unnecessary or dismissed from a job|زائد عن الحاجة / مُستغنى عنه|_The new system made that role redundant._|
+|14|**Bandwidth**|capacity to handle work/data|سعة معالجة البيانات / الطاقة الاستيعابية|_I don't have the bandwidth for more tasks._|
+|15|**Disruptive**|causing major change to an industry|مُحدث لتغيير جذري|_AI is a disruptive technology._|
+
+عايز quiz أو flashcards على الكلمات دي؟ 😊

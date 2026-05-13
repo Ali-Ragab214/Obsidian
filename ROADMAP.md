@@ -9,10 +9,10 @@
 - [x] `IoC Container`
 - [x] `Dependency Injection`
 - [x] `Application Context`
-- [ ] `Bean Lifecycle`
-- [ ] `Spring Configuration`
-- [ ] `Bean Scopes`
-- [ ] `AOP — Aspect Oriented Programming`
+- [x] `Bean Lifecycle`
+- [x] `Spring Configuration`
+- [x] `Bean Scopes`
+- [x] `AOP — Aspect Oriented Programming`
 
 ### 🟡 Priority 2 — مع Spring Boot
 

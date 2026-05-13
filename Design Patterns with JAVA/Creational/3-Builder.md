@@ -1,5 +1,3 @@
- حلو 👌 وصلنا لثالث أهم Creational Pattern  
-خلينا نشرح **Builder Pattern** بطريقة بسيطة جداً وبمثال واضح.
 
 ---
 
@@ -193,7 +191,7 @@ public class User {
 
 ---
 
-## 5️⃣ أهم خطوة: build()
+## 5️⃣ أهم خطوة: build()2
 
 ```java
         public User build() {
@@ -436,6 +434,7 @@ CreateUserRequest req = CreateUserRequest.builder()
         .email("ali@mail.com")
         .phone("010000")
         .build();
+        
 ```
 
 ---

@@ -1,7 +1,7 @@
 problem? : البروجكت شغال علي جهاز والتاني لا لاسباب مثلا زي وليكن عندك node:20.0 
 فلو وديت البروجكت علي ماشيين تانيه هتحتاج  same versions للداتا بيزس وكل حاجه 
 
-docker put all of that in #Container =>
+docker put all of that in # Container =>
 the app, dependencies ,runtime ,environment 
 all of that packed on container  
 دا اللي بنشيره عالاجهزه التانيه 

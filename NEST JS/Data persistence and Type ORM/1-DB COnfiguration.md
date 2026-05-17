@@ -682,7 +682,3 @@ SELECT * FROM users;
 6. ✅ **Scripts في package.json** ← للتحكم بـ Migrations
 
 ---
-
-**الآن أنت جاهز! شغّل التطبيق وشوف الجداول تظهر في PostgreSQL! 🎉**You've used 82% of your weekly rate limit. Your weekly rate limit will reset on May 18 at 3:00 AM. [Learn More](https://aka.ms/github-copilot-rate-limit-error)
-
-Similar code found with 2 license types

@@ -374,5 +374,28 @@ Queue (BullMQ)
         
 
 ---
+# Degradation Point
+باختصار:
 
-لو حابب نعمل مثال عملي على Nest ازاي نقيس response time ونعمل caching و queue… ده هيبقى تطبيق جامد جداً 🔥
+**Degradation point** = النقطة اللي لما النظام يوصلها، يبدأ **الأداء يتراجع بشكل ملحوظ**.
+
+---
+
+مثلاً عندك API بيشتغل تمام مع 1000 request/sec، لما يوصل 5000 يبدأ الـ response time يتأخر، والـ errors تزيد — دي هي الـ degradation point.
+
+---
+
+**بيحصل عشان:**
+
+- الـ CPU أو Memory وصل للـ limit
+- الـ Database connections اتخنقت
+- الـ Thread pool اتملى
+- الـ Cache miss rate زادت
+
+---
+
+**في Spring Boot مثلاً** — لو الـ HikariCP connection pool عنده 10 connections وجالك 50 request في نفس الوقت، هتلاقي الـ requests الباقية بتستنى → ده degradation.
+
+---
+
+ببساطة: هو الـ **breaking point** بس قبل ما النظام يـ crash كامل — بيكون لسه شغال بسببطء أو بـ errors جزئية.

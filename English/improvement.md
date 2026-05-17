@@ -238,4 +238,24 @@
 |14|**Bandwidth**|capacity to handle work/data|سعة معالجة البيانات / الطاقة الاستيعابية|_I don't have the bandwidth for more tasks._|
 |15|**Disruptive**|causing major change to an industry|مُحدث لتغيير جذري|_AI is a disruptive technology._|
 
-عايز quiz أو flashcards على الكلمات دي؟ 😊
+| #   | Word               | المعنى                | الجملة                                                            | الترجمة                                       |
+| --- | ------------------ | --------------------- | ----------------------------------------------------------------- | --------------------------------------------- |
+| 1   | **Contemplate**    | يتأمل / يفكر بعمق     | She sat quietly to **contemplate** her next move.                 | هي قعدت بهدوء تتأمل خطوتها الجاية.            |
+| 2   | **Endeavour**      | يسعى / يبذل جهد       | He will **endeavour** to finish the project on time.              | هو هيسعى يخلص المشروع في الوقت.               |
+| 3   | **Profound**       | عميق / بالغ الأثر     | The book had a **profound** impact on my thinking.                | الكتاب كان له تأثير عميق على تفكيري.          |
+| 4   | **Elaborate**      | مفصّل / معقد          | He gave an **elaborate** explanation that covered every detail.   | هو دي شرح مفصّل غطى كل التفاصيل.              |
+| 5   | **Perceive**       | يدرك / يرى            | How you **perceive** a problem affects how you solve it.          | إزاي بتشوف المشكلة بيأثر على إزاي بتحلها.     |
+| 6   | **Substantial**    | كبير / ذو قيمة        | There is a **substantial** difference between the two approaches. | فيه فرق كبير بين الأسلوبين.                   |
+| 7   | **Undermine**      | يضعف / يقوّض          | Lack of sleep can **undermine** your performance at work.         | قلة النوم ممكن تضعف أداءك في الشغل.           |
+| 8   | **Acknowledge**    | يعترف / يُقر          | He **acknowledged** his mistake and apologized.                   | هو اعترف بغلطته واعتذر.                       |
+| 9   | **Simultaneously** | في نفس الوقت          | She was talking on the phone and typing **simultaneously**.       | كانت بتتكلم في التليفون وبتكتب في نفس الوقت.  |
+| 10  | **Criteria**       | معايير                | What are the **criteria** for selecting the best candidate?       | إيه المعايير اللي بيتم بيها اختيار أفضل مرشح؟ |
+| 11  | **Consequently**   | وبالتالي / نتيجة لذلك | He didn't study. **Consequently**, he failed the exam.            | هو ماذاكرش. وبالتالي، رسب في الامتحان.        |
+| 12  | **Contradict**     | يتناقض / يعارض        | Your actions **contradict** your words.                           | أفعالك بتتناقض مع كلامك.                      |
+| 13  | **Diverse**        | متنوع                 | The team has **diverse** skills and backgrounds.                  | الفريق عنده مهارات وخلفيات متنوعة.            |
+| 14  | **Persist**        | يستمر / يصر           | If you **persist**, you will eventually succeed.                  | لو اصريت، هتنجح في الآخر.                     |
+| 15  | **Deteriorate**    | يتدهور / يسوء         | His health began to **deteriorate** after the surgery.            | صحته بدأت تتدهور بعد العملية.                 |
+|     |                    |                       |                                                                   |                                               |
+| #   | Word               | المعنى                | الجملة                                                            | الترجمة                                       |
+| 16  | **Suppress**       | يكبت / يقمع           | He tried to **suppress** his anger during the meeting.            | هو حاول يكبت غضبه خلال الاجتماع.              |
+| 17  | **Eloquent**       | فصيح / معبّر          | She gave an **eloquent** speech that moved everyone.              | هي ألقت خطاب معبّر حرك الجميع.                |

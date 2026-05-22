@@ -1,7 +1,7 @@
 تمام 👌 هشرح لك **Strategy Pattern** من الصفر وبشكل عملي، وبعدها نطبّق على المثال اللي في الصورة سطر بسطر.
 
 ---
-
+![[Pasted image 20260520001353.png]]
 # 🔹 أولًا: يعني إيه Strategy Pattern؟
 
 الـ **Strategy Pattern** هو واحد من **Design Patterns** (أنماط التصميم)، وهدفه:

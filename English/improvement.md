@@ -220,23 +220,23 @@
 ---
 ---
 
-|#|Word|Meaning|Arabic|Example|
-|---|---|---|---|---|
-|1|**Procurement**|buying goods/services for a company|الشراء / التوريد|_The procurement team handles all supplier contracts._|
-|2|**Onboarding**|process of integrating a new employee|تأهيل الموظف الجديد|_The onboarding process takes two weeks._|
-|3|**Deadline**|the final time to complete a task|الموعد النهائي|_We must meet the deadline or lose the client._|
-|4|**Encryption**|converting data into a secure code|التشفير|_All passwords are protected by encryption._|
-|5|**Delegation**|assigning tasks to others|تفويض المهام|_Good delegation improves team efficiency._|
-|6|**Turnover**|rate of employees leaving a company|معدل دوران الموظفين|_High turnover is costly for any business._|
-|7|**Firewall**|a security system that blocks threats|جدار الحماية|_The firewall blocked the suspicious traffic._|
-|8|**Stakeholder**|anyone with interest in a project|صاحب المصلحة|_We must update all stakeholders on progress._|
-|9|**Automation**|using machines to do tasks automatically|الأتمتة / التشغيل الآلي|_Automation reduced manual errors by 80%._|
-|10|**Troubleshoot**|to identify and fix problems|تشخيص وحل المشكلات|_Can you troubleshoot the network issue?_|
-|11|**Agile**|flexible, fast-adapting work method|منهجية العمل المرنة|_Our team follows an agile methodology._|
-|12|**Deploy**|to launch or release software/staff|نشر / إطلاق|_We'll deploy the update on Friday._|
-|13|**Redundant**|unnecessary or dismissed from a job|زائد عن الحاجة / مُستغنى عنه|_The new system made that role redundant._|
-|14|**Bandwidth**|capacity to handle work/data|سعة معالجة البيانات / الطاقة الاستيعابية|_I don't have the bandwidth for more tasks._|
-|15|**Disruptive**|causing major change to an industry|مُحدث لتغيير جذري|_AI is a disruptive technology._|
+| #   | Word             | Meaning                                  | Arabic                                   | Example                                                |
+| --- | ---------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------------------------ |
+| 1   | **Procurement**  | buying goods/services for a company      | الشراء / التوريد                         | _The procurement team handles all supplier contracts._ |
+| 2   | **Onboarding**   | process of integrating a new employee    | تأهيل الموظف الجديد                      | _The onboarding process takes two weeks._              |
+| 3   | **Deadline**     | the final time to complete a task        | الموعد النهائي                           | _We must meet the deadline or lose the client._        |
+| 4   | **Encryption**   | converting data into a secure code       | التشفير                                  | _All passwords are protected by encryption._           |
+| 5   | **Delegation**   | assigning tasks to others                | تفويض المهام                             | _Good delegation improves team efficiency._            |
+| 6   | **Turnover**     | rate of employees leaving a company      | معدل دوران الموظفين                      | _High turnover is costly for any business._            |
+| 7   | **Firewall**     | a security system that blocks threats    | جدار الحماية                             | _The firewall blocked the suspicious traffic._         |
+| 8   | **Stakeholder**  | anyone with interest in a project        | صاحب المصلحة                             | _We must update all stakeholders on progress._         |
+| 9   | **Automation**   | using machines to do tasks automatically | الأتمتة / التشغيل الآلي                  | _Automation reduced manual errors by 80%._             |
+| 10  | **Troubleshoot** | to identify and fix problems             | تشخيص وحل المشكلات                       | _Can you troubleshoot the network issue?_              |
+| 11  | **Agile**        | flexible, fast-adapting work method      | منهجية العمل المرنة                      | _Our team follows an agile methodology._               |
+| 12  | **Deploy**       | to launch or release software/staff      | نشر / إطلاق                              | _We'll deploy the update on Friday._                   |
+| 13  | **Redundant**    | unnecessary or dismissed from a job      | زائد عن الحاجة / مُستغنى عنه             | _The new system made that role redundant._             |
+| 14  | **Bandwidth**    | capacity to handle work/data             | سعة معالجة البيانات / الطاقة الاستيعابية | _I don't have the bandwidth for more tasks._           |
+| 15  | **Disruptive**   | causing major change to an industry      | مُحدث لتغيير جذري                        | _AI is a disruptive technology._                       |
 
 | #   | Word               | المعنى                | الجملة                                                            | الترجمة                                       |
 | --- | ------------------ | --------------------- | ----------------------------------------------------------------- | --------------------------------------------- |

@@ -259,3 +259,43 @@
 | #   | Word               | المعنى                | الجملة                                                            | الترجمة                                       |
 | 16  | **Suppress**       | يكبت / يقمع           | He tried to **suppress** his anger during the meeting.            | هو حاول يكبت غضبه خلال الاجتماع.              |
 | 17  | **Eloquent**       | فصيح / معبّر          | She gave an **eloquent** speech that moved everyone.              | هي ألقت خطاب معبّر حرك الجميع.                |
+
+| Word              | الترجمة          | Example                                                            | ترجمة الجملة                                                    |     |     |     |
+| ----------------- | ---------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- | --- | --- | --- |
+| **Enhance**       | يُحسّن / يُطوّر  | _We need to enhance the application's performance._                | نحتاج إلى تحسين أداء التطبيق.                                   |     |     |     |
+| **Mitigate**      | يُخفف من         | _Regular backups help mitigate data loss risks._                   | النسخ الاحتياطية المنتظمة تساعد على تقليل مخاطر فقدان البيانات. |     |     |     |
+| **Assess**        | يُقيّم           | _The team assessed the project's feasibility before starting._     | قام الفريق بتقييم جدوى المشروع قبل البدء.                       |     |     |     |
+| **Facilitate**    | يُسهّل           | _Automation facilitates repetitive tasks._                         | الأتمتة تُسهّل المهام المتكررة.                                 |     |     |     |
+| **Implement**     | يُنفّذ / يُطبّق  | _We implemented a new authentication system._                      | قمنا بتنفيذ نظام مصادقة جديد.                                   |     |     |     |
+| **Maintain**      | يُحافظ على       | _It is important to maintain clean code._                          | من المهم الحفاظ على كود نظيف.                                   |     |     |     |
+| **Acquire**       | يكتسب / يحصل على | _She acquired valuable experience during the internship._          | اكتسبت خبرة قيّمة خلال فترة التدريب.                            |     |     |     |
+| **Enhancement**   | تحسين / تطوير    | _The latest enhancement improved system security._                 | أحدث تحسين أدى إلى رفع مستوى أمان النظام.                       |     |     |     |
+| **Constraint**    | قيد / عائق       | _Budget constraints delayed the project._                          | قيود الميزانية تسببت في تأخير المشروع.                          |     |     |     |
+| **Comprehensive** | شامل             | _The course provides a comprehensive overview of Spring Security._ | يقدم الكورس نظرة شاملة على Spring Security.                     |     |     |     |
+| **Anticipate**    | يتوقع            | _We anticipated an increase in user traffic._                      | توقعنا زيادة في عدد المستخدمين.                                 |     |     |     |
+| **Viable**        | قابل للتطبيق     | _This solution is technically viable._                             | هذا الحل قابل للتطبيق من الناحية التقنية.                       |     |     |     |
+| **Scrutinize**    | يفحص بدقة        | _The auditor scrutinized every financial record._                  | قام المدقق بفحص كل السجلات المالية بدقة.                        |     |     |     |
+| **Transparent**   | شفاف / واضح      | _The manager maintained transparent communication with the team._  | حافظ المدير على تواصل شفاف مع الفريق.                           |     |     |     |
+| **Prerequisite**  | متطلب أساسي      | _Java is a prerequisite for learning Spring Boot._                 | تعتبر Java متطلبًا أساسيًا لتعلم Spring Boot.                   |     |     |     |
+
+## ⭐ الكلمات الخمسة الأهم لمطور Backend
+
+|Word|جملة تقنية|
+|---|---|
+|**Mitigate**|_JWT helps mitigate unauthorized access risks._|
+|**Assess**|_We need to assess the system requirements first._|
+|**Facilitate**|_Docker facilitates application deployment._|
+|**Viable**|_Microservices are not always a viable solution._|
+|**Scrutinize**|_The developer scrutinized the logs to find the bug._|
+
+**ترجمة الجمل:**
+
+- JWT يساعد على تقليل مخاطر الوصول غير المصرح به.
+    
+- نحتاج أولًا إلى تقييم متطلبات النظام.
+    
+- Docker يسهّل عملية نشر التطبيقات.
+    
+- المايكروسيرفس ليست دائمًا حلًا مناسبًا.
+    
+- قام المطور بفحص السجلات (Logs) بدقة للعثور على الخطأ.

@@ -164,7 +164,7 @@ public ResponseEntity<?> create(@RequestBody AuthorRequest request) {
 📌:
 
 ```text
-409 CONFLICT
+409 CONFLICT يعني حاجه موجوده 
 ```
 
 ---
@@ -279,7 +279,7 @@ public ResponseEntity<?> create(@RequestBody AuthorRequest request) {
 ✅ استخدم:
 
 ```text
-Global Exception Handler (@ControllerAdvice)
+ؤ
 ```
 
 ---

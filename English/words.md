@@ -1,4 +1,4 @@
-```
+```ts
 1. Ambiguous
 2. Resilient
 3. Perceive

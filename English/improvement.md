@@ -299,3 +299,46 @@
 - المايكروسيرفس ليست دائمًا حلًا مناسبًا.
     
 - قام المطور بفحص السجلات (Logs) بدقة للعثور على الخطأ.
+
+
+
+|#|Word|المعنى|Example Sentence|ترجمة الجملة|
+|---|---|---|---|---|
+|1|**Adaptable**|قادر على التكيف|I am adaptable and can work in fast-changing environments.|أنا قادر على التكيف وأستطيع العمل في بيئات سريعة التغير.|
+|2|**Initiative**|مبادرة|Employers value people who show initiative.|يقدّر أصحاب العمل الأشخاص الذين يظهرون روح المبادرة.|
+|3|**Reliable**|يمكن الاعتماد عليه|My manager considers me a reliable team member.|يعتبرني مديري عضوًا يمكن الاعتماد عليه في الفريق.|
+|4|**Commitment**|التزام|Strong commitment is essential for long-term success.|الالتزام القوي ضروري للنجاح على المدى الطويل.|
+|5|**Adaptation**|التكيف|Adaptation to new technologies is important nowadays.|التكيف مع التقنيات الجديدة مهم هذه الأيام.|
+|6|**Persuade**|يقنع|She persuaded the client to accept our proposal.|أقنعت العميل بقبول عرضنا.|
+|7|**Dedication**|تفانٍ|His dedication helped him get promoted.|ساعده تفانيه في الحصول على ترقية.|
+|8|**Confident**|واثق|You should sound confident during interviews.|يجب أن تبدو واثقًا أثناء المقابلات.|
+|9|**Flexible**|مرن|I am flexible when priorities change.|أنا مرن عندما تتغير الأولويات.|
+|10|**Constructive**|بنّاء|Constructive feedback helps employees improve.|تساعد الملاحظات البنّاءة الموظفين على التحسن.|
+|11|**Accomplish**|ينجز|I accomplished several projects during my internship.|أنجزت عدة مشاريع أثناء فترة التدريب.|
+|12|**Motivated**|متحفز|I am highly motivated to learn new skills.|أنا متحفز جدًا لتعلم مهارات جديدة.|
+|13|**Resolve**|يحل|I resolved a critical issue before the deadline.|قمت بحل مشكلة حرجة قبل الموعد النهائي.|
+|14|**Influence**|يؤثر|Good leaders influence their teams positively.|يؤثر القادة الجيدون على فرقهم بشكل إيجابي.|
+|15|**Competent**|كفء|A competent engineer understands both theory and practice.|المهندس الكفء يفهم الجانبين النظري والعملي.|
+
+    أكيد، نستبدل الكلمات **8 و9 و12 و14** بكلمات أقوى وأكثر استخدامًا في الـ Interviews والعمل:
+
+|#|Word|المعنى|Example Sentence|ترجمة الجملة|
+|---|---|---|---|---|
+|8|**Assertive**|حازم وواثق دون عدوانية|An assertive employee can express ideas clearly and respectfully.|الموظف الحازم يستطيع التعبير عن أفكاره بوضوح واحترام.|
+|9|**Resourceful**|بارع في إيجاد الحلول واستغلال الموارد|She is resourceful and can solve problems with limited resources.|هي بارعة في إيجاد الحلول ويمكنها حل المشكلات بموارد محدودة.|
+|12|**Driven**|طموح ومندفع لتحقيق أهدافه|I am driven to continuously improve my technical skills.|أنا طموح وأسعى باستمرار لتحسين مهاراتي التقنية.|
+|14|**Credibility**|مصداقية|Building credibility with clients takes time and consistency.|بناء المصداقية مع العملاء يحتاج إلى وقت واستمرارية.|
+
+### مثال Interview طبيعي باستخدامهم:
+
+> I am a driven and resourceful backend developer. I communicate in an assertive manner and work hard to build credibility with both clients and team members.
+
+**الترجمة:**  
+أنا مطور Backend طموح وبارع في إيجاد الحلول. أتواصل بطريقة حازمة وأعمل بجد لبناء المصداقية مع العملاء وأعضاء الفريق.
+
+مثال إجابة Interview قوية:
+
+> "I am a reliable and adaptable backend developer. I take initiative when solving problems and remain committed to delivering high-quality solutions."
+
+**الترجمة:**  
+"أنا مطور Backend يمكن الاعتماد عليه وقادر على التكيف. أبادر عند حل المشكلات وأظل ملتزمًا بتقديم حلول عالية الجودة."

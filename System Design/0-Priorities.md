@@ -1,0 +1,10 @@
+- Load Balancer
+- Caching (Redis)
+- Database Indexing
+- SQL vs NoSQL
+- ACID Transactions
+- CAP Theorem
+- Replication & Sharding
+- Message Queues (Kafka/RabbitMQ)
+- Distributed Transactions & Saga
+- Microservices Patterns

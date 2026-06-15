@@ -470,3 +470,110 @@ skillhub
 - Login
 - Password Encoding
 - JWT
+skillhub
+│
+├── domain  [done]
+│   ├── models  [done]
+│   │   ├── BaseEntity  [done]
+│   │   ├── User  [done]
+│   │   ├── Course  [done]
+│   │   ├── Section  [done]
+│   │   ├── Lesson  [done]
+│   │   ├── Enrollment  [done]
+│   │   └── Review  [done]
+│   │
+│   └── enums  [done]
+│       ├── Role  [done]
+│       ├── CourseLevel  [done]
+│       └── CourseStatus  [done]
+│
+├── application
+│   ├── dto
+│   │   ├── request  [done/partial]
+│   │   │   ├── RegisterRequest  [done]
+│   │   │   ├── LoginRequest  [done]
+│   │   │   ├── CourseRequest  [done/partial]
+│   │   │   ├── SectionRequest  [done/partial]
+│   │   │   ├── LessonRequest  [done/partial]
+│   │   │   ├── EnrollmentRequest  [pending]
+│   │   │   └── ReviewRequest  [pending]
+│   │   │
+│   │   └── response  [done/partial]
+│   │       ├── AuthResponse  [done]
+│   │       ├── UserResponse  [done]
+│   │       ├── CourseResponse  [done/partial]
+│   │       ├── SectionResponse  [done/partial]
+│   │       ├── LessonResponse  [done/partial]
+│   │       ├── EnrollmentResponse  [pending]
+│   │       └── ReviewResponse  [pending]
+│   │
+│   ├── mapper  [done/partial]
+│   │   ├── UserMapper  [done]
+│   │   ├── CourseMapper  [done/partial]
+│   │   ├── SectionMapper  [done/partial]
+│   │   ├── LessonMapper  [done/partial]
+│   │   ├── EnrollmentMapper  [pending]
+│   │   └── ReviewMapper  [pending]
+│   │
+│   ├── services
+│   │   ├── auth  [done/partial]
+│   │   │   ├── AuthService  [done]
+│   │   │   └── AuthServiceImpl  [done]
+│   │   │
+│   │   ├── course  [pending]
+│   │   ├── content  [pending]
+│   │   ├── enrollment  [pending]
+│   │   └── review  [pending]
+│   │
+│   ├── security  [done]
+│   │   ├── JwtService  [done]
+│   │   ├── JwtFilter  [done]
+│   │   ├── CustomUserDetailsService  [done]
+│   │   └── SecurityConfig  [done]
+│   │
+│   ├── exceptions  [done]
+│   │   ├── GlobalExceptionHandler  [done]
+│   │   ├── ResourceNotFoundException  [done]
+│   │   ├── BadRequestException  [done]
+│   │   └── UnauthorizedException  [done]
+│   │
+│   └── responses  [done]
+│       └── ApiResponse  [done]
+│
+├── api
+│   └── controllers
+│       ├── AuthController  [done]
+│       ├── CourseController  [pending/partial]
+│       ├── SectionController  [pending]
+│       ├── LessonController  [pending]
+│       ├── EnrollmentController  [pending]
+│       └── ReviewController  [pending]
+│
+├── infrastructure
+│   ├── repository  [done/partial]
+│   │   ├── UserRepository  [done]
+│   │   ├── CourseRepository  [done]
+│   │   ├── SectionRepository  [done]
+│   │   ├── LessonRepository  [done]
+│   │   ├── EnrollmentRepository  [pending]
+│   │   └── ReviewRepository  [pending]
+│   │
+│   ├── config  [done/partial]
+│   │   ├── JpaConfig  [done]
+│   │   └── SwaggerConfig  [pending]
+│   │
+│   └── security  [done]
+│       ├── JwtServiceImpl  [done]
+│       └── JwtAuthFilter  [done]
+│
+├── shared
+│   ├── utils  [pending]
+│   │   └── SecurityUtils  [pending]
+│   └── constants  [pending]
+│       └── AppConstants  [pending]
+│
+└── resources
+    ├── application.properties  [done]
+    └── db
+        └── migration
+            └── V2__update_lessons_table.sql  [done]

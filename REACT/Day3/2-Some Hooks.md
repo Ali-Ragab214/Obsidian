@@ -275,6 +275,28 @@ export default function Products() {
 }
 ```
 
+
+
+```jsx 
+import {useSearchParams} from "react-router-dom"
+export default function Products()
+{
+  const [searchParams,setSearchParams] = useSearchParams();
+  return(
+  <>
+  div
+  Category:
+  {searchParams.get("category")}
+  /div
+  
+  <button onCLick={() -> setSearchParams= ("laptop")}
+  >
+  laptop
+  </button>
+  </>
+  );
+}
+```
 ---
 
 # 🧪 لو URL كان:

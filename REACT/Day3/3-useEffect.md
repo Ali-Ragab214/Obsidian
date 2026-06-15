@@ -602,3 +602,185 @@ Then useEffect runs
 6️⃣ useCallback
 
 ودي النقلة من beginner → professional React Dev 🔥
+
+
+```jsx
+useEffect(() => {
+
+    // الكود اللي هيتنفذ
+
+}, [dependencies]);
+
+
+```
+
+
+```
+يتكون من جزئين:
+
+```
+() => { ... }     (1)
+```
+
+الـ Effect نفسه.
+
+
+و
+
+```
+[]     (2)
+```
+
+Dependency Array.
+
+ودي أهم جزء.
+```
+
+
+# أول مثال
+
+```
+import { useEffect } from "react";
+function App() {  
+  useEffect(() => { 
+         console.log("Component Rendered"); 
+            });  
+              return <h1>Hello</h1>;
+              
+              }
+```
+
+لو ضغطت زر وغيرت State:
+
+هيطبع:
+
+```
+Component Rendered
+Component Rendered
+Component Rendered...
+```
+
+ليه؟
+
+لأنك ما حطتش Dependencies.
+
+يعني:
+
+> نفذ بعد كل Render.
+
+---
+
+# لحالة الأولى
+
+## بدون Dependency Array
+
+```
+useEffect(() => {    console.log("Effect");});
+```
+
+معناها:
+
+```
+بعد كل Render
+```
+
+---
+---
+# الحالة الثانية
+
+## Empty Dependency Array
+
+دي الأشهر.
+
+```
+useEffect(() => { 
+   console.log("Mounted");
+   }, []);
+```
+
+معناها:
+
+> نفذ مرة واحدة فقط.
+
+لما الـ Component يتعمله Mount.
+## يعني إيه Mount؟
+
+```
+Component ظهر على الشاشة لأول مرة
+```
+
+
+---
+------
+# الحالة الثالثة
+
+## Dependencies
+
+مثال:
+
+```
+useEffect(() => { 
+   console.log("Count changed");
+   }, [count]);
+```
+
+معناها:
+
+> نفذ عندما يتغير count.
+
+
+---
+# clean up function 
+من أهم الحاجات.
+
+شكلها:
+
+```
+useEffect(()=>{  
+  return ()=>{    };
+  },[]);
+```
+
+---
+
+# بتعمل إيه؟
+
+> بتنضف قبل إزالة الـ Component.
+
+أو قبل تشغيل الـ Effect مرة أخرى.
+
+
+ex 
+ ثال Timer
+
+```javascript
+useEffect(()=>{  
+  const id = setInterval(()=>{ 
+         console.log("Tick");  
+    },1000); 
+       return ()=>{ 
+              clearInterval(id); 
+   };},[]);
+```
+
+---
+
+لو ما عملتش Cleanup:
+
+```
+Memory Leak
+```
+
+والـ Timer يفضل شغال.
+
+
+----
+---
+---
+
+```java 
+useEffect(()=>
+{
+console.log("Ali");
+},[name,age])
+```

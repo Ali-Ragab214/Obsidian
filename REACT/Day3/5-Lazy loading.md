@@ -279,7 +279,19 @@ ErrorBoundary: module.ErrorBoundary,
 ```
 
 بس كدا 🎉
-
+```jsx
+{
+path:'/lazy',
+lazy:async ()=> {
+const module = await import('./pages/Dashboard.jsx');
+return {
+Component:module.component,
+loader:module.loader,
+ErrorBoundary:module.ErrorBoundary
+}
+}
+}
+```
 ---
 
 # 8️⃣ الفرق الجوهري بين loader و useEffect

@@ -259,3 +259,14 @@ LessonProgressService
 ---
 
 نبدأ بالـ `EnrollmentRepository` دلوقتي؟
+
+---
+---
+في الميثود `markLessonCompleted`:
+
+1. بعد ما تجيب الـ `courseId`، زود check إن الطالب enrolled في الكورس وإلا throw `BusinessException`
+    
+2. بعد ما تجيب الـ `progress`، زود idempotency check لو `isCompleted` بالفعل `true` يرجع `toResponse(progress)` على طول
+في الميثود `getCourseProgress`:
+
+3. بدل `findByStudentId` واستخدم `findByStudentIdAndLessonSectionCourseId(student.getId(), courseId)` عشان تجيب بس الـ lessons اللي في الكورس ده من الـ database مباشرةً بدل ما تجيب كل الـ progress وتعمل filter في الـ memory

@@ -34,3 +34,30 @@
 ---
 
 الـ roadmap بتاعك بيغطي معظم الأساسيات، بس ركز إن الـ System Design مش حفظ نظري، المهم إنك تعرف **تطبق وتبرر قراراتك** في الـ interviews.
+
+
+-----
+---
+rest 
+
+**Sharding:**
+
+- ما هو الـ Sharding وامتى تحتاجه
+- Horizontal vs Vertical Scaling الفرق
+- Sharding Strategies: Range, Hash, Directory-based
+- الـ Shard Key وازاي تختاره صح
+- مشكلة الـ Hot Spots
+- Cross-shard Queries والمشاكل بتاعتها
+- Resharding وامتى بيحصل
+
+---
+
+**المشاكل اللي لازم تعرفها:**
+
+- Replication Lag
+- Split Brain Problem
+- Data Consistency across shards
+
+---
+
+ده كافي جداً كـ backend engineer في الـ interviews.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/1.1-Explain in spring.md",
+                "file": "Redis/1.4@CacheEvict.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1-Explain in spring"
+              "title": "1.4@CacheEvict"
             }
           },
           {
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 258.5
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -208,8 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "574f9b7f675f6116",
+  "active": "a2fda2b07a28b7f2",
   "lastOpenFiles": [
+    "Redis/1.3-@CachePut.md",
+    "Redis/1.2-@Cacheable.md",
+    "Java Internals & funds & concepts/JVM Internals/2-Stack & Heap & String pool.md",
+    "Java Internals & funds & concepts/JVM Internals/2.1-Note on 2.md",
+    "Java Internals & funds & concepts/0-roadmap.md",
+    "Java Internals & funds & concepts/JVM Internals/1-JVM Architecture.md",
+    "System Design/z-REST.md",
+    "System Design/21-Replication Types, Lag , Data Consistency Across Shards.md",
+    "Redis/1.4@CacheEvict.md",
+    "Redis/1.1-Explain in spring.md",
+    "Redis/5-Prompt to claude to fix my proj.md",
     "Redis/0-defs.md",
     "Redis/1-Phase1.md",
     "Redis/4-with logic.md",
@@ -219,7 +230,6 @@
     "GEN AI/3-Ai Automation.md",
     "GEN AI/RAG.md",
     "GEN AI/Fine_Tunning.md",
-    "Redis/1.1-Explain in spring.md",
     "AI",
     "Redis/z-Caching strategy.md",
     "Type Script/EXPLAIN.md",
@@ -227,16 +237,6 @@
     "Type Script/2-refresh.md",
     "JAVA CORE☕/Generics in java/Methods.md",
     "JAVA CORE☕/Collections in java/collctions.md",
-    "JAVA CORE☕/1-Functional Programming.md",
-    "JAVA CORE☕/2-Interview sample questions.md",
-    "Java Internals & funds & concepts/JVM Internals/1-JVM Architecture.md",
-    "System Design/21-Replication Types, Lag , Data Consistency Across Shards.md",
-    "Spring Data jpa/16-Validation framework.md",
-    "Spring Data jpa/15-Transactions.md",
-    "Spring Data jpa/8-Custom Queries.md",
-    "Spring Data jpa/1-intro.md",
-    "System Design/20-Failover & Leader Election & split brain.md",
-    "System Design/19-Stale Read.md",
     "Pasted image 20260622033314.png",
     "Pasted image 20260622033305.png",
     "Pasted image 20260622032953.png",

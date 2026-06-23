@@ -65,6 +65,13 @@ public class Test {
         printValue(3.14);
     }
 }
+
+
+
+public static <T> void print(T v)
+{
+System.out.println(v);
+}
 ```
 
 ### الناتج:
@@ -92,6 +99,9 @@ Ali
 public static <T> T returnValue(T value) {
     return value;
 }
+
+public static <T> T returnValue(T v)
+return v; 
 ```
 
 الاستخدام:

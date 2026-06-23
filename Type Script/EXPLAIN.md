@@ -223,6 +223,7 @@ greet("Mohamed")     // Mohamed 0
 
 ```typescript
 function greet(name: string, age?: number) {
+  if(age) => we put condition to prevent any error
     console.log(name, age)
 }
 
@@ -275,6 +276,17 @@ function reverseArray<T>(arr: T[]): T[] {
 
 reverseArray([2, 3, 10, 20])            // number[]
 reverseArray(["Mohamed", "Ahmed"])       // string[]
+```
+
+```ts
+function gen<T> (v:T) : T => return v;
+```
+
+```java
+public static T <T> generic(T v)
+{
+return v ;
+}
 ```
 
 ```

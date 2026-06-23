@@ -11,12 +11,14 @@
             "id": "574f9b7f675f6116",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260621013036.png"
+                "file": "Redis/1.1-Explain in spring.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260621013036"
+              "icon": "lucide-file",
+              "title": "1.1-Explain in spring"
             }
           },
           {
@@ -100,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 397.5
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -116,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redis/z-Caching strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for z-Caching strategy"
             }
           },
           {
@@ -186,8 +189,7 @@
               "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,51 +210,52 @@
   },
   "active": "574f9b7f675f6116",
   "lastOpenFiles": [
-    "Pasted image 20260620192851.png",
-    "Pasted image 20260620130748.png",
-    "Pasted image 20260616192628.png",
-    "Java Internals & funds & concepts/0-roadmap.md",
-    "Java Internals & funds & concepts/JVM Internals/1-JVM Architecture.md",
-    "Type Script/2-refresh.md",
+    "Redis/0-defs.md",
+    "Redis/1-Phase1.md",
+    "Redis/4-with logic.md",
+    "AI/1-Phase 1(Token, Context window, Temperature, System,  User , Assistant Messages, ).md",
+    "AI/0.1-road map 2.md",
+    "AI/0-Road map.md",
+    "GEN AI/3-Ai Automation.md",
+    "GEN AI/RAG.md",
+    "GEN AI/Fine_Tunning.md",
+    "Redis/1.1-Explain in spring.md",
+    "AI",
+    "Redis/z-Caching strategy.md",
     "Type Script/EXPLAIN.md",
-    "Type Script/proj.md",
+    "Type Script/z-Again.md",
+    "Type Script/2-refresh.md",
+    "JAVA CORE☕/Generics in java/Methods.md",
+    "JAVA CORE☕/Collections in java/collctions.md",
+    "JAVA CORE☕/1-Functional Programming.md",
+    "JAVA CORE☕/2-Interview sample questions.md",
+    "Java Internals & funds & concepts/JVM Internals/1-JVM Architecture.md",
+    "System Design/21-Replication Types, Lag , Data Consistency Across Shards.md",
+    "Spring Data jpa/16-Validation framework.md",
+    "Spring Data jpa/15-Transactions.md",
+    "Spring Data jpa/8-Custom Queries.md",
+    "Spring Data jpa/1-intro.md",
+    "System Design/20-Failover & Leader Election & split brain.md",
+    "System Design/19-Stale Read.md",
+    "Pasted image 20260622033314.png",
+    "Pasted image 20260622033305.png",
+    "Pasted image 20260622032953.png",
+    "Pasted image 20260622032830.png",
+    "Pasted image 20260622032654.png",
+    "Pasted image 20260622032651.png",
+    "Pasted image 20260622032406.png",
+    "Pasted image 20260622031520.png",
+    "Pasted image 20260622031045.png",
+    "Pasted image 20260621013036.png",
     "Java Internals & funds & concepts/DB Related",
     "Java Internals & funds & concepts/Advanced Java",
     "Java Internals & funds & concepts/JVM Internals",
-    "System Design/19-Stale Read.md",
     "Java Internals & funds & concepts",
-    "JAVA CORE☕/Untitled 1.md",
-    "JAVA CORE☕/Untitled.md",
-    "System Design/21-Replication Types, Lag , Data Consistency Across Shards.md",
-    "System Design/20-Failover & Leader Election & split brain.md",
-    "System Design/z-REST.md",
-    "System Design/18-DB Reblication.md",
-    "Spring Core/IOC Container.md",
-    "Spring Core/Intro & tightly & loosely coupled.md",
-    "REACT/3-movieapp.md",
-    "REACT/z-project.md",
-    "System Design/1-Road Map.md",
-    "Pasted image 20260621013036.png",
-    "Courses_Platform_spring/0-Project Details.md",
-    "Courses_Platform_spring/zzz-REST.md",
-    "Courses_Platform_spring/NOTES/21.1 important.md",
-    "Courses_Platform_spring/NOTES/21-@Builder.default.md",
-    "Courses_Platform_spring/7-LessonProgress.md",
-    "Courses_Platform_spring/Untitled.md",
-    "Pasted image 20260620192827.png",
-    "Docker/8-practical with spring.md",
-    "Pasted image 20260620130106.png",
-    "Pasted image 20260620121007.png",
-    "Pasted image 20260620115431.png",
-    "Pasted image 20260620114947.png",
-    "Spring Boot/3-Convention Over Configuration.md",
     "WebSocket",
-    "Pasted image 20260617135346.png",
     "Redis",
     "Unit Testing",
     "Django",
     "NEXT js",
-    "Spring Security With-Amigos-Code",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

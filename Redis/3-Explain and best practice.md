@@ -4,6 +4,8 @@
 
 Redis is an **in-memory key-value data store**. It stores data in RAM instead of disk, which makes it extremely fast.
 
+-->redis is an in-memory caching
+
 Redis is commonly used for:
 
 - Caching

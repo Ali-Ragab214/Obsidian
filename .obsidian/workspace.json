@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "c7d5e27855d5cc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEST JS/FROM ITI/1.1-Day1 exp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1-Day1 exp"
+            }
+          },
+          {
             "id": "6075400cecdaebea",
             "type": "leaf",
             "state": {
@@ -45,7 +59,8 @@
               "title": "improvement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 581.5
+    "width": 200
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -208,46 +223,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "574f9b7f675f6116",
+  "active": "c7d5e27855d5cc7b",
   "lastOpenFiles": [
+    "NEST JS/FROM ITI/1-Day1.md",
+    "NEST JS/FROM ITI/1.1-Day1 exp.md",
+    "Pasted image 20260628132557.png",
+    "Pasted image 20260628132240.png",
+    "JAVA CORE☕/8-Dependnecy Injection vs Composition.md",
+    "Django/1-day1.md",
+    "Spring Security With-Amigos-Code/notes.md",
+    "Spring Core/Intro & tightly & loosely coupled.md",
+    "Spring Core/Example on IOC & DI & ApplicationContext.md",
+    "Spring Projects Notes/1-N1.md",
+    "Pasted image 20260627015647.png",
+    "Pasted image 20260627015246.png",
+    "Java Internals & funds & concepts/Advanced Java/1-Serilizatio & sealed  & recocrds.md",
+    "NEST JS/FROM ITI",
+    "Java Internals & funds & concepts/0-roadmap.md",
+    "Java Internals & funds & concepts/Advanced Java/0-road.md",
+    "JAVA CORE☕/INTERVIEW questions/21-Method Reference in Java 8.md",
+    "JAVA CORE☕/INTERVIEW questions/20-Java 8 interface.md",
+    "Redis/1.1-Explain in spring.md",
+    "Pasted image 20260626181309.png",
+    "System Design/22-Rate Limiting.md",
+    "System Design/z-REST.md",
+    "1freelance.md",
+    "English/improvement.md",
+    "English/words.md",
+    "System Design/20-Failover & Leader Election & split brain.md",
+    "System Design/19-Stale Read.md",
+    "System Design/18-DB Reblication.md",
     "System Design/21-Replication Types, Lag , Data Consistency Across Shards.md",
     "Spring Ai/2-ChatClient interface.md",
     "Spring Ai/NOTES.md",
     "JAVA CORE☕/INTERVIEW questions/1-3. In method overriding, how do return types, access modifiers, and exceptions behave?.md",
-    "Type Script/EXPLAIN.md",
-    "System Design/10-Fault tolerance & High Availability.md",
-    "System Design/6-System Constraints.md",
-    "System Design/3-Lecture 1 — Introduction to Software Architecture & System Requirements.md",
-    "System Design/2-Intro.md",
-    "Spring Ai/1-🤖 فهم Spring AI وChatModel` واستخدام الـ LLM في مشاريع Spring Boot.md",
-    "Spring Ai Intro/response.md",
-    "Spring Ai Intro/2-prompt 1.md",
     "Pasted image 20260624151614.png",
     "Pasted image 20260624151459.png",
     "Pasted image 20260624151442.png",
-    "REACT/Day1/1-installation and Basics.md",
     "Pasted image 20260624150956.png",
     "Pasted image 20260624142848.png",
-    "Pasted image 20260624142720.png",
-    "Pasted image 20260624142644.png",
-    "Docker/8-practical with spring.md",
     "Spring Ai",
-    "Courses_Platform_spring/NOTES/22-@BatchSize.md",
-    "Courses_Platform_spring/NOTES/23-MultipleBagFetchException.md",
-    "Courses_Platform_spring/8-Caching Notes.md",
-    "Redis/1.4@CacheEvict.md",
-    "Redis/1.3-@CachePut.md",
-    "Redis/1.2-@Cacheable.md",
-    "Java Internals & funds & concepts/JVM Internals/2-Stack & Heap & String pool.md",
-    "Java Internals & funds & concepts/JVM Internals/2.1-Note on 2.md",
-    "Java Internals & funds & concepts/0-roadmap.md",
-    "Java Internals & funds & concepts/JVM Internals/1-JVM Architecture.md",
-    "System Design/z-REST.md",
-    "Redis/1.1-Explain in spring.md",
     "AI",
-    "Pasted image 20260622033314.png",
-    "Pasted image 20260622033305.png",
-    "Pasted image 20260622032953.png",
     "Java Internals & funds & concepts/DB Related",
     "Java Internals & funds & concepts/Advanced Java",
     "Java Internals & funds & concepts/JVM Internals",
@@ -255,7 +271,6 @@
     "WebSocket",
     "Redis",
     "Unit Testing",
-    "Django",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

@@ -342,3 +342,28 @@
 
 **الترجمة:**  
 "أنا مطور Backend يمكن الاعتماد عليه وقادر على التكيف. أبادر عند حل المشكلات وأظل ملتزمًا بتقديم حلول عالية الجودة."
+
+
+
+
+
+
+|#|Word|Sentence|الترجمة بالعربي|
+|---|---|---|---|
+|1|Synergy|The merger created synergy between the two departments.|تآزر/تكامل|
+|2|Diligent|She is diligent in completing every task on time.|مجتهد/مثابر|
+|3|Proficient|He is proficient in both Java and Python.|بارع/ماهر|
+|4|Autonomy|The team was given full autonomy over the project.|استقلالية|
+|5|Initiative|He showed great initiative by fixing the bug himself.|روح المبادرة|
+|6|Feedback|The manager gave constructive feedback after the review.|ملاحظات/تقييم|
+|7|Workflow|We need to streamline our workflow to save time.|سير العمل|
+|8|Liability|Late deliveries became a liability for the company.|عبء/مسؤولية قانونية|
+|9|Expertise|His expertise in cybersecurity helped the team a lot.|خبرة متخصصة|
+|10|Productivity|Remote work increased the team's productivity.|إنتاجية|
+|11|Supervise|She was promoted to supervise the new interns.|يشرف على|
+|12|Restructure|The company decided to restructure its sales department.|إعادة هيكلة|
+|13|Underperform|Two employees underperformed this quarter.|أداء أقل من المطلوب|
+|14|Compensation|The compensation package includes health insurance.|تعويض/راتب ومزايا|
+|15|Headcount|They froze headcount due to budget cuts.|عدد الموظفين|
+
+عايز كمان مجموعة تالتة؟

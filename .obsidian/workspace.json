@@ -8,59 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "574f9b7f675f6116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/z-REST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "z-REST"
-            }
-          },
-          {
             "id": "c7d5e27855d5cc7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/9-Can static methods be overridden? (Method hiding)..md",
+                "file": "JAVA CORE☕/INTERVIEW questions/22-Some Annotations interview questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-Can static methods be overridden? (Method hiding)."
-            }
-          },
-          {
-            "id": "6075400cecdaebea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "1e892520566b23d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/improvement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "improvement"
+              "title": "22-Some Annotations interview questions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 200
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -225,52 +186,52 @@
   },
   "active": "c7d5e27855d5cc7b",
   "lastOpenFiles": [
-    "JAVA CORE☕/11-SOme important Q.md",
+    "NEST JS/FROM ITI/DAY3/4-Road to task.md",
+    "JAVA CORE☕/INTERVIEW questions/22-Some Annotations interview questions.md",
+    "NEST JS/FROM ITI/DAY1/1.1-Day1 exp.md",
+    "NEST JS/FROM ITI/DAY1/1-Day1.md",
+    "JAVA CORE☕/INTERVIEW questions/20-Java 8 interface.md",
+    "English/improvement.md",
+    "English/words.md",
+    "NEST JS/FROM ITI/DAY3/2-Authentication & Authorization in NestJS using JWT, Bcrypt, Guards and TypeORM.md",
+    "NEST JS/FROM ITI/DAY3/1-Notes.md",
+    "Pasted image 20260630130716.png",
+    "Pasted image 20260630130559.png",
+    "Pasted image 20260630013452.png",
+    "Pasted image 20260630012252.png",
     "NEST JS/FROM ITI/DAY2/4-Service , Db Model ,EXP.md",
+    "NEST JS/FROM ITI/DAY3",
     "NEST JS/FROM ITI/DAY2/3-SERVICE NOTES.md",
+    "NEST JS/FROM ITI/DAY2/2-NestJS Validation & Pipes — Complete Notes.md",
+    "NEST JS/FROM ITI/DAY2/1-NOTES.md",
+    "JAVA CORE☕/INTERVIEW questions/9-Can static methods be overridden? (Method hiding)..md",
+    "JAVA CORE☕/11-SOme important Q.md",
     "NEST JS/3-Providers.md",
     "Pasted image 20260629160715.png",
     "Pasted image 20260629155517.png",
     "NEST JS/2-Controllers.md",
-    "NEST JS/FROM ITI/DAY2/1-NOTES.md",
     "NEST JS/4.1-Repository in Nestjs.md",
     "NEST JS/4-Modules.md",
     "NEST JS/3.1-Provider--post study.md",
-    "NEST JS/FROM ITI/DAY2/2-NestJS Validation & Pipes — Complete Notes.md",
     "Courses_Platform_spring/NOTES/3-What happened behind scenes in JPA.md",
     "Courses_Platform_spring/NOTES/2-Unique Constraint.md",
     "Courses_Platform_spring/NOTES/1-MappedSuperclass notes.md",
     "JAVA CORE☕/10-Optional Class.md",
     "JAVA CORE☕/9-Composition with DI.md",
     "JAVA CORE☕/8-Dependnecy Injection vs Composition.md",
-    "Spring Core/Intro & tightly & loosely coupled.md",
-    "Spring Core/Example on IOC & DI & ApplicationContext.md",
-    "NEST JS/FROM ITI/DAY1/1.1-Day1 exp.md",
     "Pasted image 20260628161613.png",
     "NEST JS/FROM ITI/DAY2",
     "NEST JS/FROM ITI/DAY1",
-    "NEST JS/FROM ITI/DAY1/1-Day1.md",
     "Pasted image 20260628132557.png",
     "Pasted image 20260628132240.png",
-    "Django/1-day1.md",
-    "Spring Security With-Amigos-Code/notes.md",
-    "Spring Projects Notes/1-N1.md",
     "Pasted image 20260627015647.png",
-    "Pasted image 20260627015246.png",
-    "Java Internals & funds & concepts/Advanced Java/1-Serilizatio & sealed  & recocrds.md",
     "NEST JS/FROM ITI",
-    "Java Internals & funds & concepts/0-roadmap.md",
-    "Java Internals & funds & concepts/Advanced Java/0-road.md",
-    "Pasted image 20260626181309.png",
-    "Pasted image 20260624151614.png",
-    "Pasted image 20260624151459.png",
     "Spring Ai",
     "AI",
     "Java Internals & funds & concepts/DB Related",
     "Java Internals & funds & concepts/Advanced Java",
     "Java Internals & funds & concepts/JVM Internals",
     "Java Internals & funds & concepts",
-    "WebSocket",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

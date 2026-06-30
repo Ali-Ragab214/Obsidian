@@ -366,4 +366,22 @@
 |14|Compensation|The compensation package includes health insurance.|تعويض/راتب ومزايا|
 |15|Headcount|They froze headcount due to budget cuts.|عدد الموظفين|
 
-عايز كمان مجموعة تالتة؟
+| #   | Word               | الترجمة           | جملة                                                               |
+| --- | ------------------ | ----------------- | ------------------------------------------------------------------ |
+| 1   | Adapt (v.)         | يتكيّف            | "Developers must adapt quickly to new frameworks."                 |
+| 2   | Workload (n.)      | عبء العمل         | "Our workload increased a lot this month."                         |
+| 3   | Efficient (adj.)   | فعّال / كفء       | "We need a more efficient algorithm for this query."               |
+| 4   | Compromise (v./n.) | حل وسط / تنازل    | "We reached a compromise on the project deadline."                 |
+| 5   | Coordinate (v.)    | ينسّق             | "We need to coordinate with the design team before launch."        |
+| 6   | Discrepancy (n.)   | تباين / تضارب     | "There's a discrepancy between the design and the implementation." |
+| 7   | Escalate (v.)      | يصعّد (المشكلة)   | "If the issue isn't resolved, escalate it to the team lead."       |
+| 8   | Consistent (adj.)  | ثابت / متّسق      | "Keep your code style consistent across the project."              |
+| 9   | Drawback (n.)      | عيب / سلبية       | "The main drawback of this approach is performance."               |
+| 10  | Outcome (n.)       | نتيجة             | "The outcome of the testing phase was positive."                   |
+| 11  | Streamlined (adj.) | مبسّط / محسّن     | "We built a streamlined onboarding process for new hires."         |
+| 12  | Address (v.)       | يعالج / يتطرّق لـ | "We need to address this bug before the release."                  |
+| 13  | Implement (v.)     | ينفّذ / يطبّق     | "We'll implement the new caching strategy next sprint."            |
+| 14  | Thorough (adj.)    | شامل / دقيق       | "She did a thorough review of the pull request."                   |
+| 15  | Tentative (adj.)   | مبدئي / غير نهائي | "This is just a tentative schedule, it might change."              |
+
+عايز اختبار سريع على كل الكلمات اللي أخدناهم؟

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/22-Some Annotations interview questions.md",
+                "file": "JAVA CORE☕/INTERVIEW questions/26-What is Application Context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22-Some Annotations interview questions"
+              "title": "26-What is Application Context"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -186,8 +186,16 @@
   },
   "active": "c7d5e27855d5cc7b",
   "lastOpenFiles": [
-    "NEST JS/FROM ITI/DAY3/4-Road to task.md",
+    "JAVA CORE☕/INTERVIEW questions/17-36. What are Spring Boot Starters?.md",
+    "JAVA CORE☕/INTERVIEW questions/26-What is Application Context.md",
+    "JAVA CORE☕/INTERVIEW questions/19-What happens when a transactional method calls another transactional method  and why?.md",
+    "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
+    "JAVA CORE☕/INTERVIEW questions/24-what will happen if we removed @SpringBootApplication from Main class.md",
+    "Courses_Platform_spring/9- test cache.md",
+    "JAVA CORE☕/INTERVIEW questions/23-BEAN.md",
+    "JAVA CORE☕/INTERVIEW questions/23-examp.md",
     "JAVA CORE☕/INTERVIEW questions/22-Some Annotations interview questions.md",
+    "NEST JS/FROM ITI/DAY3/4-Road to task.md",
     "NEST JS/FROM ITI/DAY1/1.1-Day1 exp.md",
     "NEST JS/FROM ITI/DAY1/1-Day1.md",
     "JAVA CORE☕/INTERVIEW questions/20-Java 8 interface.md",
@@ -211,14 +219,6 @@
     "Pasted image 20260629155517.png",
     "NEST JS/2-Controllers.md",
     "NEST JS/4.1-Repository in Nestjs.md",
-    "NEST JS/4-Modules.md",
-    "NEST JS/3.1-Provider--post study.md",
-    "Courses_Platform_spring/NOTES/3-What happened behind scenes in JPA.md",
-    "Courses_Platform_spring/NOTES/2-Unique Constraint.md",
-    "Courses_Platform_spring/NOTES/1-MappedSuperclass notes.md",
-    "JAVA CORE☕/10-Optional Class.md",
-    "JAVA CORE☕/9-Composition with DI.md",
-    "JAVA CORE☕/8-Dependnecy Injection vs Composition.md",
     "Pasted image 20260628161613.png",
     "NEST JS/FROM ITI/DAY2",
     "NEST JS/FROM ITI/DAY1",

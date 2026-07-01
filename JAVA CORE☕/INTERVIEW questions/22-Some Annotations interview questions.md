@@ -197,6 +197,7 @@ public class SecurityConfig {
 ## بدون Configuration؟
 
 في بعض الحالات سيعمل، لكن Spring لن يتعامل مع الكلاس على أنه مصدر إعدادات رسمي.
+spring will deal with at as a setting class
 
 ---
 
@@ -380,6 +381,7 @@ app.name=SkillHub
 private String appName;
 ```
 
+@Value("${app.name}")
 القيمة تصبح:
 
 ```text

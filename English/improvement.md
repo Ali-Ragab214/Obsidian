@@ -384,4 +384,55 @@
 | 14  | Thorough (adj.)    | شامل / دقيق       | "She did a thorough review of the pull request."                   |
 | 15  | Tentative (adj.)   | مبدئي / غير نهائي | "This is just a tentative schedule, it might change."              |
 
-عايز اختبار سريع على كل الكلمات اللي أخدناهم؟
+تمام، هنشيل الكلمات:
+
+- ❌ **Delegate**
+    
+- ❌ **Facilitate**
+    
+- ❌ **Dependent**
+    
+- ❌ **Dependent** (المكررة)
+    
+
+ونستبدلهم بكلمات جديدة قوية ومستخدمة فعلاً في الشغل والتيك والإنترفيوهات.
+
+| الكلمة               | الترجمة                 | مثال                                                               | ترجمة المثال                                                    |
+| -------------------- | ----------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **1. Allocate**      | يخصص                    | `The manager allocated more resources to the project.`             | خصص المدير المزيد من الموارد للمشروع.                           |
+| **2. Align**         | يوائم أو يجعل متوافقًا  | `We need to align our goals with the client's expectations.`       | نحتاج إلى مواءمة أهدافنا مع توقعات العميل.                      |
+| **3. Expedite**      | يسرّع أو يعجل           | `Automation helped expedite the deployment process.`               | ساعدت الأتمتة في تسريع عملية النشر.                             |
+| **4. Impediment**    | عائق أو عقبة            | `The missing API documentation became an impediment to progress.`  | أصبح غياب توثيق الـ API عائقًا أمام التقدم.                     |
+| **5. Backlog**       | قائمة المهام المؤجلة    | `We added the feature request to the product backlog.`             | أضفنا طلب الميزة إلى قائمة المهام المؤجلة للمنتج.               |
+| **6. Dependency**    | تبعية أو اعتماد         | `Spring Boot has many external dependencies.`                      | يحتوي Spring Boot على العديد من التبعيات الخارجية.              |
+| **7. Provision**     | يوفر أو يجهز            | `The cloud provider provisions resources automatically.`           | يقوم مزود الخدمات السحابية بتوفير الموارد تلقائيًا.             |
+| **8. Orchestrate**   | يدير أو ينسق عدة أجزاء  | `Kubernetes orchestrates containers efficiently.`                  | يقوم Kubernetes بإدارة وتنسيق الحاويات بكفاءة.                  |
+| **9. Artifact**      | ناتج البناء أو ملف مولد | `The CI pipeline generated a deployable artifact.`                 | أنشأ خط الـ CI ملفًا جاهزًا للنشر.                              |
+| **10. Decouple**     | يفصل أو يقلل الترابط    | `We decoupled the authentication service from the user service.`   | قمنا بفصل خدمة المصادقة عن خدمة المستخدمين.                     |
+| **11. Fallback**     | حل احتياطي              | `Redis was unavailable, so the application used a fallback cache.` | كان Redis غير متاح، لذلك استخدم التطبيق كاش احتياطيًا.          |
+| **12. Provisioning** | عملية تجهيز الموارد     | `Server provisioning is automated using Terraform.`                | تتم عملية تجهيز الخوادم تلقائيًا باستخدام Terraform.            |
+| **13. Drift**        | انحراف أو اختلاف تدريجي | `Configuration drift caused issues between environments.`          | تسبب الانحراف في الإعدادات في مشاكل بين البيئات المختلفة.       |
+| **14. Saturation**   | وصول المورد لأقصى طاقته | `CPU saturation reduced the application's performance.`            | أدى وصول المعالج إلى أقصى طاقته إلى تقليل أداء التطبيق.         |
+| **15. Decommission** | يخرج من الخدمة          | `The company decided to decommission the legacy system.`           | قررت الشركة إيقاف النظام القديم وإخراجه من الخدمة.              |
+| **16. Deprecation**  | إيقاف الدعم التدريجي    | `The framework announced the deprecation of that API.`             | أعلن الإطار البرمجي عن الإيقاف التدريجي لدعم واجهة الـ API تلك. |
+
+## 🔥 أفضل 5 كلمات منهم للإنترفيوهات والشغل:
+
+1. **Decouple**
+    
+2. **Dependency**
+    
+3. **Fallback**
+    
+4. **Artifact**
+    
+5. **Orchestrate**
+    
+
+مثال جملة إنترفيو قوية:
+
+> `We decoupled the notification service into a separate microservice and implemented a fallback strategy to improve system resilience.`
+
+الترجمة:
+
+> قمنا بفصل خدمة الإشعارات إلى خدمة مصغرة مستقلة وطبقنا آلية احتياطية لتحسين قدرة النظام على تحمل الأعطال.

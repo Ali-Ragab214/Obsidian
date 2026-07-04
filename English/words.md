@@ -234,4 +234,36 @@
 117. Compensation — تعويض أو راتب ومزايا
     
 118. Headcount — عدد الموظفين
+     
+119.Adapt   يتاقلم
+
+120.Workload عبء العمل 
+
+121.Efficient  فعال او كفء
+
+122.Compromise حل وسط
+
+123.Coordinate  ينسق
+
+124.Discrepancy  تباين او تضارب
+
+125.Escalate   يصعد الي
+
+126.Consistent ثابت 
+
+127.Escalate يصعد الي 
+
+128.Drawback  عيب او سلبيه
+
+129.Outcome  نتيجه
+
+130.Streamlined  يبسط 
+
+131.Address   ينفذ او يطبق
+
+132.Implement  يطبق 
+
+133.Thorough  شامل / دقيق
+
+134.Tentative   مبدئي او غير نهائي 
 ```

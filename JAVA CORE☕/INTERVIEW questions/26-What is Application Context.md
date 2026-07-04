@@ -1,5 +1,3 @@
-# 37. What is `ApplicationContext` in Spring?
-
 ## 📌 Short Definition (Interview Answer)
 
 `ApplicationContext` is the **Spring IoC Container** responsible for:
@@ -266,7 +264,7 @@ Resource resource =
 
 In Spring Boot:
 
-```java
+3```java
 @SpringBootApplication
 public class SkillHubApplication {
 

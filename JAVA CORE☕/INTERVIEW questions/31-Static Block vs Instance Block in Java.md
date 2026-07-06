@@ -1,4 +1,4 @@
-# Static Block vs Instance Block vs Constructor in Java
+
 
 الصورة دي بتشرح واحدة من أهم المواضيع في Java Interviews، وهي:
 

@@ -13,6 +13,8 @@ JPA=> Hibernate,Flyway ,and Spring AI**.
 -Followed several design patterns and engineering practices including:  
 DTO Pattern, Repository Pattern, Service Layer Pattern, Mapper Pattern, Dependency Injection, and SOLID principles.
 
+-Used Lombok, a Java library that generates boilerplate code at compile-time, to keep entity/DTO classes clean and focused on actual logic.
+
 -Implemented **JWT Authentication** and **Role-Based Access Control (RBAC)** using **Spring Security** and `@PreAuthorize`.
 
 -Used **Spring Data JPA** and **Hibernate** for data persistence with proper entity relationships and optimized queries.
@@ -26,9 +28,6 @@ DTO Pattern, Repository Pattern, Service Layer Pattern, Mapper Pattern, Dependen
 -Frontend built with **React** and **Tailwind CSS**.
 
 -Applied a **Layered Architecture inspired by Clean Architecture principles** with clear separation between API, Application, Domain, and Infrastructure layers.
-
--Followed several design patterns and engineering practices including:  
-DTO Pattern, Repository Pattern, Service Layer Pattern, Mapper Pattern, Dependency Injection, and SOLID principles.
 
 Building this project helped me gain hands-on experience with backend architecture, AI integration, security, caching strategies, containerization, and designing scalable systems.
 

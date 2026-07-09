@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/30-Api Versioning.md",
+                "file": "JAVA CORE☕/INTERVIEW questions/39-Checked vs UnChecked Exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-Api Versioning"
+              "title": "39-Checked vs UnChecked Exceptions"
             }
           }
         ]
@@ -186,8 +186,14 @@
   },
   "active": "26d75ca166bf1af9",
   "lastOpenFiles": [
-    "Courses_Pilot/to view 2.md",
+    "JAVA CORE☕/INTERVIEW questions/37-why is the string  class declared final ?.md",
+    "JAVA CORE☕/INTERVIEW questions/39-Checked vs UnChecked Exceptions.md",
+    "JAVA CORE☕/INTERVIEW questions/38-System.exit.md",
     "Courses_Pilot/10-to view.md",
+    "JAVA CORE☕/INTERVIEW questions/Untitled/37-.md",
+    "JAVA CORE☕/INTERVIEW questions/Untitled",
+    "System Design/30-Api Versioning.md",
+    "Courses_Pilot/to view 2.md",
     "Courses_Pilot/0-Project Details.md",
     "Courses_Pilot/NOTES/23-MultipleBagFetchException.md",
     "Courses_Pilot/NOTES/21-@Builder.default.md",
@@ -203,19 +209,14 @@
     "Courses_Pilot/NOTES/15-@SuberBUilder and Auditing.md",
     "Courses_Pilot/9- test cache.md",
     "Graduation Project/1-Idea.md",
-    "System Design/30-Api Versioning.md",
     "Graduation Project",
     "System Design/29-Idempotency Code.md",
     "System Design/24-Idempotency.md",
     "System Design/28-Idempotency to record video.md",
     "System Design/25-Idempotency exp.md",
-    "System Design/27-Idempotency Response Miss.md",
-    "System Design/26-Idempotency Key.md",
-    "System Design/23-Message Queues.md",
     "Pasted image 20260706163304.png",
     "Pasted image 20260706163151.png",
     "Pasted image 20260706163013.png",
-    "System Design/19-Stale Read.md",
     "NEST JS/Notes",
     "Pasted image 20260630130716.png",
     "Pasted image 20260630130559.png",
@@ -231,7 +232,6 @@
     "Spring Ai",
     "AI",
     "Java Internals & funds & concepts/DB Related",
-    "Java Internals & funds & concepts/Advanced Java",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

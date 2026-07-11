@@ -31,7 +31,7 @@ GitHub Repository:
 
 I'd appreciate any feedback or suggestions.
 
-#Java #SpringBoot #SpringAI #Backend #FullStack #SoftwareEngineering
-
-
+#Java #SpringBoot #SpringAI #Backend #FullStack #SoftwareEngineering  #React   #Docker  #Redis
+#SoftwareEngineer #AI 
+ 
 ---

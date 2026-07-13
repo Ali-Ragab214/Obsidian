@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet/3-الزتونه.md",
+                "file": "Graduation Project/3-SKUs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-الزتونه"
+              "title": "3-SKUs"
             }
           }
         ],
@@ -201,8 +201,18 @@
   },
   "active": "34ee2f49f92f9c0a",
   "lastOpenFiles": [
-    "Servlet/1-Exp1.md",
+    "NEST JS/Notes/3-Definite Assignment Assertion.md",
+    "Graduation Project/3-SKUs.md",
+    "NEST JS/Notes/1-Entities best practice.md",
+    "Graduation Project/1.1- Idea 2.md",
+    "NEST JS/FROM ITI/DAY2/1-NOTES.md",
+    "NEST JS/FROM ITI/DAY2/2-NestJS Validation & Pipes — Complete Notes.md",
+    "NEST JS/FROM ITI/DAY2/3-SERVICE NOTES.md",
+    "NEST JS/FROM ITI/DAY2/4-Service , Db Model ,EXP.md",
+    "NEST JS/FROM ITI/DAY3/1-Notes.md",
+    "NEST JS/FROM ITI/DAY3/2-Authentication & Authorization in NestJS using JWT, Bcrypt, Guards and TypeORM.md",
     "Servlet/3-الزتونه.md",
+    "Servlet/1-Exp1.md",
     "Servlet/2-EXP2.md",
     "Project Ideas/1-One.md",
     "Servlet",
@@ -220,23 +230,13 @@
     "Spring Security Last_Edition/Day1/1.1-Explain 1.md",
     "Spring Security Last_Edition/Day1/1-Introduction to Application Security.md",
     "System Design/z-REST.md",
-    "NEST JS/Notes/1-Entities best practice.md",
     "NEST JS/Notes/2-If i need to use Module in another.md",
     "nest.md",
-    "NEST JS/FROM ITI/DAY2/2-NestJS Validation & Pipes — Complete Notes.md",
     "NEST JS/FROM ITI/DAY1/1.1-Day1 exp.md",
     "NEST JS/FROM ITI/DAY1/1-Day1.md",
     "Agile/2-jira.md",
-    "NEST JS/FROM ITI/DAY3/2-Authentication & Authorization in NestJS using JWT, Bcrypt, Guards and TypeORM.md",
-    "NEST JS/FROM ITI/DAY2/3-SERVICE NOTES.md",
-    "NEST JS/FROM ITI/DAY2/4-Service , Db Model ,EXP.md",
-    "JAVA CORE☕/INTERVIEW questions/43-Entity Manager.md",
-    "JAVA CORE☕/INTERVIEW questions/44-What is Dirty Cheking in Hibernate ?.md",
-    "Graduation Project/2-Ai prerequisites.md",
     "Prompt Engineering",
     "LLM Basics",
-    "AI/1-Phase 1(Token, Context window, Temperature, System,  User , Assistant Messages, ).md",
-    "AI/0-Road map.md",
     "Pasted image 20260710183950.png",
     "Pasted image 20260710183901.png",
     "Pasted image 20260710175201.png",

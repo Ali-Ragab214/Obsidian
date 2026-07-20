@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet/3-الزتونه.md",
+                "file": "ORM/DAY1/1.2-JPA Architecture Low Level.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-الزتونه"
+              "title": "1.2-JPA Architecture Low Level"
             }
           }
         ],
@@ -199,29 +199,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2fda2b07a28b7f2",
+  "active": "34ee2f49f92f9c0a",
   "lastOpenFiles": [
+    "Pasted image 20260721015159.png",
+    "JAVA CORE☕/INTERVIEW questions/50-Web Server vs Application Server.md",
+    "JAVA CORE☕/INTERVIEW questions/43-Entity Manager.md",
+    "ORM/DAY1/1.2-JPA Architecture Low Level.md",
+    "Pasted image 20260721014039.png",
+    "Pasted image 20260721013519.png",
+    "Pasted image 20260721012732.png",
+    "ORM/DAY1/1.1-Exp 1 till Jpa Arch.md",
+    "ORM/DAY1/2-JPA installation & setup.md",
+    "ORM/DAY1/2.1-Application.properties vs Persistence.xml.md",
+    "ORM/DAY1/1-Intro to ORM.md",
+    "Servlet/3-الزتونه.md",
     "Servlet/2-EXP2.md",
     "Servlet/1-Exp1.md",
-    "ORM/DAY1/1.1-Exp 1 till Jpa Arch.md",
-    "ORM/DAY1/1-Intro to ORM.md",
-    "ORM/DAY1/1.2-JPA Architecture Low Level.md",
     "Pasted image 20260720173832.png",
-    "Servlet/3-الزتونه.md",
     "Pasted image 20260720171946.png",
     "Pasted image 20260720171826.png",
     "Pasted image 20260720170455.png",
     "Pasted image 20260720170349.png",
     "Pasted image 20260720170333.png",
     "Pasted image 20260720170200.png",
-    "Pasted image 20260720170038.png",
-    "Pasted image 20260720165913.png",
-    "ORM/DAY1/2-JPA installation & setup.md",
-    "ORM/DAY1/2.1-Application.properties vs Persistence.xml.md",
     "Hibernate + Entity/Notes.md",
     "Hibernate + Entity/Explain.md",
-    "Pasted image 20260720161429.png",
-    "JAVA CORE☕/INTERVIEW questions/43-Entity Manager.md",
     "JAVA CORE☕/INTERVIEW questions/44-What is Dirty Cheking in Hibernate ?.md",
     "LOMBOK Library.md",
     "ORM/DAY1",
@@ -237,8 +239,6 @@
     "JAVA CORE☕/INTERVIEW questions/5-What is a method signature?.md",
     "Graduation Project/4.1-Stock movement Ledger.md",
     "Graduation Project/4-Stock Movement Ledger.md",
-    "JAVA CORE☕/INTERVIEW questions/47-Final vs Finally vs Finalize.md",
-    "Graduation Project/3-SKUs.md",
     "Servlet",
     "Project Ideas",
     "Prompt Engineering",

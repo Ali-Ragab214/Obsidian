@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORM/DAY1/1.1-Exp 1 till Jpa Arch.md",
+                "file": "Servlet/3-الزتونه.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1-Exp 1 till Jpa Arch"
+              "title": "3-الزتونه"
             }
           }
         ],
@@ -199,10 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34ee2f49f92f9c0a",
+  "active": "a2fda2b07a28b7f2",
   "lastOpenFiles": [
-    "ORM/DAY1/1-Intro to ORM.md",
+    "Servlet/2-EXP2.md",
+    "Servlet/1-Exp1.md",
     "ORM/DAY1/1.1-Exp 1 till Jpa Arch.md",
+    "ORM/DAY1/1-Intro to ORM.md",
     "ORM/DAY1/1.2-JPA Architecture Low Level.md",
     "Pasted image 20260720173832.png",
     "Servlet/3-الزتونه.md",
@@ -237,8 +239,6 @@
     "Graduation Project/4-Stock Movement Ledger.md",
     "JAVA CORE☕/INTERVIEW questions/47-Final vs Finally vs Finalize.md",
     "Graduation Project/3-SKUs.md",
-    "NEST JS/Notes/3-Definite Assignment Assertion.md",
-    "NEST JS/Notes/1-Entities best practice.md",
     "Servlet",
     "Project Ideas",
     "Prompt Engineering",

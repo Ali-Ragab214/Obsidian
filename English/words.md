@@ -266,4 +266,19 @@
 133.Thorough  شامل / دقيق
 
 134.Tentative   مبدئي او غير نهائي 
+135.Allocate  يخصص
+136.Align
+137.Expedite
+138.Backlog
+139.Dependency
+140.provision
+141.provision
+142.orchestrate
+143.Artifact
+145.Decouple
+146.Fallback
+147.Drift
+148.Saturation
+149.Decommission
+150.Deprecation
 ```

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe16f3b87776dfe",
+        "id": "c99a4e449b270be8",
         "type": "tabs",
         "children": [
           {
-            "id": "26d75ca166bf1af9",
+            "id": "08dada8574177c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEST JS/FROM ITI/DAY3/2-Authentication & Authorization in NestJS using JWT, Bcrypt, Guards and TypeORM.md",
+                "file": "Data Access Layer Mastery/2-JPQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-Authentication & Authorization in NestJS using JWT, Bcrypt, Guards and TypeORM"
-            }
-          },
-          {
-            "id": "34ee2f49f92f9c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Access Layer Mastery/0-Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0-Roadmap"
+              "title": "2-JPQL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 200
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -199,54 +184,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34ee2f49f92f9c0a",
+  "active": "08dada8574177c84",
   "lastOpenFiles": [
-    "JAVA CORE☕/INTERVIEW questions/58-Is Java Pass-by-Value or Pass-by-Reference?.md",
     "Data Access Layer Mastery/0-Roadmap.md",
+    "Data Access Layer Mastery/2-JPQL.md",
+    "Data Access Layer Mastery/1-📘 Spring Data JPA - Derived Query Methods (الدليل الشامل).md",
+    "Debugging/0-Roadmap.md",
+    "Spring Ai/Section2/7-Advisors P2.md",
+    "Debugging",
+    "Spring Ai/Section2/6-Advisors.md",
+    "Pasted image 20260725153006.png",
+    "Spring Ai/Section2/5-Why we cant use prompt stuffing with Big Data.md",
+    "Spring Ai/Section2/4-Prompt Stuffing.md",
+    "Pasted image 20260725131004.png",
+    "Spring Ai/Section2/3-Prompt templates.md",
+    "Spring Ai/1-🤖 فهم Spring AI وChatModel` واستخدام الـ LLM في مشاريع Spring Boot.md",
+    "JAVA CORE☕/INTERVIEW questions/60-Pagination in interviews.md",
+    "JAVA CORE☕/INTERVIEW questions/59-Difference between for and while loop.md",
+    "JAVA CORE☕/INTERVIEW questions/58-Is Java Pass-by-Value or Pass-by-Reference?.md",
+    "English/improvement.md",
+    "English/words.md",
+    "NEST JS/FROM ITI/DAY3/2-Authentication & Authorization in NestJS using JWT, Bcrypt, Guards and TypeORM.md",
+    "Spring Ai/Section2/0-notes.md",
+    "Pasted image 20260724012646.png",
+    "Spring Ai/Section2/2-Defaults in Spring Ai.md",
+    "Spring Ai/Section2/1-Message Roles in LLMS.md",
+    "Pasted image 20260723233030.png",
+    "Pasted image 20260723232906.png",
+    "Courses_Pilot/NOTES/13-Optional.md",
+    "Courses_Pilot/NOTES/10-Spring Data JPA Queries في الـ Repository.md",
+    "Pasted image 20260723165503.png",
+    "Spring Ai/Section2/1.1-Note on messages.md",
+    "Pasted image 20260723151909.png",
+    "Pasted image 20260723151144.png",
+    "Pasted image 20260723151055.png",
+    "Spring Ai/Section 1/1-NOTES.md",
+    "Spring Ai/Section2",
     "Data Access Layer Mastery",
     "JAVA CORE☕/INTERVIEW questions/57-What happens when we run a java program ?.md",
     "JAVA CORE☕/INTERVIEW questions/56-Is Java Completely Object-Oriented?.md",
-    "Spring Ai/Section 1/1-NOTES.md",
     "Pasted image 20260722174447.png",
-    "Pasted image 20260722154916.png",
-    "Pasted image 20260722154838.png",
-    "Pasted image 20260722144331.png",
     "Spring Ai/2-ChatClient interface.md",
-    "Courses_Pilot/to view 2.md",
     "Spring Ai/Section 1",
-    "JAVA CORE☕/INTERVIEW questions/55-Servlet vs Spring.md",
-    "Graduation Project/5-CSV.md",
-    "JAVA CORE☕/6-Lazy and ager Loading.md",
-    "JAVA CORE☕/INTERVIEW questions/2-Inherite Singleton class.md",
-    "JAVA CORE☕/INTERVIEW questions/54-why is the main method static ?.md",
-    "JAVA CORE☕/INTERVIEW questions/53-Brief on 51 & 52.md",
-    "JAVA CORE☕/INTERVIEW questions/52-Different cases on Variable Hiding.md",
-    "JAVA CORE☕/INTERVIEW questions/51-Variable Hiding.md",
-    "JAVA CORE☕/INTERVIEW questions/49-Important.md",
-    "JAVA CORE☕/INTERVIEW questions/50-Web Server vs Application Server.md",
-    "ORM/DAY1/1.2-JPA Architecture Low Level.md",
-    "Pasted image 20260721015159.png",
-    "JAVA CORE☕/INTERVIEW questions/43-Entity Manager.md",
-    "Pasted image 20260721014039.png",
-    "Pasted image 20260721013519.png",
-    "Pasted image 20260721012732.png",
-    "ORM/DAY1/1.1-Exp 1 till Jpa Arch.md",
-    "ORM/DAY1/2-JPA installation & setup.md",
-    "ORM/DAY1/2.1-Application.properties vs Persistence.xml.md",
-    "ORM/DAY1/1-Intro to ORM.md",
-    "Servlet/3-الزتونه.md",
-    "Servlet/2-EXP2.md",
-    "Servlet/1-Exp1.md",
-    "Pasted image 20260720173832.png",
-    "Pasted image 20260720171946.png",
     "ORM/DAY1",
     "ORM",
     "Servlet",
     "Project Ideas",
     "Prompt Engineering",
     "LLM Basics",
-    "Spring Security Last_Edition/Day1",
-    "Spring Security Last_Edition",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

@@ -12,12 +12,12 @@
 
 لازم تفهم إمتى تستخدم كل واحدة وليه:
 
-|الطريقة|الاستخدام|مثال|
-|---|---|---|
-|**Derived Query Methods**|queries بسيطة، Spring بيولدها من اسم الميثود|`findByStatusAndCreatedAtAfter(...)`|
-|**JPQL** (`@Query`)|queries أعقد شوية، لسه object-oriented (بتتعامل مع الـ Entity مش الـ table)|`@Query("SELECT s FROM Sku s WHERE s.currentQuantity < s.reorderThreshold")`|
-|**Native SQL**|لما محتاج feature خاص بـ PostgreSQL نفسه (window functions, CTEs, JSON operators)|`@Query(value = "SELECT * FROM skus WHERE ...", nativeQuery = true)`|
-|**Criteria API / QuerySpecification**|queries ديناميكية (فلاتر بتتغير حسب الـ input) بدون string concatenation|هنشرحه تحت|
+| الطريقة                               | الاستخدام                                                                         | مثال                                                                         |
+| ------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Derived Query Methods**             | queries بسيطة، Spring بيولدها من اسم الميثود                                      | `findByStatusAndCreatedAtAfter(...)`                                         |
+| **JPQL** (`@Query`)                   | queries أعقد شوية، لسه object-oriented (بتتعامل مع الـ Entity مش الـ table)       | `@Query("SELECT s FROM Sku s WHERE s.currentQuantity < s.reorderThreshold")` |
+| **Native SQL**                        | لما محتاج feature خاص بـ PostgreSQL نفسه (window functions, CTEs, JSON operators) | `@Query(value = "SELECT * FROM skus WHERE ...", nativeQuery = true)`         |
+| **Criteria API / QuerySpecification** | queries ديناميكية (فلاتر بتتغير حسب الـ input) بدون string concatenation          | هنشرحه تحت                                                                   |
 
 **ذاكر الأول:** JPQL syntax كامل (SELECT, JOIN, WHERE, GROUP BY, subqueries) — ده الأساس لأي حاجة جاية بعد كده.
 

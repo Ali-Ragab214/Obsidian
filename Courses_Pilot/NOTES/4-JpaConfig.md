@@ -1,4 +1,4 @@
-الكلاس ده من أهم الحاجات في JPA Auditing 🔥  
+الكلاس ده من أهم الحاجات في JPA Auditing   
 == a class in infra layer 
 وهو مسؤول عن إن Hibernate / Spring يملوا بيانات الـ auditing تلقائيًا.
 

@@ -2,6 +2,14 @@
 
 ---
 
+to achieve validation annotation on the methd parameter
+
+
+
+احفظ الجملة دي:
+
+> `@Valid` is used for validating request body objects, while `@Validated` enables method-level validation for parameters such as `@RequestParam` and `@PathVariable`.
+
 # أولًا: ما هي `@Validated`؟
 
 هي Annotation من Spring:

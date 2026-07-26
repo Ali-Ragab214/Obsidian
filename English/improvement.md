@@ -436,3 +436,58 @@
 الترجمة:
 
 > قمنا بفصل خدمة الإشعارات إلى خدمة مصغرة مستقلة وطبقنا آلية احتياطية لتحسين قدرة النظام على تحمل الأعطال.
+
+
+بما إنك وصلت للمستوى ده من الكلمات، فأنت محتاج كلمات **B2+/C1** فعلاً، لكن تكون **بتتقال في الشغل والاجتماعات والانترفيوهات وكمان في الحياة اليومية**، مش كلمات معجمية نادرة.
+
+|#|Word|الترجمة|Example Sentence|
+|---|---|---|---|
+|1|**Articulate**|يعبر بوضوح وبطلاقة|_She can articulate her ideas clearly during meetings._|
+|2|**Delegate**|يفوض المهام|_A good manager knows when to delegate tasks._|
+|3|**Overcome**|يتغلب على|_We overcame several technical challenges during the project._|
+|4|**Convey**|ينقل أو يوصل (فكرة/رسالة)|_It's important to convey your message clearly._|
+|5|**Allocate**|يخصص|_The team allocated more time for testing._|
+|6|**Thrive**|يزدهر أو ينجح بشكل كبير|_He thrives in a fast-paced work environment._|
+|7|**Clarify**|يوضح|_Could you clarify what you mean?_|
+|8|**Emphasize**|يؤكد على|_The interviewer emphasized the importance of teamwork._|
+|9|**Demonstrate**|يثبت أو يُظهر|_You should demonstrate your problem-solving skills._|
+|10|**Accomplish**|ينجز أو يحقق|_We accomplished all our goals before the deadline._|
+|11|**Contribute**|يساهم|_Everyone should contribute to the project's success._|
+|12|**Encounter**|يواجه أو يصادف|_I encountered an unexpected bug yesterday._|
+|13|**Exceed**|يتجاوز|_The application exceeded our performance expectations._|
+|14|**Justify**|يبرر|_Can you justify your design decision?_|
+|15|**Distinguish**|يميز بين|_It's important to distinguish facts from opinions._|
+
+## ⭐ أكثر 5 كلمات أنصحك تحفظهم الأول (مهمين جدًا في الشغل والانترفيو)
+
+1. **Articulate** → هتسمعها كتير في الـ HR Interviews.
+    
+2. **Convey** → في الـ Meetings والـ Presentations.
+    
+3. **Demonstrate** → في الانترفيوهات التقنية.
+    
+4. **Encounter** → من أكثر الكلمات استخدامًا بين الـ Developers.
+    
+5. **Thrive** → بتستخدم لوصف شخص بينجح في بيئة عمل معينة.
+    
+
+### أمثلة هتسمعها في الشركات:
+
+- **I encountered an issue while deploying the application.**
+    
+- **Let me clarify my point.**
+    
+- **Can you demonstrate your solution?**
+    
+- **We need to allocate more resources.**
+    
+- **She articulated her ideas very well during the presentation.**
+    
+- **I thrive under pressure.**
+    
+- **Could you convey this message to the team?**
+    
+- **The results exceeded our expectations.**
+    
+
+د

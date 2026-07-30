@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/micro 1/2-Phase 2.md",
+                "file": "Logging/1-Phase 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-Phase 2"
+              "title": "1-Phase 1"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 230.5
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -201,15 +201,22 @@
   },
   "active": "5af693c2389cbd5c",
   "lastOpenFiles": [
-    "JAVA CORE☕/INTERVIEW questions/micro 1/0-interview  topics.md",
+    "Logging/0-Roadmap.md",
+    "Logging/1-Phase 1.md",
+    "Exception Handling/0-Over ALl.md",
+    "Logging",
+    "Project ideas.md",
+    "Exception Handling",
+    "JAVA CORE☕/INTERVIEW questions/51-Variable Hiding.md",
+    "JAVA CORE☕/INTERVIEW questions/68-.md",
     "JAVA CORE☕/INTERVIEW questions/micro 1/2-Phase 2.md",
+    "JAVA CORE☕/INTERVIEW questions/micro 1/0-interview  topics.md",
     "JAVA CORE☕/INTERVIEW questions/micro 1/1.1-Stack & Heap & GC.md",
     "JAVA CORE☕/INTERVIEW questions/micro 1/1-PHASE 1.md",
     "JAVA CORE☕/INTERVIEW questions/60-Pagination in interviews.md",
     "JAVA CORE☕/INTERVIEW questions/micro 1",
     "JAVA CORE☕/INTERVIEW questions/67-String, StringBuilder, StringBuffer.md",
     "Spring Ai/Section2/8-Custom advisor.md",
-    "Project ideas.md",
     "1freelance.md",
     "Spring Ai/Section2/6-Advisors.md",
     "Spring Ai/Section2/7-Advisors P2.md",
@@ -223,11 +230,6 @@
     "Courses_Pilot/NOTES/3-What happened behind scenes in JPA.md",
     "JAVA CORE☕/INTERVIEW questions/9-Can static methods be overridden? (Method hiding)..md",
     "JAVA CORE☕/INTERVIEW questions/46-Can final method be inherited ?.md",
-    "JAVA CORE☕/INTERVIEW questions/47-Final vs Finally vs Finalize.md",
-    "JAVA CORE☕/INTERVIEW questions/48-JDBC.md",
-    "JAVA CORE☕/INTERVIEW questions/59-Difference between for and while loop.md",
-    "JAVA CORE☕/INTERVIEW questions/65-Dictionary.md",
-    "JAVA CORE☕/INTERVIEW questions/64-Programming fund => Arrays vs List.md",
     "Debugging",
     "Pasted image 20260725153006.png",
     "Pasted image 20260725131004.png",
@@ -245,8 +247,6 @@
     "ORM/DAY1",
     "ORM",
     "Servlet",
-    "Project Ideas",
-    "Prompt Engineering",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

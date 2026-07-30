@@ -480,3 +480,239 @@ Testcontainers
     
 
 **لو هدفك وظيفة Backend أو AI Backend، فأنا أرشح FlowMind AI رقم 1، ثم Smart Procurement AI رقم 2.** دول مشاريع نادرة، ليهم قيمة حقيقية، ومش معقدين لدرجة تضيع وقتك، وفي نفس الوقت هيخلوا أي Interviewer يسألك عن التصميم والـ AI بدل ما يشوف مشروع CRUD تقليدي.
+
+
+
+
+
+
+
+# فكرة المشروع
+
+---
+
+## اسم المشروع: **DevMentor AI** — Smart Technical Documentation & Learning Assistant
+
+---
+
+## الفكرة الأساسية
+
+منصة بتساعد الـ Developers يفهموا ويتعلموا من الـ **documentation الداخلي بتاع الشركة** (أو أي technical docs) عن طريق:
+
+```
+1. رفع documents (PDF, Markdown, code files)
+2. الـ system يعمل لهم embedding ويخزنهم
+3. الـ developer يسأل أي سؤال
+4. الـ AI يرد بناءً على الـ docs الفعلية (RAG)
+```
+
+---
+
+## ليه الفكرة دي بالذات؟
+
+```
+✅ RAG منطقي فيها 100% — مش حشو
+   (بتحتاج تجيب context من مصدر حقيقي)
+
+✅ محتاجة 2 Agents بشكل طبيعي:
+   Agent 1 → Document Ingestion Agent
+   Agent 2 → Q&A / Retrieval Agent
+
+✅ كل الـ tech stack بتاعك هيتستخدم فعلياً:
+   PostgreSQL  → users, documents metadata, chat history
+   Redis       → caching للـ frequent queries + session management
+   Hibernate   → ORM للـ entities
+   Swagger     → API documentation
+   Spring Security → JWT auth, roles (Admin, User)
+   Spring AI + Ollama → RAG pipeline
+
+✅ CV-worthy جداً — RAG + Agents حالياً من أقوى الـ trends
+```
+
+---
+
+## الـ 2 Agents بالتفصيل
+
+### Agent 1 — Document Processing Agent
+
+```
+المسؤولية:
+- ياخد الـ document (PDF/text)
+- يقسمه لـ chunks
+- يعمل embeddings
+- يخزنهم في vector store
+
+Trigger: لما user يرفع document جديد
+```
+
+### Agent 2 — Question Answering Agent
+
+```
+المسؤولية:
+- ياخد سؤال الـ user
+- يدور في الـ vector store عن الـ relevant chunks
+- يبني الـ prompt مع الـ context
+- يبعته لـ Ollama ويرجع answer
+
+Trigger: لما user يسأل سؤال
+```
+
+---
+
+## هيكل الـ Clean Architecture
+
+```
+devmentor-ai/
+│
+├── domain/
+│   ├── models/
+│   │   ├── User.java
+│   │   ├── Document.java
+│   │   ├── DocumentChunk.java
+│   │   ├── ChatSession.java
+│   │   └── ChatMessage.java
+│   └── enums/
+│       ├── Role.java
+│       └── DocumentStatus.java
+│
+├── application/
+│   ├── dto/
+│   │   ├── request/
+│   │   └── response/
+│   ├── services/
+│   │   ├── document/
+│   │   │   ├── DocumentService.java
+│   │   │   └── DocumentServiceImpl.java
+│   │   ├── chat/
+│   │   │   ├── ChatService.java
+│   │   │   └── ChatServiceImpl.java
+│   │   └── ai/
+│   │       ├── IngestionAgent.java      ← Agent 1
+│   │       └── RetrievalAgent.java      ← Agent 2
+│   ├── mapper/
+│   └── exceptions/
+│
+├── infrastructure/
+│   ├── repository/
+│   ├── ai/
+│   │   ├── OllamaConfig.java
+│   │   ├── VectorStoreConfig.java
+│   │   └── EmbeddingService.java
+│   ├── config/
+│   │   ├── SecurityConfig.java
+│   │   ├── RedisConfig.java
+│   │   └── SwaggerConfig.java
+│   └── cache/
+│       └── QueryCacheService.java
+│
+└── shared/
+    ├── utils/
+    └── constants/
+```
+
+---
+
+## الـ Flow الكامل
+
+```
+1. User يعمل register/login (JWT)
+2. User يرفع document (PDF/MD)
+        ↓
+3. Ingestion Agent:
+   - يقسم الـ document لـ chunks
+   - يعمل embeddings عن طريق Ollama
+   - يخزنهم في PostgreSQL (pgvector) أو vector store
+        ↓
+4. User يسأل سؤال في chat
+        ↓
+5. Retrieval Agent:
+   - يدور عن الـ chunks الأقرب للسؤال (similarity search)
+   - يبني prompt: "based on this context: {chunks}, answer: {question}"
+   - يبعته لـ Ollama
+        ↓
+6. الإجابة تترجع + تتخزن في Redis (cache) لو نفس السؤال اتسأل تاني
+        ↓
+7. الإجابة + الـ chat history يتسجلوا في PostgreSQL
+```
+
+---
+
+## الترتيب اللي هتشتغل بيه
+
+---
+
+### Phase 1 — الأساسيات (بدون AI خالص)
+
+```
+1. Setup المشروع + Clean Architecture structure
+2. User entity + Auth (Spring Security + JWT)
+3. Document entity (بس metadata: name, type, uploadedAt, status)
+4. Document upload endpoint (رفع الـ file بس، بدون processing)
+5. ChatSession + ChatMessage entities
+6. Basic CRUD APIs مع Swagger docs
+```
+
+---
+
+### Phase 2 — الـ Core Logic
+
+```
+7. Document processing (chunking الـ text)
+8. Redis caching layer
+9. Pagination + Exception handling
+10. Role-based access (Admin يشوف كل الـ documents، User بتاعته بس)
+```
+
+---
+
+### Phase 3 — دمج Spring AI (هنا هتتعلم وتطبق)
+
+```
+11. Ollama integration (تأكد إنه شغال)
+12. Embedding generation عن طريق Spring AI
+13. Vector storage (pgvector extension في PostgreSQL)
+14. Ingestion Agent — يحول document لـ embeddings
+15. Retrieval Agent — RAG pipeline كامل
+16. ربط الـ Agents بالـ Chat endpoint
+```
+
+---
+
+### Phase 4 — Polish
+
+```
+17. Docker + Docker Compose (App + PostgreSQL + Redis + Ollama)
+18. README احترافي
+19. Testing (لو الوقت يسمح)
+```
+
+---
+
+## ليه الـ Phasing ده مهم؟
+
+```
+✅ تقدر تشتغل على الـ core logic دلوقتي
+   وتتعلم Spring AI في نفس الوقت من غير ضغط
+
+✅ لو الـ AI part اتأخرت، عندك مشروع شغال
+   بيعمل Auth + CRUD + Caching بشكل كامل
+
+✅ كل مرحلة قابلة للـ demo لوحدها
+```
+
+---
+
+## بالنسبة للـ CV
+
+```
+"Built a RAG-powered technical documentation assistant using 
+Spring AI and Ollama, featuring a dual-agent architecture 
+(Ingestion + Retrieval) for semantic document search and 
+context-aware Q&A, with Redis caching and PostgreSQL vector storage."
+```
+
+---
+
+> **رأيي:** الفكرة دي عملية جداً وواقعية — مش "toy project". أي شركة بتستخدم internal docs (وده كل شركة) هتفهم القيمة فوراً. 🎯
+
+**نبدأ بـ Phase 1؟**

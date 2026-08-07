@@ -119,7 +119,7 @@
     
 60. Microservices — الخدمات المصغرة
     
-61. Deadlock — توقف متبادل
+61. Deadlock —  جمود/توقف متبادل
     
 62. Rollback — التراجع عن التغييرات
     
@@ -147,7 +147,7 @@
     
 74. Contemplate — يتأمل أو يفكر بعمق
     
-75. Endeavour — محاولة أو مسعى
+75. Endeavour —  يسعي او يبذل جهد 
     
 76. Profound — عميق
     
@@ -281,4 +281,18 @@
 148.Saturation
 149.Decommission
 150.Deprecation
+151.Articulate
+152.Delegate
+153.Overcome
+154.convey
+155.Allocate
+156.Thrive 
+157.Emphasize
+158.Demonstrate
+159.Accomplish
+160.Contribute
+161.Encounter
+162.Exceed
+163.Justify
+164.Distinguish
 ```

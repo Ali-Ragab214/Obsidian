@@ -562,6 +562,9 @@ V1__create_users_table.sql
 
 وسننشئ أول قاعدة بيانات كاملة خطوة بخطوة باستخدام عدة ملفات Migration ونرى كيف يسجل Flyway كل عملية داخل جدول `flyway_schema_history`.
 
+
+
+
 spring.jpa.hibernate.ddl-auto=validate/none =>validate is better 
 عشان لو ضيفت فيلد في الانتيتي ومعملتلوش ميجرشن هيديك ايرور لكن لو العكس وعملت ميجريشن ومضيفتش الفيلد هيشتغل عادي بس hibernate مش هيستخدم الكولمن دا 
 V1__create_courses_table.sql 
@@ -587,7 +590,8 @@ V1__create_courses_table.sql
 
 ## القاعدة الذهبية اللي عايزك تحفظها
 
-|المسؤول|وظيفته|
-|---|---|
-|**Flyway**|إنشاء الجداول، تعديلها، إضافة الأعمدة، إنشاء الـ Indexes والـ Foreign Keys، وإدارة تاريخ تغييرات قاعدة البيانات (Schema).|
-|**JPA/Hibernate**|ربط الـ Entities بالجداول الموجودة بالفعل، وتنفيذ عمليات `SELECT` و`INSERT` و`UPDATE` و`DELETE` عليها.|
+| المسؤول           | وظيفته                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Flyway**        | إنشاء الجداول، تعديلها، إضافة الأعمدة، إنشاء الـ Indexes والـ Foreign Keys، وإدارة تاريخ تغييرات قاعدة البيانات (Schema). |
+| **JPA/Hibernate** | ربط الـ Entities بالجداول الموجودة بالفعل، وتنفيذ عمليات `SELECT` و`INSERT` و`UPDATE` و`DELETE` عليها.                    |
+flyway create tables , jpa deal with data 

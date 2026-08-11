@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Ai/Section2/8.1-custom advisors.md",
+                "file": "Data Access Layer Mastery/6-Phase 3 => Race Condition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.1-custom advisors"
+              "title": "6-Phase 3 => Race Condition"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.109375
+    "width": 302.65625
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -188,8 +188,26 @@
   },
   "active": "8a47a1ccf4bc7ed5",
   "lastOpenFiles": [
-    "Spring Ai/Section2/8-Custom advisor.md",
+    "Data Access Layer Mastery/5-Database Locking.md",
+    "Data Access Layer Mastery/6-Phase 3 => Race Condition.md",
+    "Pasted image 20260811200501.png",
+    "Pasted image 20260811200220.png",
+    "Pasted image 20260811195434.png",
+    "JAVA CORE☕/INTERVIEW questions/75-what is the file extension of compiled java bytecode.md",
+    "Data Access Layer Mastery/4-N+1 problem and its solutions.md",
+    "Data Access Layer Mastery/3-Ful exampl on JPQL.md",
+    "Data Access Layer Mastery/0-Roadmap.md",
+    "Data Access Layer Mastery/1-📘 Spring Data JPA - Derived Query Methods (الدليل الشامل).md",
+    "JAVA CORE☕/INTERVIEW questions/74-Stack & Heap in java.md",
+    "JAVA CORE☕/INTERVIEW questions/73-Records.md",
+    "Spring Ai/Section3/3-Large Language Models (LLMs)=> How They Learn, Predict, and Why They Need Massive Computing Power.md",
+    "Spring Ai/Section3/2-Types of AI  Models.md",
+    "Spring Ai/Section3/1-AI Family Tree=> From Artificial Intelligence to Generative AI & LLMs.md",
+    "Spring Ai/Section3/0-GenAI.md",
     "Spring Ai/Section2/8.1-custom advisors.md",
+    "Spring Ai/Section3.md",
+    "Spring Ai/Section3",
+    "Spring Ai/Section2/8-Custom advisor.md",
     "Spring Ai/Section2/7-Advisors P2.md",
     "Spring Ai/Section2/6-Advisors.md",
     "Spring Ai/Section2/4-Prompt Stuffing.md",
@@ -198,27 +216,12 @@
     "Spring Ai/Section 1/1-NOTES.md",
     "Spring Ai/Section2/1-Message Roles in LLMS.md",
     "Spring Ai/Section2/0-notes.md",
-    "JAVA CORE☕/INTERVIEW questions/73-Records.md",
     "feature-based Arch/3-Apply CQRS.md",
-    "feature-based Arch/2-Project with Feature.md",
-    "feature-based Arch/1-.md",
-    "CQRS Pattern/Exp.md",
-    "feature-based Arch/1.1-Mediatr.md",
     "Pasted image 20260808164441.png",
     "Pasted image 20260808163641.png",
-    "JAVA CORE☕/INTERVIEW questions/72-Interface = What the service can do Implementation = How the service does it.md",
     "CQRS Pattern",
-    "Flyway (DB Migrations)/4-Part4.md",
-    "feature-based Arch/0-.md",
-    "Flyway (DB Migrations)/0-RoadMap.md",
-    "Flyway (DB Migrations)/3-part3.md",
-    "Flyway (DB Migrations)/2-Part2  Flyway Deep Dive.md",
-    "Flyway (DB Migrations)/1- Part 1.md",
     "Flyway (DB Migrations)",
     "Untitled",
-    "English/words.md",
-    "English/improvement.md",
-    "Servlet/1-Exp1.md",
     "Pasted image 20260803003032.png",
     "Spring Security/in",
     "feature-based Arch",
@@ -226,14 +229,10 @@
     "Kafka",
     "Logging",
     "Exception Handling",
-    "JAVA CORE☕/INTERVIEW questions/micro 1",
     "Pasted image 20260725153006.png",
     "Pasted image 20260725131004.png",
     "Pasted image 20260724012646.png",
     "Pasted image 20260723233030.png",
-    "Pasted image 20260723232906.png",
-    "Pasted image 20260723165503.png",
-    "Pasted image 20260723151909.png",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

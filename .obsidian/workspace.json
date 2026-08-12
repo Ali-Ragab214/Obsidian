@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Access Layer Mastery/6-Phase 3 => Race Condition.md",
+                "file": "JAVA CORE☕/INTERVIEW questions/77- Can you instantiate an interface in Java? What about anonymous classes?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6-Phase 3 => Race Condition"
+              "title": "77- Can you instantiate an interface in Java? What about anonymous classes?"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "8a47a1ccf4bc7ed5",
   "lastOpenFiles": [
+    "JAVA CORE☕/INTERVIEW questions/0-Sample questions.md",
+    "JAVA CORE☕/INTERVIEW questions/77- Can you instantiate an interface in Java? What about anonymous classes?.md",
+    "JAVA CORE☕/INTERVIEW questions/76-  3. Can an abstract class have a constructor? When would it be called?.md",
     "Data Access Layer Mastery/5-Database Locking.md",
     "Data Access Layer Mastery/6-Phase 3 => Race Condition.md",
     "Pasted image 20260811200501.png",
@@ -215,8 +218,6 @@
     "Spring Ai/Section 1/2-simple recap.md",
     "Spring Ai/Section 1/1-NOTES.md",
     "Spring Ai/Section2/1-Message Roles in LLMS.md",
-    "Spring Ai/Section2/0-notes.md",
-    "feature-based Arch/3-Apply CQRS.md",
     "Pasted image 20260808164441.png",
     "Pasted image 20260808163641.png",
     "CQRS Pattern",

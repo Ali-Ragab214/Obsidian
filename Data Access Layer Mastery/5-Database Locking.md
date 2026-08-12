@@ -41,3 +41,17 @@ pessimestic ,optimistic
 
 ---
 يعني مثال كدا عندنا لو انا روحت الجيم وروحت علي لوكر احط فيه حاجتي وفتحته وقولت هروح  اشرب واجي احط الحاجه بتاعتي بس قفلته بقفل لحد ما ارجع ف دا pessimestic   لكن لو مقفلتوش ف دا  optimistic 
+
+
+يعني كدا خلاصه الموضوع ان ال optimistic دا متفائل - بيفترض إن **الـ conflicts مش بتحصل كتير**  وبيتوقع الافضل و **مش بيعمل DB lock** أثناء القراءة/التعديل و بيستخدم `@Version` عشان يكتشف إن الـ record اتعدل من transaction تانية. و دايما فمبيعملش lock  علي الريكورد وهو مثلا بيعمله update فدا هيخلينا نقرا الكويري اسرع فبالتالي بيرفورمانس افضل بس  ممكن يسبب conflicts كتير لو في alot of concurrent updates  فبالتالي  low data integrity 
+وبنطبقه في spring through => @Version annotation 
+بيستخدم `@Version` عشان يكتشف إن الـ record اتعدل من transaction تانية.
+
+
+لكن ال pessimestic دا المتشائم يعني - بيفترض إن **الـ conflicts ممكن تحصل**. عشان يعدل علي record هيعمل عليه lock بحيث محدش يعدل غير لما هو يخلص فدا better consistency and easy to use 
+ولكن ولكن low performance due to high resource Utilization  
+وبنطبقه في spring عن طريق  @Lock annotation  فوق الميثود اللي في الريبوزيتوري ولازم نعملها call inside transactional 
+
+- بيدي **strong consistency**، لكن ممكن يقلل الـ performance بسبب waiting/locking، وممكن يؤدي لـ **deadlocks** لو استخدمناه بشكل سيئ.
+- 
+

@@ -344,7 +344,7 @@ OptimisticLockException
 
 يعني بتقول:
 
-> "غالبًا محدش هيعدل نفس الـ record وأنا شغال."
+> "غالبًا محدش هيعدل نفس الـ record وأنا شغال." فبنستخدمه في ال systems that hasnot a lot of concurrent updates 
 
 فبدل ما أقفل الـ record، هسمح للناس تقرأ وتشتغل، ولو حصل conflict أكتشفه في الآخر.
 
@@ -420,7 +420,7 @@ OptimisticLockException
 
 # 11. `PESSIMISTIC_WRITE`
 
-في Spring Data JPA:
+في Spring Data JPA: 
 
 ```java
 @Lock(LockModeType.PESSIMISTIC_WRITE)
@@ -1777,3 +1777,6 @@ UNLOCK
 ```
 
 **والخطوة اللي بعدها منطقيًا جدًا** إننا ندخل على **Transaction Management في Spring بالتفصيل**: `@Transactional`، الـ propagation، `REQUIRED / REQUIRES_NEW / NESTED`، rollback rules، self-invocation، وtransaction boundaries؛ لأن ده هو الجزء اللي هيخليك تفهم _فعليًا_ ليه الـ locking والـ isolation اللي فوق بيشتغلوا بالطريقة دي.
+
+
+```

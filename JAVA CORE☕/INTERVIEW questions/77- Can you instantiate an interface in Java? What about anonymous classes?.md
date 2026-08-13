@@ -6,6 +6,20 @@
 
 خلينا نفكّه واحدة واحدة.
 
+مينفعش نعمل object  مباشره من  ال interface  ولكننا نعرف نعمل  
+Animal animal = new Animal() {
+
+    @Override
+    public void sound() {
+        System.out.println("Woof");
+    }
+};
+واحنا كدا عملنا  object from an anonymus class that implement the interface implicitly  وبردوا ممكن نعمل كدا مع ال abstract class 
+ وطبعا عارفين اننا ممكن ال refrence يبقا من الانترفيس لكن الاوبجكت من class that implement the interface 
+
+```java 
+
+```
 ---
 
 # 1. هل أقدر أعمل Instantiate للـ Interface؟

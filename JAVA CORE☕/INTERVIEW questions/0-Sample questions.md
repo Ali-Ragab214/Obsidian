@@ -2,7 +2,7 @@
 
 - [ ] # ☕ Java Core
 
-- [ ]  **1.** What is the difference between `==` and `equals()` when used with Integer values between -128 and 127?
+- [x]  **1.** What is the difference between `==` and `equals()` when used with Integer values between -128 and 127?
     
 - [ ]  **2.** What happens if you don't override `hashCode()` but you override `equals()`?
     

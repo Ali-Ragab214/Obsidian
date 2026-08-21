@@ -12,15 +12,15 @@
     
 - [x]  **5.** Can you instantiate an interface in Java? What about anonymous classes?
     
-- [ ]  **6.** What is the difference between `throw` and `throws`?
+- [x]  **6.** What is the difference between `throw` and `throws`?
     
-- [ ]  **7.** What happens when a static method and an instance method have the same name in the same class?
+- [x]  **7.** What happens when a static method and an instance method have the same name in the same class?
     
-- [ ]  **8.** Can a constructor be private? What design pattern does this enable?
+- [x]  **8.** Can a constructor be private? What design pattern does this enable?
     
 - [ ]  **9.** What is the difference between `instanceof` and `getClass()` in a type check?
     
-- [ ]  **10.** What happens if an exception is thrown inside a `finally` block?
+- [x]  **10.** What happens if an exception is thrown inside a `finally` block?
     
 - [ ]  **11.** Can you override a static method? Can you hide it?
     

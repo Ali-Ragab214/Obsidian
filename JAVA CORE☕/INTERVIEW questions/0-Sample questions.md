@@ -22,7 +22,7 @@
     
 - [x]  **10.** What happens if an exception is thrown inside a `finally` block?
     
-- [ ]  **11.** Can you override a static method? Can you hide it?
+- [x]  **11.** Can you override a static method? Can you hide it?
     
 - [ ]  **12.** What is the difference between shallow copy and deep copy? How do you achieve each in Java?
     

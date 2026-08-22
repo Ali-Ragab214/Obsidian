@@ -24,9 +24,9 @@
     
 - [x]  **11.** Can you override a static method? Can you hide it?
     
-- [ ]  **12.** What is the difference between shallow copy and deep copy? How do you achieve each in Java?
+- [x]  **12.** What is the difference between shallow copy and deep copy? How do you achieve each in Java?
     
-- [ ]  **13.** What happens when you call `new String("hello")` vs `"hello"` — how many objects are created?
+- [x]  **13.** What happens when you call `new String("hello")` vs `"hello"` — how many objects are created?
     
 - [ ]  **14.** What is autoboxing? What are the potential performance or bug issues with it?
     

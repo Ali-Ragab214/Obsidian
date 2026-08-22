@@ -741,7 +741,7 @@ Dog object
 ```java
 Dog d = new Dog();
 
-d = null;
+d = null; 
 ```
 
 دلوقتي الـ Dog القديم مفيش حاجة بتشاور عليه.
@@ -1253,6 +1253,16 @@ Dog createDog(String name) {
 
     return d;
 }
+
+
+Person createPerson(String name , int age)
+{
+Person p = new Person();
+p.name = "Ali";
+p.age=23;
+
+return p ;
+}
 ```
 
 وبالتالي:
@@ -1333,7 +1343,7 @@ balance
 
 Encapsulation معناها إنك:
 
-> **تجمع الـ state والbehavior المرتبطين ببعض داخل object، وتتحكم في الوصول للـ internal state.**
+> ==**تجمع الـ state والbehavior المرتبطين ببعض داخل object، وتتحكم في الوصول للـ internal state.**==
 
 يعني بدل:
 
@@ -1841,3 +1851,11 @@ Protect/control object state
 > **Behavior affects state.**
 
 لو فهمت التلاتة دول كويس، هتكون فهمت أساس الـ **Object-Oriented Programming** اللي الكتاب بيبني عليه بعد كده.
+
+
+a java can has multiple return statements on its code but only one executed per method call ;
+
+
+**Zatouna:**
+
+> A method can contain multiple `return` statements, but one execution of the method returns only one value.

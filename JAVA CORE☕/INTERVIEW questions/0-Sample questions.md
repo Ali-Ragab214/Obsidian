@@ -28,20 +28,20 @@
     
 - [x]  **13.** What happens when you call `new String("hello")` vs `"hello"` — how many objects are created?
     
-- [ ]  **14.** What is autoboxing? What are the potential performance or bug issues with it?
+- [x]  **14.** What is autoboxing? What are the potential performance or bug issues with it?
     
-- [ ]  **15.** What is the difference between `break`, `continue`, and `return` inside a loop?
+- [x]  **15.** What is the difference between `break`, `continue`, and `return` inside a loop?
     
 
 - [ ] ---
 
 - [ ] # 🧬 OOP & Design
 
-- [ ]  **16.** What is the difference between Composition and Aggregation?
+- [x]  **16.** What is the difference between Composition and Aggregation?
     
-- [ ]  **17.** Can a final class be extended? Can a final method be overloaded?
+- [x]  **17.** Can a final class be extended? Can a final method be overloaded?
     
-- [ ]  **18.** What is method hiding vs method overriding — what's the key difference?
+- [x]  **18.** What is method hiding vs method overriding — what's the key difference?
     
 - [ ]  **19.** If a parent class constructor throws a checked exception, what must the child class constructor do?
     

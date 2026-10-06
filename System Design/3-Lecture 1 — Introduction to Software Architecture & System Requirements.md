@@ -159,7 +159,7 @@ Design → Implementation → Testing → Deployment
 
 ---
 
-## 6.1 Functional Requirements (FR)
+## 6.1 Functional Requirements (FR) ==🔴what system does==
 
 > What the system DOES.
 
@@ -185,8 +185,8 @@ Design → Implementation → Testing → Deployment
 ---
 
 ## 6.2 Non-Functional Requirements (NFR)
-
-اسمها كمان **Quality Attributes**
+==🟠Constraints==
+اسمها كمان  **Quality Attributes**  
 
 > How WELL the system performs.
 
@@ -237,14 +237,14 @@ Design → Implementation → Testing → Deployment
 
 ### Build Ride Sharing App 🚗
 
-**Functional Requirements**
+**Functional Requirements**   => ==🟡Features==
 
 - User requests ride
     
 - Driver accepts ride
     
 
-**Non-Functional Requirements**
+**Non-Functional Requirements** => ==🟡Quality attributes==
 
 - Handle 1M users
     

@@ -5,21 +5,22 @@
 
 ---
 
+hobby 
 ## 1️⃣ الحوار (Dialogue)
 
-|الإنجليزي|الترجمة|
-|---|---|
-|**John:** Hi, I'm John. I just started this week.|أنا جون. أنا لسه بادئ الأسبوع ده.|
-|**Sara:** Nice to meet you, John! I'm Sara. How's it going so far?|اتشرفت بيك يا جون! أنا سارة. الشغل ماشي إزاي لحد دلوقتي؟|
-|**John:** It's been good, but I'm still learning a lot. Where are you from?|كويس، بس لسه بتعلم كتير. انتي منين؟|
-|**Sara:** I'm from New York. You?|أنا من نيويورك. وانت؟|
-|**John:** I'm from London. I moved here for the job. Do you have any hobbies?|أنا من لندن. جيت هنا عشان الشغل. عندك هوايات؟|
-|**Sara:** I love traveling. What about you?|بحب السفر. وانت؟|
-|**John:** I'm into hiking and photography. I'm hoping to explore some trails.|بحب المشي في الجبال (**Hiking**) والتصوير. وبتمنى أستكشف شوية مسارات.|
-|**Sara:** Great! I can recommend a few places. Maybe we can go together sometime.|رائع! أقدر أرشحلك كام مكان. يمكن نروح سوا في يوم.|
-|**John:** That sounds fun! Let's plan it.|ده شكله حلو! تعالي نخطط له.|
-|**Sara:** Definitely. Nice meeting you, John!|أكيد. اتشرفت بيك يا جون!|
-|**John:** Nice meeting you too, Sara!|وانا كمان اتشرفت بيكي يا سارة!|
+| الإنجليزي                                                                         | الترجمة                                                               |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **John:** Hi, I'm John. I just started this week.                                 | أنا جون. أنا لسه بادئ الأسبوع ده.                                     |
+| **Sara:** Nice to meet you, John! I'm Sara. How's it going so far?                | اتشرفت بيك يا جون! أنا سارة. الشغل ماشي إزاي لحد دلوقتي؟              |
+| **John:** It's been good, but I'm still learning a lot. Where are you from?       | كويس، بس لسه بتعلم كتير. انتي منين؟                                   |
+| **Sara:** I'm from New York. You?                                                 | أنا من نيويورك. وانت؟                                                 |
+| **John:** I'm from London. I moved here for the job. Do you have any hobbies?     | أنا من لندن. جيت هنا عشان الشغل. عندك هوايات؟                         |
+| **Sara:** I love traveling. What about you?                                       | بحب السفر. وانت؟                                                      |
+| **John:** I'm into hiking and photography. I'm hoping to explore some trails.     | بحب المشي في الجبال (**Hiking**) والتصوير. وبتمنى أستكشف شوية مسارات. |
+| **Sara:** Great! I can recommend a few places. Maybe we can go together sometime. | رائع! أقدر أرشحلك كام مكان. يمكن نروح سوا في يوم.                     |
+| **John:** That sounds fun! Let's plan it.                                         | ده شكله حلو! تعالي نخطط له.                                           |
+| **Sara:** Definitely. Nice meeting you, John!                                     | أكيد. اتشرفت بيك يا جون!                                              |
+| **John:** Nice meeting you too, Sara!                                             | وانا كمان اتشرفت بيكي يا سارة!                                        |
 
 > ⚠️ **ملحوظة:** في الكتاب السطر اللي فيه "Definitely" مكتوب باسم John بالغلط. اللي بيقوله هو **Sara**.
 
@@ -75,15 +76,18 @@
 |Who are they?|هم مين؟|They are the teachers.|
 |When is the exam?|الامتحان امتى؟|It's at 11:00 PM.|
 
+eat => he / she / it => he eats , he plays , she plays 
+i / we / you / they => i eat , you eat , i play , you play 
+
 ---
 
 ## 3️⃣ ترتيب الكلمات (Word Order)
 
-|النوع|الترتيب|مثال|الترجمة|
-|---|---|---|---|
-|جملة عادية|Subject + Verb|They **are** American.|هم أمريكان.|
-|سؤال (نعم/لا)|Verb + Subject|**Are** they American?|هم أمريكان؟|
-|سؤال بكلمة سؤال|Question word + Verb + Subject|Where **are they** from?|هم منين؟|
+| النوع           | الترتيب                        | مثال                     | الترجمة     |
+| --------------- | ------------------------------ | ------------------------ | ----------- |
+| جملة عادية      | Subject + Verb                 | They **are** American.   | هم أمريكان. |
+| سؤال (نعم/لا)   | Verb + Subject                 | **Are** they American?   | هم أمريكان؟ |
+| سؤال بكلمة سؤال | Question word + Verb + Subject | Where **are they** from? | هم منين؟    |
 
 ### الاختصار (Contraction) مع كلمات السؤال
 
@@ -107,20 +111,20 @@
 
 ### رتّب الكلمات لتكوين أسئلة
 
-|الكلمات|الإجابة الصح|الترجمة|
-|---|---|---|
-|she who is|**Who is she?**|هي مين؟|
-|what number your cell phone is|**What is your cell phone number?**|رقم موبايلك كام؟|
-|is where room 4|**Where is room 4?**|أوضة 4 فين؟|
-|your English class is when|**When is your English class?**|حصة الإنجليزي امتى؟|
-|is his email what|**What is his email?**|إيه إيميله؟|
-|Pedro how is old|**How old is Pedro?**|بيدرو عمره كام؟|
+| الكلمات                        | الإجابة الصح                        | الترجمة             |
+| ------------------------------ | ----------------------------------- | ------------------- |
+| she who is                     | **Who is she?**                     | هي مين؟             |
+| what number your cell phone is | **What is your cell phone number?** | رقم موبايلك كام؟    |
+| is where room 4                | **Where is room 4?**                | أوضة 4 فين؟         |
+| your English class is when     | **When is your English class?**     | حصة الإنجليزي امتى؟ |
+| is his email what              | **What is his email?**              | إيه إيميله؟         |
+| Pedro how is old               | **How old is Pedro?**               | بيدرو عمره كام؟     |
 
 > 📝 في حلّك رقم 2 كلمة **number** كانت ناقصة. الجملة الكاملة: What is your cell phone **number**?
 
 ### اكتب الأسئلة لإكمال المحادثة
 
-||السؤال|الإجابة|
+||السؤال|الإجابة
 |---|---|---|
 |A:|What's your name?|Pedro Guzman.|
 |1|**Where are you from?**|Monterrey.|
@@ -137,18 +141,18 @@
 
 ### كلمات عامة
 
-|الكلمة|المعنى|مثال|
-|---|---|---|
-|**Introduce**|يعرّف / يقدّم|Let me introduce myself. (خليني أعرّفك بنفسي)|
-|**Name**|اسم|My name is Ali.|
-|**Hobby**|هواية|My hobby is reading.|
-|**Work**|مكان الشغل / يشتغل|I work in Cairo.|
-|**Job**|وظيفة|I have a good job.|
-|**Friend**|صاحب|He is my friend.|
-|**Colleague**|زميل شغل|She is my colleague.|
-|**Conversation**|محادثة|We had a nice conversation.|
-|**Country**|دولة|Egypt is my country.|
-|**City**|مدينة|Cairo is a big city.|
+| الكلمة           | المعنى             | مثال                                          |
+| ---------------- | ------------------ | --------------------------------------------- |
+| **Introduce**    | يعرّف / يقدّم      | Let me introduce myself. (خليني أعرّفك بنفسي) |
+| **Name**         | اسم                | My name is Ali.                               |
+| **Hobby**        | هواية              | My hobby is reading.                          |
+| **Work**         | مكان الشغل / يشتغل | I work in Cairo.                              |
+| **Job**          | وظيفة              | I have a good job.                            |
+| **Friend**       | صاحب               | He is my friend.                              |
+| **Colleague**    | زميل شغل           | She is my colleague.                          |
+| **Conversation** | محادثة             | We had a nice conversation.                   |
+| **Country**      | دولة               | Egypt is my country.                          |
+| **City**         | مدينة              | Cairo is a big city.                          |
 
 ### جمل مهمة
 
@@ -162,13 +166,13 @@
 
 ### صفات الشخصية
 
-|الكلمة|المعنى|
-|---|---|
-|**Outgoing**|اجتماعي ومنفتح|
-|**Shy**|خجول|
-|**Polite**|مؤدب|
-|**Talkative**|كلامجي (بيتكلم كتير)|
-|**Friendly**|ودود|
+| الكلمة        | المعنى               |
+| ------------- | -------------------- |
+| **Outgoing**  | اجتماعي ومنفتح       |
+| **Shy**       | خجول                 |
+| **Polite**    | مؤدب                 |
+| **Talkative** | كلامجي (بيتكلم كتير) |
+| **Friendly**  | ودود                 |
 
 ### مواضيع للكلام (Small Talk)
 
@@ -215,12 +219,12 @@
 
 **رسمي (Formal)**
 
-|الجملة|المعنى|
-|---|---|
-|Hello, my name is [اسمك].|أهلاً، اسمي...|
-|Pleased to meet you.|سعيد بمقابلتك.|
-|May I introduce myself? I'm [اسمك].|ممكن أعرّف بنفسي؟ أنا...|
-|It's a pleasure to meet you.|شرف لي مقابلتك.|
+| الجملة                              | المعنى                   |
+| ----------------------------------- | ------------------------ |
+| Hello, my name is [اسمك].           | أهلاً، اسمي...           |
+| Pleased to meet you.                | سعيد بمقابلتك.           |
+| May I introduce myself? I'm [اسمك]. | ممكن أعرّف بنفسي؟ أنا... |
+| It's a pleasure to meet you.        | شرف لي مقابلتك.          |
 
 **غير رسمي (Informal)**
 
@@ -232,12 +236,12 @@
 
 ### السؤال عن معلومات (مع الإجابات الصح)
 
-|السؤال|المعنى|إجابة مناسبة|
-|---|---|---|
-|Where are you from?|انت منين؟|I'm from Egypt.|
-|What do you do?|بتشتغل إيه؟|I'm a software engineer.|
-|Do you live here?|بتعيش هنا؟|Yes, I do. / No, I don't.|
-|How long have you been here?|بقالك قد إيه هنا؟|I've been here for 2 years.|
+| السؤال                       | المعنى            | إجابة مناسبة                |
+| ---------------------------- | ----------------- | --------------------------- |
+| Where are you from?          | انت منين؟         | I'm from Egypt.             |
+| What do you do?              | بتشتغل إيه؟       | I'm a software engineer.    |
+| Do you live here?            | بتعيش هنا؟        | Yes, I do. / No, I do n't.  |
+| How long have you been here? | بقالك قد إيه هنا؟ | I've been here for 2 years. |
 
 > 📝 "What do you do?" معناها **شغلك إيه**، فلازم تجاوب بوظيفتك، مش "I'm fine".
 

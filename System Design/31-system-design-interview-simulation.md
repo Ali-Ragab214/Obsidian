@@ -574,13 +574,7 @@ public Page<ProductDto> list(@PageableDefault(size=20) Pageable p) {
 احكيلي بيحصل ايه من أول ما أكتب URL لحد ما الـ Response يرجع.
 
 **Model Answer:**
-DNS Resolve → TCP + TLS handshake → Request يروح LB → API Gateway → Service → Cache/DB → Response. الـ DNS بيحول الاسم لـ IP، والـ CDN ممكن يرد من أقرب Edge.
-
-**Key Points:**
-
-- الترتيب الصح للخطوات
-- يذكر LB و Cache في الطريق
-
+DNS Resolve → TCP + TLS handshake → Request يروح LB → API Gateway → Service → Cache/DB → Response. الـ DNS بيحول الاسم لـ IPى
 **Common Mistakes:**
 
 - ينسى DNS و TLS تماماً ❌
@@ -630,6 +624,7 @@ Users/Orders → MySQL (Relations + ACID + Joins). Reviews / Product attributes 
 **Level:** Mid
 
 ---
+
 
 ### Q2.8 — Indexing و Sharding و Replication — حطهم في جملة واحدة مفيدة
 

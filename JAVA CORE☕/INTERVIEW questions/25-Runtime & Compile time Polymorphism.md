@@ -4,7 +4,8 @@
 
 # 🧠 What is Polymorphism?
 
-**Polymorphism = نفس الـ method name لكن سلوك مختلف**
+**Polymorphism = نفس الـ method name لكن سلوك مختلف**'
+same method name but different behavior 
 
 يعني:
 
@@ -72,7 +73,7 @@ Java فيها نوعين أساسيين:
 ## ⚙️ بيحصل عن طريق:
 
 ### 👉 Method Overloading
-
+   # static
 ---
 
 ## 📌 Example:
@@ -290,5 +291,3 @@ Cat meows
     
 - أو MCQ style interview practice
     
-
-قولّي 👍

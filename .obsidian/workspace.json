@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/97-final field initialization  & Default values.md",
+                "file": "JAVA CORE☕/INTERVIEW questions/98-📌 Using this and super in a Static Context in Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "97-final field initialization  & Default values"
+              "title": "98-📌 Using this and super in a Static Context in Java"
             }
           }
         ],
@@ -217,8 +217,10 @@
   },
   "active": "ece7c1580b5625be",
   "lastOpenFiles": [
-    "JAVA CORE☕/INTERVIEW questions/96-Sealed.md",
+    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
+    "JAVA CORE☕/INTERVIEW questions/98-📌 Using this and super in a Static Context in Java.md",
     "JAVA CORE☕/INTERVIEW questions/97-final field initialization  & Default values.md",
+    "JAVA CORE☕/INTERVIEW questions/96-Sealed.md",
     "JAVA CORE☕/Sticky notes/4-Record and enums.md",
     "Pasted image 20261010144004.png",
     "JAVA CORE☕/Sticky notes/1-Interface.md",
@@ -229,7 +231,6 @@
     "Amr/4-Unit 4.md",
     "Amr/5-Unit 5.md",
     "Amr/6-Unit 6.md",
-    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
     "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
     "Servlet/1-Exp1.md",
     "Sticky notes/1-One.md",
@@ -245,7 +246,6 @@
     "System Design/System Design - Gap Analysis Report.md",
     "System Design/30-Api Versioning.md",
     "System Design/31.1-Sharding vs Replication.md",
-    "JAVA CORE☕/INTERVIEW questions/0-Sample questions.md",
     "Pasted image 20261007222447.png",
     "Data Center",
     "Amr",

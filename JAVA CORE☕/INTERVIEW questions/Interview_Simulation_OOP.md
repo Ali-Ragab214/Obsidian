@@ -92,6 +92,10 @@ Animal a = new Dog(); a.sound(); // dynamic
 
 ---
 
+
+```
+Abstract class : only can inherit one class, can be private ,can have private method , can have fields and private fields ,can have constructor ,==🔴cant be final due to it is created to be extended== 
+```
 # السؤال الأول
 
 > **When to use abstract class vs interface? And what about `default`/`static`/`private` methods?**

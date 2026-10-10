@@ -1,4 +1,4 @@
-interface fields Always =? public ,static and final 
+interface fields Always => public ,static and final 
 
 
 ## 1. Fields in an Interface
@@ -91,3 +91,26 @@ interface Animal {
 - Interface ممكن تحتوي على methods لها implementation باستخدام `default` و`static` و`private` وفقًا لإصدار Java.
     
 - Interface cannot have constructors or instance fields.
+
+```java
+interface Shape 
+{
+Integer legs = 4 ; //by default its  public ,final and abstract
+
+void Big(); => //public abstract 
+
+default void unregular()
+{
+System.out.println("Unregular shape");
+}
+static void regular()
+{
+System.out.println("regular shape");
+}
+
+private void helper()
+{
+System.out.println("Helper");
+}
+}
+```

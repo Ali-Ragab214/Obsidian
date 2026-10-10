@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
+                "file": "JAVA CORE☕/INTERVIEW questions/97-final field initialization  & Default values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview_Simulation_OOP"
+              "title": "97-final field initialization  & Default values"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,15 +215,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1645c6159ea7be7",
+  "active": "ece7c1580b5625be",
   "lastOpenFiles": [
-    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
+    "JAVA CORE☕/INTERVIEW questions/96-Sealed.md",
+    "JAVA CORE☕/INTERVIEW questions/97-final field initialization  & Default values.md",
+    "JAVA CORE☕/Sticky notes/4-Record and enums.md",
+    "Pasted image 20261010144004.png",
     "JAVA CORE☕/Sticky notes/1-Interface.md",
-    "Servlet/1-Exp1.md",
-    "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
+    "JAVA CORE☕/Sticky notes/2 DEF methods 2 DEF INTERFACES.md",
+    "JAVA CORE☕/Sticky notes/2-Abstract method.md",
+    "JAVA CORE☕/Sticky notes/3-The class that extend Sealed class.md",
+    "Pasted image 20261009225751.png",
     "Amr/4-Unit 4.md",
-    "Amr/6-Unit 6.md",
     "Amr/5-Unit 5.md",
+    "Amr/6-Unit 6.md",
+    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
+    "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
+    "Servlet/1-Exp1.md",
     "Sticky notes/1-One.md",
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation.md",
     "Sticky notes",
@@ -238,13 +246,7 @@
     "System Design/30-Api Versioning.md",
     "System Design/31.1-Sharding vs Replication.md",
     "JAVA CORE☕/INTERVIEW questions/0-Sample questions.md",
-    "Amr/3-Unit 3.md",
     "Pasted image 20261007222447.png",
-    "Amr/2-Unit 2.md",
-    "System Design/10-Fault tolerance & High Availability.md",
-    "System Design/11-SLI, SLO, SLA.md",
-    "System Design/9-Availability.md",
-    "System Design/8-Scalability.md",
     "Data Center",
     "Amr",
     "Ai Roadmap and learning/1-Week2",
@@ -261,8 +263,6 @@
     "Pasted image 20260811200220.png",
     "Pasted image 20260811195434.png",
     "Spring Ai/Section3",
-    "Pasted image 20260808164441.png",
-    "Pasted image 20260808163641.png",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

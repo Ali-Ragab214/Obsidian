@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "23bb5c8d63b63a08",
+        "id": "a03449a5d2bed062",
         "type": "tabs",
         "children": [
           {
-            "id": "31ff9a6fbdf5769a",
+            "id": "8a2578ea2e6b7c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
+                "file": "SOLID/1-S.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-Runtime & Compile time Polymorphism"
-            }
-          },
-          {
-            "id": "d1645c6159ea7be7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA CORE☕/Sticky notes/1-Interface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-Interface"
-            }
-          },
-          {
-            "id": "ece7c1580b5625be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/98-📌 Using this and super in a Static Context in Java.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "98-📌 Using this and super in a Static Context in Java"
+              "title": "1-S"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,23 +186,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece7c1580b5625be",
+  "active": "8a2578ea2e6b7c85",
   "lastOpenFiles": [
+    "Amr/7-Unit 7.md",
+    "SOLID/1-S.md",
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
+    "JAVA CORE☕/INTERVIEW questions/99-What are the types of inner classes? Static vs non-static nested?.md",
+    "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
+    "Amr/6-Unit 6.md",
+    "JAVA CORE☕/Sticky notes/1-Interface.md",
+    "Pasted image 20261010203847.png",
+    "Pasted image 20261010203814.png",
+    "JAVA CORE☕/Sticky notes/5-Super`s.md",
+    "Pasted image 20261010202719.png",
     "JAVA CORE☕/INTERVIEW questions/98-📌 Using this and super in a Static Context in Java.md",
     "JAVA CORE☕/INTERVIEW questions/97-final field initialization  & Default values.md",
     "JAVA CORE☕/INTERVIEW questions/96-Sealed.md",
     "JAVA CORE☕/Sticky notes/4-Record and enums.md",
     "Pasted image 20261010144004.png",
-    "JAVA CORE☕/Sticky notes/1-Interface.md",
     "JAVA CORE☕/Sticky notes/2 DEF methods 2 DEF INTERFACES.md",
     "JAVA CORE☕/Sticky notes/2-Abstract method.md",
     "JAVA CORE☕/Sticky notes/3-The class that extend Sealed class.md",
     "Pasted image 20261009225751.png",
     "Amr/4-Unit 4.md",
     "Amr/5-Unit 5.md",
-    "Amr/6-Unit 6.md",
-    "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
     "Servlet/1-Exp1.md",
     "Sticky notes/1-One.md",
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation.md",
@@ -242,10 +220,6 @@
     "Spring Security/🧠 1-رحلة الـ Request داخل Spring MVC + Servlet Container1.md",
     "Untitled 2.md",
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_Part2.md",
-    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_Part1.md",
-    "System Design/System Design - Gap Analysis Report.md",
-    "System Design/30-Api Versioning.md",
-    "System Design/31.1-Sharding vs Replication.md",
     "Pasted image 20261007222447.png",
     "Data Center",
     "Amr",
@@ -259,9 +233,6 @@
     "A.pdf",
     "Unconfirmed 639538.crdownload",
     "Telecom Regulatory Compliance",
-    "Pasted image 20260811200501.png",
-    "Pasted image 20260811200220.png",
-    "Pasted image 20260811195434.png",
     "Spring Ai/Section3",
     "Untitled.canvas",
     "x/Untitled.canvas"

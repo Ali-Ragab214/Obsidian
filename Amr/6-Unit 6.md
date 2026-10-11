@@ -6,36 +6,43 @@
 
 ## 1) Vocabulary (من الصور)
 
-|الكلمة|الترجمة|
-|---|---|
-|CCTV cameras|كاميرات مراقبة|
-|Metal detectors|أجهزة كشف المعادن|
-|X-ray scanners|أجهزة الأشعة السينية (لفحص الشنط)|
-|Bulletproof glass|زجاج مضاد للرصاص|
-|Security alarms|أجهزة إنذار أمنية|
-|Access control systems|أنظمة التحكم في الدخول (كارت / كود)|
-|Surveillance drones|طائرات مراقبة (درونز)|
-|Panic buttons|أزرار الطوارئ / الذعر|
-|Guard tour systems|أنظمة جولات الحراسة (الحارس بيسجل مروره على نقاط محددة)|
+| الكلمة                 | الترجمة                                                 |
+| ---------------------- | ------------------------------------------------------- |
+| CCTV cameras           | كاميرات مراقبة                                          |
+| Metal detectors        | أجهزة كشف المعادن                                       |
+| X-ray scanners         | أجهزة الأشعة السينية (لفحص الشنط)                       |
+| Bulletproof glass      | زجاج مضاد للرصاص                                        |
+| Security alarms        | أجهزة إنذار أمنية                                       |
+| Access control systems | أنظمة التحكم في الدخول (كارت / كود)                     |
+| Surveillance drones    | طائرات مراقبة (درونز)                                   |
+| Panic buttons          | أزرار الطوارئ / الذعر                                   |
+| Guard tour systems     | أنظمة جولات الحراسة (الحارس بيسجل مروره على نقاط محددة) |
+|                        |                                                         |
 
+
+
+![[Pasted image 20261010203814.png]]
 ---
+![[Pasted image 20261010203847.png]]
+
+
 
 ## 2) Dialogue (الحوار + الترجمة)
 
-|الشخص|الجملة|الترجمة|
-|---|---|---|
-|**Security Officer**|Good morning! May I see your ID?|صباح الخير! ممكن أشوف هويتك؟|
-|**Visitor**|Sure, here's my passport.|أكيد، دا جواز سفري.|
-|**Security Officer**|Thanks. [Swipes passport] Everything looks good. Please place your bag on the conveyor belt for the X-ray scan.|شكراً. [بيمرر الجواز] كل حاجة تمام. من فضلك حط شنطتك على السير لفحص الأشعة.|
-|**Visitor**|Sure, here it is.|أكيد، اتفضل.|
-|**Security Officer**|Next, walk through the metal detector.|بعد كده، امشي من خلال جهاز كشف المعادن.|
-|**Visitor**|[Walks through, detector beeps] It must be my belt.|[بيمشي، الجهاز بيصفر] أكيد دا الحزام بتاعي.|
-|**Security Officer**|Please remove your belt and try again.|من فضلك شيل الحزام وجرب تاني.|
-|**Visitor**|[Removes belt and walks through, no beep] All clear.|[بيشيل الحزام ويمشي، مفيش صفارة] كله تمام.|
-|**Security Officer**|Great. Here's your bag. We have CCTV cameras and other security measures like bulletproof glass and panic buttons for your safety.|ممتاز. دي شنطتك. عندنا كاميرات مراقبة وإجراءات أمنية تانية زي الزجاج المضاد للرصاص وأزرار الطوارئ علشان سلامتك.|
-|**Visitor**|It's good to know security is thorough.|كويس إني أعرف إن الأمن دقيق وشامل.|
-|**Security Officer**|Safety is our priority. If you need help, press the help button near reception. Have a great day!|السلامة أولويتنا. لو احتجت مساعدة، اضغط زر المساعدة جنب الاستقبال. يوم سعيد!|
-|**Visitor**|Thanks, you too!|شكراً، وإنت كمان!|
+| الشخص                | الجملة                                                                                                                             | الترجمة                                                                                                         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Security Officer** | Good morning! May I see your ID?                                                                                                   | صباح الخير! ممكن أشوف هويتك؟                                                                                    |
+| **Visitor**          | Sure, here's my passport.                                                                                                          | أكيد، دا جواز سفري.                                                                                             |
+| **Security Officer** | Thanks. [Swipes passport] Everything looks good. Please place your bag on the conveyor belt for the X-ray scan.                    | شكراً. [بيمرر الجواز] كل حاجة تمام. من فضلك حط شنطتك على السير لفحص الأشعة.                                     |
+| **Visitor**          | Sure, here it is.                                                                                                                  | أكيد، اتفضل.                                                                                                    |
+| **Security Officer** | Next, walk through the metal detector.                                                                                             | بعد كده، امشي من خلال جهاز كشف المعادن.                                                                         |
+| **Visitor**          | [Walks through, detector beeps] It must be my belt.                                                                                | [بيمشي، الجهاز بيصفر] أكيد دا الحزام بتاعي.                                                                     |
+| **Security Officer** | Please remove your belt and try again.                                                                                             | من فضلك شيل الحزام وجرب تاني.                                                                                   |
+| **Visitor**          | [Removes belt and walks through, no beep] All clear.                                                                               | [بيشيل الحزام ويمشي، مفيش صفارة] كله تمام.                                                                      |
+| **Security Officer** | Great. Here's your bag. We have CCTV cameras and other security measures like bulletproof glass and panic buttons for your safety. | ممتاز. دي شنطتك. عندنا كاميرات مراقبة وإجراءات أمنية تانية زي الزجاج المضاد للرصاص وأزرار الطوارئ علشان سلامتك. |
+| **Visitor**          | It's good to know security is thorough.                                                                                            | كويس إني أعرف إن الأمن دقيق وشامل.                                                                              |
+| **Security Officer** | Safety is our priority. If you need help, press the help button near reception. Have a great day!                                  | السلامة أولويتنا. لو احتجت مساعدة، اضغط زر المساعدة جنب الاستقبال. يوم سعيد!                                    |
+| **Visitor**          | Thanks, you too!                                                                                                                   | شكراً، وإنت كمان!                                                                                               |
 
 **ملاحظات على الحوار:**
 
@@ -48,13 +55,14 @@
 
 **الشرح:** الطلب المؤدب بنستخدمه لما نطلب من حد حاجة باحترام، خصوصاً مع: الناس اللي أعلى منك في المنصب، الغرباء، المواقف الرسمية والشغل، وكمان لما نطلب خدمة أو إذن. بيخلي الشخص يرد عليك بشكل أحسن.
 
-|الصيغة|المثال|الترجمة|
-|---|---|---|
-|**Could you please...?**|Could you please open the door?|ممكن من فضلك تفتح الباب؟|
-|**Would you mind...?**|Would you mind helping me with this?|هل تمانع تساعدني في دا؟|
-|**Can you...?**|Can you send me the report?|تقدر تبعتلي التقرير؟|
-|**Would it be possible to...?**|Would it be possible to reschedule the meeting?|هل ممكن نأجل الاجتماع؟|
-|**Do you think you could...?**|Do you think you could lend me a pen?|تفتكر تقدر تسلفني قلم؟|
+| الصيغة                          | المثال                                          | الترجمة                  |
+| ------------------------------- | ----------------------------------------------- | ------------------------ |
+| **Could you please...?**        | Could you please open the door?                 | ممكن من فضلك تفتح الباب؟ |
+| **Would you mind...?**          | Would you mind ==🟡helping== me with this?      | هل تمانع تساعدني في دا؟  |
+| **Can you...?**                 | Can you send me the report?                     | تقدر تبعتلي التقرير؟     |
+| **Would it be possible to...?** | Would it be possible to reschedule the meeting? | هل ممكن نأجل الاجتماع؟   |
+| **Do you think you could...?**  | Do you think you could lend me a pen?           | تفتكر تقدر تسلفني قلم؟   |
+|                                 |                                                 |                          |
 
 **نصيحة:** بعد **Would you mind** بنستخدم الفعل + **ing** (helping). وبعد **Could / Can** بنستخدم الفعل عادي (open / send).
 
@@ -159,13 +167,13 @@
 
 ### ملخص سريع للقوة
 
-|الصيغة|المعنى|القوة|
-|---|---|---|
-|must / have to|لازم|قوي جداً|
-|should|المفروض (نصيحة)|متوسط|
-|don't have to|مش لازم|مفيش إلزام|
-|must not / can't|ممنوع|منع|
-|shouldn't|الأفضل متعملش|نصيحة ضد|
+| الصيغة           | المعنى          | القوة      |
+| ---------------- | --------------- | ---------- |
+| must / have to   | لازم            | قوي جداً   |
+| should           | المفروض (نصيحة) | متوسط      |
+| don't have to    | مش لازم         | مفيش إلزام |
+| must not / can't | ممنوع           | منع        |
+| shouldn't        | الأفضل متعملش   | نصيحة ضد   |
 
 ---
 
@@ -173,16 +181,16 @@
 
 المثال: I'll **have to** call back later because the line's busy.
 
-|#|الجملة بعد الحل|الترجمة|ملاحظة|
-|---|---|---|---|
-|1 (+)|Passengers **have to** turn off their laptops during take-off.|الركاب لازم يقفلوا اللابتوبات وقت الإقلاع.|✅ إجابتك صح|
-|2 (?)|**Do** you **have to** do a lot of homework when you were in school?|هل كنت لازم تعمل واجبات كتير أيام المدرسة؟|✅ إجابتك مكتوبة. لكن الأدق: **Did** you **have to** do... لأن الجملة في الماضي (were in school).|
-|3 (+)|My sister is a nurse, so some weeks she **has to** work nights.|أختي ممرضة، فبعض الأسابيع لازم تشتغل بالليل.|⚠️ إجابتك have to، والصح **has to** لأن she.|
-|4 (?)|**Have** you ever **had to** have an operation?|هل اضطريت قبل كده تعمل عملية؟|لم تُحل في الصورة|
-|5 (-)|Saturdays are the best day of the week. I love **not having to** get up early.|أيام السبت أحلى يوم. بحب إني مش مضطر أصحى بدري.|لم تُحل (بعد love بنستخدم ing)|
-|6 (+)|I **had to** leave a message on her voicemail because she wasn't in.|اضطريت أسيب رسالة على البريد الصوتي علشان مكانتش موجودة.|⚠️ إجابتك "don't have to" مش مناسبة. الصح **had to** (ماضي + إيجابي).|
-|7 (-)|In the future, people **won't have to** go to school; they'll all study at home.|في المستقبل الناس مش هتحتاج تروح المدرسة؛ هيذاكروا كلهم في البيت.|⚠️ إجابتك "have to" لكن الجملة (-) والمستقبل، فالصح **won't have to**.|
-|8 (+)|With old cell phones, you used to **have to** charge the battery more often.|مع الموبايلات القديمة كنت لازم تشحن البطارية أكتر.|✅ إجابتك صح|
+| #     | الجملة بعد الحل                                                                      | الترجمة                                                           | ملاحظة                                                                                           |
+| ----- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1 (+) | Passengers **have to** turn off their laptops during take-off.                       | الركاب لازم يقفلوا اللابتوبات وقت الإقلاع.                        | ✅ إجابتك صح                                                                                      |
+| 2 (?) | Did you **have to** do a lot of homework when you were in school?                    | هل كنت لازم تعمل واجبات كتير أيام المدرسة؟                        | ✅ إجابتك مكتوبة. لكن الأدق: **Did** you **have to** do... لأن الجملة في الماضي (were in school). |
+| 3 (+) | My sister is a nurse, so some weeks she **has to** work nights.                      | أختي ممرضة، فبعض الأسابيع لازم تشتغل بالليل.                      | ⚠️ إجابتك have to، والصح **has to** لأن she.                                                     |
+| 4 (?) | **Have** you ever **had to** have an operation?                                      | هل اضطريت قبل كده تعمل عملية؟                                     | لم تُحل في الصورة                                                                                |
+| 5 (-) | Saturdays are the best day of the week. I ==🔴love== **not having to** get up early. | أيام السبت أحلى يوم. بحب إني مش مضطر أصحى بدري.                   | لم تُحل (بعد love بنستخدم ing)                                                                   |
+| 6 (+) | I **had to** leave a message on her voicemail because she wasn't in.                 | اضطريت أسيب رسالة على البريد الصوتي علشان مكانتش موجودة.          | ⚠️ إجابتك "don't have to" مش مناسبة. الصح **had to** (ماضي + إيجابي).                            |
+| 7 (-) | In the future, people **won't have to** go to school; they'll all study at home.     | في المستقبل الناس مش هتحتاج تروح المدرسة؛ هيذاكروا كلهم في البيت. | ⚠️ إجابتك "have to" لكن الجملة (-) والمستقبل، فالصح **won't have to**.                           |
+| 8 (+) | With old cell phones, you used to **have to** charge the battery more often.         | مع الموبايلات القديمة كنت لازم تشحن البطارية أكتر.                | ✅ إجابتك صح                                                                                      |
 
 **القاعدة:** have to بتتغير حسب الزمن:
 
@@ -215,13 +223,13 @@
 
 ### a) Match the instructions with the pictures
 
-|#|التعليمات|الترجمة|الصورة|
-|---|---|---|---|
-|1|You must present valid identification, such as your passport, when entering the consulate.|لازم تقدم هوية سارية، زي جواز سفرك، لما تدخل القنصلية.|**d** (الباسبورت) ✅|
-|2|You have to place your bag on the conveyor belt for an X-ray scan.|لازم تحط شنطتك على السير لفحص الأشعة.|**e** (جهاز الأشعة) ✅|
-|3|You must remove any metal objects, like belts or keys, before walking through the metal detector.|لازم تشيل أي حاجة معدنية، زي الأحزمة أو المفاتيح، قبل ما تمشي من جهاز كشف المعادن.|**c** (بوابة كشف المعادن) ✅|
-|4|You must not bring any prohibited items, such as weapons or sharp objects, into the consulate.|ممنوع تدخل أي حاجات محظورة، زي الأسلحة أو الأدوات الحادة، للقنصلية.|**a** (علامة ممنوع سلاح) ✅|
-|5|You must be aware of and respect all posted security measures, such as CCTV surveillance and restricted areas.|لازم تكون واعي ومحترم لكل الإجراءات الأمنية المعلنة، زي كاميرات المراقبة والمناطق المحظورة.|**b** (كاميرا المراقبة) ✅|
+| #   | التعليمات                                                                                                      | الترجمة                                                                                     | الصورة                      |
+| --- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------- |
+| 1   | You must present valid identification, such as your passport, when entering the consulate.                     | لازم تقدم هوية سارية، زي جواز سفرك، لما تدخل القنصلية.                                      | **d** (الباسبورت) ✅         |
+| 2   | You have to place your bag on the conveyor belt for an X-ray scan.                                             | لازم تحط شنطتك على السير لفحص الأشعة.                                                       | **e** (جهاز الأشعة) ✅       |
+| 3   | You must remove any metal objects, like belts or keys, before walking through the metal detector.              | لازم تشيل أي حاجة معدنية، زي الأحزمة أو المفاتيح، قبل ما تمشي من جهاز كشف المعادن.          | **c** (بوابة كشف المعادن) ✅ |
+| 4   | You must not bring any prohibited items, such as weapons or sharp objects, into the consulate.                 | ممنوع تدخل أي حاجات محظورة، زي الأسلحة أو الأدوات الحادة، للقنصلية.                         | **a** (علامة ممنوع سلاح) ✅  |
+| 5   | You must be aware of and respect all posted security measures, such as CCTV surveillance and restricted areas. | لازم تكون واعي ومحترم لكل الإجراءات الأمنية المعلنة، زي كاميرات المراقبة والمناطق المحظورة. | **b** (كاميرا المراقبة) ✅   |
 
 كل إجاباتك صح 👏
 

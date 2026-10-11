@@ -242,6 +242,7 @@ class Student extends Person {
         System.out.println(super.name); // 3- field الأب لو مخفي
     }
 }
+
 ```
 
 - `super(...)` لازم أول statement (الأب يتهيأ قبل الابن).
@@ -322,6 +323,39 @@ extends = Inheritance
 - **When NOT:** لمجرد reuse الكود (استخدم composition)، ولما الـ hierarchy هتتعقد (favor composition).
 
 **What the interviewer is really testing:** أشهر سؤال تصميم، بيكشف هتعمل hierarchies عميقة تخنق المشروع ولا لا.
+
+
+
+```java
+interface MessageService{
+ void service();
+}
+
+class EmailService implements  MessageService
+{
+void service()
+{
+System.out.println("Email");
+}
+}
+
+class SmsService implements  MessageService
+{
+void service()
+{
+System.out.println("Sms");
+}
+}
+
+class Notification 
+{
+private final MessageService messageservice;
+Notification(MessageService messageservice)
+{
+  this.messageservice = messageservice;
+}
+}
+```
 
 ---
 

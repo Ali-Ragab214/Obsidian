@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID/1-S.md",
+                "file": "SOLID/5-D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-S"
+              "title": "5-D"
             }
           }
         ]
@@ -186,10 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a2578ea2e6b7c85",
+  "active": "a2fda2b07a28b7f2",
   "lastOpenFiles": [
-    "Amr/7-Unit 7.md",
+    "SOLID/6-recap.md",
+    "SOLID/5-D.md",
+    "SOLID/4-I.md",
+    "SOLID/3-L.md",
+    "SOLID/2-O.md",
     "SOLID/1-S.md",
+    "Amr/7-Unit 7.md",
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
     "JAVA CORE☕/INTERVIEW questions/99-What are the types of inner classes? Static vs non-static nested?.md",
     "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
@@ -215,11 +220,6 @@
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation.md",
     "Sticky notes",
     "System Design/31-system-design-interview-simulation.md",
-    "Spring Security/in/1-.md",
-    "Spring Security/in/0.0-road.md",
-    "Spring Security/🧠 1-رحلة الـ Request داخل Spring MVC + Servlet Container1.md",
-    "Untitled 2.md",
-    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_Part2.md",
     "Pasted image 20261007222447.png",
     "Data Center",
     "Amr",

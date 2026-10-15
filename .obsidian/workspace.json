@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "883bfa3de8785f1d",
+        "id": "dbe133c9fa810ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9d053787234252",
+            "id": "db0ab34a7b9da769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "feature-based Arch/6-AI-Powered Language Learning Platform  Complete Implementation Plan.md",
+                "file": "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6-AI-Powered Language Learning Platform  Complete Implementation Plan"
-            }
-          },
-          {
-            "id": "0856cff65dfcb98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1"
+              "title": "05_Spring_Data_JPA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.55564498901367
+    "width": 319.7495994567871
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -201,9 +186,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0856cff65dfcb98b",
+  "active": "db0ab34a7b9da769",
   "lastOpenFiles": [
+    "Spring_Boot_Interview_Guide/02_Spring_Boot_Fundamentals.md",
+    "Spring_Boot_Interview_Guide/06_Exception_Handling_Validation.md",
+    "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
+    "Spring_Boot_Interview_Guide/04_Spring_MVC_REST.md",
+    "Spring_Boot_Interview_Guide/03_Annotations.md",
+    "Spring_Boot_Interview_Guide/01_Spring_Core.md",
+    "Spring_Boot_Interview_Guide/00_INDEX.md",
+    "JAVA CORE☕/INTERVIEW questions/test.md",
+    "Spring_Boot_Interview_Guide",
+    "JAVA CORE☕/INTERVIEW questions/T2.md",
+    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_Part1.md",
     "feature-based Arch/6-AI-Powered Language Learning Platform  Complete Implementation Plan.md",
+    "Amr/Exams-Difficult-Units-1-6.md",
     "1.md",
     "CQRS Pattern/Exp.md",
     "Courses_Pilot/4-Section.md",
@@ -213,7 +210,6 @@
     "JAVA CORE☕/INTERVIEW questions/59-Difference between for and while loop.md",
     "JAVA CORE☕/INTERVIEW questions/58-Is Java Pass-by-Value or Pass-by-Reference?.md",
     "JAVA CORE☕/INTERVIEW questions/54-why is the main method static ?.md",
-    "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_Part1.md",
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation_OOP.md",
     "JAVA CORE☕/INTERVIEW questions/Interview_Simulation.md",
     "Database Indexing/0.1-Intro.md",
@@ -225,16 +221,6 @@
     "Pasted image 20261013145955.png",
     "Pasted image 20261013145542.png",
     "Amr/Full_Day_Dialogue.md",
-    "Amr/1.1-Unit 1.1.md",
-    "Amr/1-Unit 1.md",
-    "JAVA CORE☕/INTERVIEW questions/100-Diamond.md",
-    "JAVA CORE☕/INTERVIEW questions/99-What are the types of inner classes? Static vs non-static nested?.md",
-    "JAVA CORE☕/INTERVIEW questions/98-📌 Using this and super in a Static Context in Java.md",
-    "Spring Security/3.1.2 - Not Hardcoded user.md",
-    "Spring Security/3.1.1.1 Mind map.md",
-    "Spring Security/3.1.1.0 NOTE ON requestMatchers.md",
-    "Spring Security/3.1.1-Request Matcher.md",
-    "Spring Security/3.1-Security  filter chain.md",
     "Pasted image 20261012153610.png",
     "Database Indexing",
     "Pasted image 20261010203847.png",
@@ -248,7 +234,6 @@
     "JAVA CORE☕/INTERVIEW questions/Untitled",
     "A.pdf",
     "Unconfirmed 639538.crdownload",
-    "Telecom Regulatory Compliance",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

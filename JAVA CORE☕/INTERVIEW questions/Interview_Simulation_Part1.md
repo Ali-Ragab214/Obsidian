@@ -313,6 +313,9 @@ for(int i=1;i<=5;i++) {
 
 سؤال Junior فقط (`94-...md`)، اعرفه في سطر وعدي.
 
+break => يخرج من اللوب 
+return => تخرج من الميثود
+
 ---
 
 # Section 2: Strings (أهم Section)
@@ -437,6 +440,8 @@ new StringBuilder("Hello") // 16 + 5 = 21
 ## StringBuffer
 
 نفس Builder بس:
+String is imuatable unlike StringBuilder and StringBuffer ,and stringBuilder is the fastest
+
 
 ```java
 public synchronized StringBuffer append(...)
@@ -500,6 +505,7 @@ class EvilString extends String {
 إجابة الانترفيو:
 
 > **Literal `"hello"` reuses the Pool (0 new if exists, else 1). `new String("hello")` creates Pool literal + Heap object (1 or 2 new).**
+> string literal reuses the pool ,
 
 ```java
 String a = "Java";
@@ -575,6 +581,7 @@ System.out.println(c.equals(d)); // true
 إجابة الانترفيو:
 
 > **Static members belong to the class, not objects. One copy shared across all instances, accessible without `new`, but static methods can only touch static data.**
+> static methods can only touch static data.
 
 ```java
 class Student {
@@ -613,6 +620,8 @@ void foo() {
 **Spring context:** الـ `static` عكس الـ Bean (Bean = instance مدار من Spring، static = class-level خارج الـ container، صعب تعملها mock في التست).
 
 **What the interviewer is really testing:** فاهم memory الفرق بين class-level و object-level.
+
+static methods can only touch static data , and static data can only be in static methods 
 
 ---
 
@@ -670,6 +679,23 @@ Parent static -> Child static -> Parent instance/ctor -> Child instance/ctor
 لو الكلاس متلمسش خالص، مش هيتنفذ.
 
 **What the interviewer is really testing:** حافظ الترتيب ولا فاهم الـ class loading.
+
+
+
+```java 
+class Sara 
+{
+static {System.out.println("Static block");}
+{System.out.println("Instance block");}
+Sara(){System.out.println("Ctor block");}
+}
+
+public static void main(String[] args)
+{
+System.out.println("Main block");
+Sara s = new Sara();
+}
+```
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring_Boot_Interview_Guide/01_Spring_Core.md",
+                "file": "Amr/7-Unit 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Spring_Core"
+              "title": "7-Unit 7"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "101-Lombok Constructors in Spring Boot"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b85e012f01fb4f64",
+  "active": "db0ab34a7b9da769",
   "lastOpenFiles": [
-    "JAVA CORE☕/INTERVIEW questions/101-Lombok Constructors in Spring Boot.md",
+    "JAVA CORE☕/INTERVIEW questions/102-@Qualifier & @Primary.md",
     "Spring_Boot_Interview_Guide/01_Spring_Core.md",
+    "JAVA CORE☕/INTERVIEW questions/101-Lombok Constructors in Spring Boot.md",
     "Spring_Boot_Interview_Guide/02_Spring_Boot_Fundamentals.md",
     "Amr/8-Unit 8.md",
     "Spring_Boot_Interview_Guide/00_INDEX.md",
@@ -229,7 +229,6 @@
     "Amr/Exams-6-Model-Answers.md",
     "Amr/6-Examss.md",
     "JAVA CORE☕/INTERVIEW questions/61-Stereo Type Annotations in Spring boot.md",
-    "JAVA CORE☕/INTERVIEW questions/59-Difference between for and while loop.md",
     "Pasted image 20261013182010.png",
     "Pasted image 20261013181351.png",
     "Pasted image 20261013181146.png",

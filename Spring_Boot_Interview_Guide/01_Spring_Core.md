@@ -529,7 +529,7 @@ public @interface RestController {
 | `@ResponseBody` | ❌ لا | توجيه البيانات للـ Response Body كـ JSON |
 
 **Short answer (30 seconds version):**
-> "@RestController is a composite meta-annotation combining @Controller and @ResponseBody. @Controller registers the class as a Spring web bean, while @ResponseBody instructs Spring to serialize the return object directly into the HTTP response body as JSON or XML rather than rendering a view template."
+> "@RestController is a composite meta-annotation combining @Controller and @ResponseBody. ==🟣@Controller registers the class as a Spring web bean==, while @ResponseBody instructs Spring to serialize the return object directly into the HTTP response body as JSON or XML rather than rendering a view template."
 
 ---
 

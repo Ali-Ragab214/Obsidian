@@ -136,7 +136,7 @@ public @interface SpringBootApplication {
    - ⚠️ **قاعدة ذهبية في الباكيج:** الـ Component Scan الافتراضي يبدأ من الباكيج التي تحتوي على الكلاس الذي يحمل `@SpringBootApplication` وينزل للـ Sub-packages فقط. لو وضعت كلاس في باكيج موازية أو أعلى، لن يتم اكتشافه كـ Bean!
 
 **Short answer (30 seconds version):**
-> "@SpringBootApplication is a composite annotation comprising @SpringBootConfiguration (marking the class as a source of bean definitions), @EnableAutoConfiguration (triggering Spring Boot's automatic configuration engine), and @ComponentScan (scanning the current package and its sub-packages for Spring components)."
+> "@SpringBootApplication is a composite annotation comprising @SpringBootConfiguration (marking the class as a source of bean definitions), @EnableAutoConfiguration (triggering Spring Boot's automatic configuration engine), and @ComponentScan (scanning thecurrent package and its sub-packages for Spring components)."
 
 ---
 

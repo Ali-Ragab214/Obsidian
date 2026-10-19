@@ -31,14 +31,14 @@
 
 ### ناس وحاجات
 
-|الكلمة|النطق|المعنى|
-|---|---|---|
-|Passenger|باسنجر|راكب|
-|Driver|درايفر|سواق|
-|Conductor|كونداكتر|المحصّل (اللي بيجمّع التذاكر)|
-|Fare|فير|أجرة الركوب|
-|Ticket|تيكت|تذكرة|
-|Schedule|سكيجول|جدول المواعيد|
+| الكلمة    | النطق    | المعنى                        |
+| --------- | -------- | ----------------------------- |
+| Passenger | باسنجر   | راكب                          |
+| Driver    | درايفر   | سواق                          |
+| Conductor | كونداكتر | المحصّل (اللي بيجمّع التذاكر) |
+| Fare      | فير      | أجرة الركوب                   |
+| Ticket    | تيكت     | تذكرة                         |
+| Schedule  | سكيجول   | جدول المواعيد                 |
 
 ---
 
@@ -219,13 +219,13 @@
 
 بنستخدمه لما **اتفقنا أو رتّبنا** لحاجة في المستقبل:
 
-|English|عربي|
-|---|---|
-|I am taking the 6:00 PM train to New York tomorrow.|هركب قطر 6 المسا لنيويورك بكرة (حاجزها).|
-|They are meeting us at the bus stop this afternoon.|هيقابلونا عند موقف الأتوبيس بعد الضهر.|
-|We are flying to Paris next week.|هنسافر باريس بالطيارة الأسبوع الجاي.|
-|She is catching the 5:30 bus later today.|هتركب أتوبيس 5:30 النهارده.|
-|I'm not working tomorrow, so we can meet at the mall.|مش هشتغل بكرة، فنقدر نتقابل في المول.|
+| English                                                   | عربي                                     |
+| --------------------------------------------------------- | ---------------------------------------- |
+| I am taking the 6:00 PM train to New York tomorrow.       | هركب قطر 6 المسا لنيويورك بكرة (حاجزها). |
+| They are meeting us at the bus stop ==🟡this afternoon.== | هيقابلونا عند موقف الأتوبيس بعد الضهر.   |
+| We are flying to Paris next week.                         | هنسافر باريس بالطيارة الأسبوع الجاي.     |
+| She is catching the 5:30 bus later today.                 | هتركب أتوبيس 5:30 النهارده.              |
+| I'm not working tomorrow, so we can meet at the mall.     | مش هشتغل بكرة، فنقدر نتقابل في المول.    |
 
 **ملاحظة:** مش بنقول `What will you do tonight?` لو بنسأل عن خطة. الصح: `What are you doing tonight?`
 
@@ -239,21 +239,22 @@
 
 بنستخدمه مع **الجداول والمواعيد الثابتة** (مواصلات، سينما، مدرسة):
 
-|English|عربي|
-|---|---|
-|My bus leaves at 11:30.|الأتوبيس بتاعي بيمشي 11:30.|
-|What time does the train leave?|القطر بيمشي الساعة كام؟|
-|The flight takes off at 7:30 PM.|الطيارة بتقلع 7:30 مساءً.|
-|The train arrives at the city center at 9:15 AM.|القطر بيوصل وسط البلد 9:15 صباحًا.|
-|I start my new job on Monday.|هبدأ شغلي الجديد يوم الإثنين. (ميعاد ثابت)|
+| English                                          | عربي                                       |
+| ------------------------------------------------ | ------------------------------------------ |
+| My bus leaves at 11:30.                          | الأتوبيس بتاعي بيمشي 11:30.                |
+| What time does the train leave?                  | القطر بيمشي الساعة كام؟                    |
+| The flight takes off at 7:30 PM.                 | الطيارة بتقلع 7:30 مساءً.                  |
+| The train arrives at the city center at 9:15 AM. | القطر بيوصل وسط البلد 9:15 صباحًا.         |
+| I start my new job on Monday.                    | هبدأ شغلي الجديد يوم الإثنين. (ميعاد ثابت) |
+|                                                  |                                            |
 
 ### المقارنة
 
-|Present Continuous|Present Simple|
-|---|---|
-|**خطتي أنا**|**جدول رسمي**|
-|I'm going to the cinema this evening. (أنا قررت أروح)|The bus leaves at 8:15. (الأتوبيس له ميعاد ثابت)|
-|What time are you arriving? (إنت هتوصل امتى؟)|What time does the train arrive? (القطر بيوصل امتى؟)|
+| Present Continuous                                    | Present Simple                                       |
+| ----------------------------------------------------- | ---------------------------------------------------- |
+| **خطتي أنا**                                          | **جدول رسمي**                                        |
+| I'm going to the cinema this evening. (أنا قررت أروح) | The bus leaves at 8:15. (الأتوبيس له ميعاد ثابت)     |
+| What time are you arriving? (إنت هتوصل امتى؟)         | What time does the train arrive? (القطر بيوصل امتى؟) |
 
 **قاعدة سهلة:** لو **أنا/إحنا** اللي قررنا ← `am/are + ing`. لو **القطر/الأتوبيس/الطيارة** والميعاد ثابت ← present simple.
 
@@ -296,16 +297,16 @@
 
 أسئلتك المكتوبة بخط إيدك فيها أخطاء بسيطة. الجدول ده فيه المهمة وصياغة الأسئلة الصح:
 
-|#|المهمة|السؤال الصح|
-|---|---|---|
-|1|دوّر على حد بيحب الأتوبيس أو القطر واسأله ليه|Why do you like using buses or trains?|
-|2|دوّر على حد بيستخدم المواصلات العامة عادة واسأله كل قد إيه|How often do you use public transportation?|
-|3|دوّر على حد عايز يغيّر حاجة في الأتوبيسات/القطارات|What would you like to change about the buses or trains?|
-|4|حد شايف إن المواصلات العامة أحسن للبيئة من العربية|Why do you think taking the bus or train is better for the environment than driving?|
-|5|حد حصله موقف مضحك أو غريب|Have you ever had a funny experience on a bus or train? What happened?|
-|6|حد بيحس بأمان، واسأله إذا كانت نضيفة|Are buses and trains usually clean?|
-|7|حد شايف إنها لازم تبقى مجانية|If public transportation were free, how would it help you?|
-|8|حد بيستخدمها في حياته اليومية|How does public transportation help you in your daily life?|
+| #   | المهمة                                                     | السؤال الصح                                                                          |
+| --- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1   | دوّر على حد بيحب الأتوبيس أو القطر واسأله ليه              | Why do you like using buses or trains?                                               |
+| 2   | دوّر على حد بيستخدم المواصلات العامة عادة واسأله كل قد إيه | How often do you use public transportation?                                          |
+| 3   | دوّر على حد عايز يغيّر حاجة في الأتوبيسات/القطارات         | What would you like to change about the buses or trains?                             |
+| 4   | حد شايف إن المواصلات العامة أحسن للبيئة من العربية         | Why do you think taking the bus or train is better for the environment than driving? |
+| 5   | حد حصله موقف مضحك أو غريب                                  | Have you ever had a funny experience on a bus or train? What happened?               |
+| 6   | حد بيحس بأمان، واسأله إذا كانت نضيفة                       | Are buses and trains usually clean?                                                  |
+| 7   | حد شايف إنها لازم تبقى مجانية                              | If public transportation were free, how would it help you?                           |
+| 8   | حد بيستخدمها في حياته اليومية                              | How does public transportation help you in your daily life?                          |
 
 **تصحيحات على أسئلتك:**
 

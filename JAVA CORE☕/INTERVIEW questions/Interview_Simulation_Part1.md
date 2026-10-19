@@ -814,6 +814,8 @@ methods = Object decides
 
 **What the interviewer is really testing:** نفس فكرة hiding، بس على fields.
 
+on Base class =>
+
 ---
 
 # Section 4: Collections + HashMap + Wrappers

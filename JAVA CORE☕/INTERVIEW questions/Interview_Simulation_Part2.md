@@ -196,7 +196,7 @@ class AppConfig {
 
 > **What did Spring Boot add over traditional Spring? What are Starters?**
 
-إجابة الانترفيو:
+إجابة الانترفيو:starter dpendency,auto config,embeded server 
 
 > **Boot is Framework + AutoConfiguration + Starters + Embedded server + Actuator, with convention-over-configuration so you run `java -jar` without XML.**
 

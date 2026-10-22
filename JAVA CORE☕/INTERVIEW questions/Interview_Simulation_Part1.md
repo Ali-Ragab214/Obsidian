@@ -723,6 +723,8 @@ class A {
 }
 ```
 
+
+static methods can be overloaded but not overriding 
 ## Method hiding
 
 ```java
@@ -815,6 +817,9 @@ methods = Object decides
 **What the interviewer is really testing:** نفس فكرة hiding، بس على fields.
 
 on Base class =>
+@MappedSuperClass 
+@EntityListners(AuditingEntityListner.class)
+
 
 ---
 

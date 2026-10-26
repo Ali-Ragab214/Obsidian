@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amr/9-Unit 9.md",
+                "file": "JAVA CORE☕/INTERVIEW questions/104-Solving the N+1 Query Problem Using JPA Entity Graphs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-Unit 9"
+              "title": "104-Solving the N+1 Query Problem Using JPA Entity Graphs"
             }
           },
           {
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -217,8 +218,15 @@
   },
   "active": "378f3d96ca22fa5f",
   "lastOpenFiles": [
-    "Amr/10-Bank Grammer Solutions.md",
+    "Untitled.md",
+    "JAVA CORE☕/INTERVIEW questions/104-Solving the N+1 Query Problem Using JPA Entity Graphs.md",
+    "Medability/4-All details.md",
+    "Medability/3-final edition.md",
+    "Medability/1-Details.md",
     "Spring_Boot_Interview_Guide/03_Annotations.md",
+    "Amr/11-Grammer bank.md",
+    "Amr/9-Unit 9.md",
+    "Amr/10-Bank Grammer Solutions.md",
     "Spring_Boot_Interview_Guide/02_Spring_Boot_Fundamentals.md",
     "SOLID/6-recap.md",
     "SOLID/5-D.md",
@@ -236,13 +244,6 @@
     "System Design/4.1-Use Case vs Feature.md",
     "System Design/6-System Constraints.md",
     "System Design/7-Performance.md",
-    "System Design/15-ACID.md",
-    "System Design/13-DNS & Load Balancer.md",
-    "System Design/12-Api Design.md",
-    "System Design/11-SLI, SLO, SLA.md",
-    "System Design/9-Availability.md",
-    "System Design/8-Scalability.md",
-    "System Design/4-Feature Requirements.md",
     "Medability",
     "Untitled 1",
     "AAsara",

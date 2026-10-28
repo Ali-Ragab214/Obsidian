@@ -7,6 +7,9 @@
 
 يعني بدل ما تعمل Class بالشكل التقليدي:
 
+his fields is private and final 
+record is data carried and used to present immutable data  => مفيش  لوجيك ولا ستيت بيتغير 
+
 ```java
 public class UserDto {
 
@@ -915,3 +918,19 @@ Inheritance       → Class ✅
 > **Record مش "Class أحسن وأسرع"، هو Class متخصص في تمثيل data/value بشكل immutable وبأقل boilerplate.**
 
 ولو أنت شغال **Spring Boot + Clean Architecture + CQRS**، فغالبًا هتستخدم الـ **Records بكثرة في الـ Commands/Queries DTOs وResponses**، بينما الـ **Domain Entities تفضل Classes**.
+
+//the record is a special type of the class and this used as a data carrier for the immutable data and has a default getters called accessors and a default constructor 
+
+```java
+public record CreateUserRequest(
+Long id,
+String name
+)
+{}
+```
+
+
+// A record is a special, restricted form of class used as an immutable data carrier.
+// The compiler automatically generates: private final fields, a canonical constructor,
+// accessor methods (name() not getName()), and equals/hashCode/toString.
+

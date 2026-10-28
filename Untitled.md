@@ -34,3 +34,81 @@ Course course = Course.Builder()
 	
 
 ```
+
+
+
+
+```java
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+@Entity
+@Table(name="products")
+public class Product {
+
+@Column(nullable= false,unique = true)
+private String name;
+@Size(min=0,max=1000)
+private String description;
+@DecimalMin(value="0.0")
+private BigDecimal price;
+@NotNull
+@Min(0)
+private Integer stockQuantity;
+
+@Enumerated(EnumType.STRING)
+@Column(nullable=false)
+@Builder.Default
+private ProductStatus productStatus = ProductStatus.DRAFT;
+
+@Builder.Default
+private Double averageRating = 0.0;
+
+@Formula("SELECT COUNT(*) FROM products p WHERE p.id =id")
+private Integer totalOrders;
+
+@CreatedDate
+private LocalDateTime createdAt;
+
+@LastModifiedDate
+private LocalDateTime updatedAt;
+
+@ManyToOne()
+@JoinColumn(name="category_id")
+private Category category;
+
+@ManyToOne()
+@JoinColumn(name="brand_id")
+private Brand brand;
+
+@OneToMany(mappedBy="product",cascade=CascadeType.ALL)
+@Builder.Default
+private List<ProductImage> productimages = new ArrayList<>();
+
+//reviews is like productimamges in relation 
+@OneToMany(mappedBy="product",cascade=CascadeType.ALL)
+@Builder.Default//to prevent nullpointerexceptions i used this 
+private List<OrderItems> orderItems = new ArrayList<>();
+
+
+
+}
+```
+
+
+```java 
+public interface LessonRepository extends JpaRepository<Lesson,Long>
+{
+}
+```
+
+بنستخدم Optional<> لما تكون النتيجه حاجه واحده هترجع او مفيش حاجه هترجع عشان نمنع nullpointerexception 
+لو لقت اكتر من نتيجه هتديك exception 
+@EntityGraph(attributePaths={"course","student"},type=EntityGraph.EntityGraphType.FETCH);
+
+
+```java
+
+```

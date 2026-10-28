@@ -7,3 +7,10 @@ request-> server -> servlet (dispatcher servlet) -> endpoint
 
 
 web server is an app that recieves a requests from the internet 
+ننقل الداتا من موديول لموديول او نستقبل او نعرض للكلاينت
+
+```java
+
+```
+
+input validation ,business logic,authentication,db constraints 

@@ -41,22 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/73-Records.md",
+                "file": "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "73-Records"
-            }
-          },
-          {
-            "id": "c8ed7296bd160260",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "05_Spring_Data_JPA"
             }
           }
         ],
@@ -119,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -228,9 +217,16 @@
   },
   "active": "7752d6b205b45768",
   "lastOpenFiles": [
+    "Spring_Boot_Interview_Guide/04_Spring_MVC_REST.md",
+    "Spring_Boot_Interview_Guide/03_Annotations.md",
+    "JAVA CORE☕/INTERVIEW questions/73-Records.md",
+    "HABSA/HABSA_JS_ROADMAP.md",
+    "System Design/8-Scalability.md",
+    "HABSA",
+    "Project Ideas/1-One.md",
+    "Untitled 2.md",
     "Amr/50-Question Exam - Unit 9 (Arabic).md",
     "Amr/50-Question Exam - Unit 9.md",
-    "JAVA CORE☕/INTERVIEW questions/73-Records.md",
     "Amr/50-Question Exam 3 - Units 1-9.md",
     "Amr/50-Question Exam 2 - Units 1-9.md",
     "Amr/50-Question Exam - Units 1-9.md",
@@ -248,12 +244,6 @@
     "NEST JS/FROM ITI/DAY2/2-NestJS Validation & Pipes — Complete Notes.md",
     "NEST JS/FROM ITI/DAY1/1.1-Day1 exp.md",
     "AI/1-Phase 1(Token, Context window, Temperature, System,  User , Assistant Messages, ).md",
-    "Sticky notes/1-One.md",
-    "NEST JS/FROM ITI/DAY2/1-NOTES.md",
-    "Exception Handling/0-Over ALl.md",
-    "feature-based Arch/0-.md",
-    "Untitled.md",
-    "exams.md",
     "Medability",
     "Untitled 1",
     "AAsara",
@@ -273,7 +263,6 @@
     "Data Center",
     "Amr",
     "Ai Roadmap and learning/1-Week2",
-    "Ai Roadmap and learning",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

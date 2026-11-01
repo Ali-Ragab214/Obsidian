@@ -934,3 +934,43 @@ String name
 // The compiler automatically generates: private final fields, a canonical constructor,
 // accessor methods (name() not getName()), and equals/hashCode/toString.
 
+
+
+```java 
+//the record is a special form from  the class and is used as a data carrier for the immutable data,and it doesnot has a setters it has a accessors or getters and has a only canoncial constructor and all its fields is final and private and it cant 
+
+public record CreateCourseRequest(
+@Size(min=4) @NotNull(message="tittle cant be null") String tittle,
+@Size(min=10,max=1000) String description,
+@DecimalMin(value="0.0") BigDecimal price ,
+@NotNull(message="level cant be null") CourseLevel level
+)
+{}
+
+```
+
+
+```
+Client
+   |
+   v
+Controller
+   |
+   v
+CourseRequest DTO
+   |
+   v
+Validation
+   |
+   v
+Service
+   |
+   v
+Convert DTO to Course Entity
+   |
+   v
+Repository
+   |
+   v
+Database
+```

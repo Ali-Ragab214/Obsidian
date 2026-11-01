@@ -76,6 +76,9 @@ public PasswordEncoder passwordEncoder() {
 ```java
 @Value("${jwt.secret.key}")
 private String secretKey;
+
+@Value("${jwt.secre.key}") => register a value from app.prop or .yml to a variable 
+
 ```
 
 ### `@Scope`
@@ -88,6 +91,7 @@ public class ReportGenerator { ... }
 ```
 
 ### `@Primary`
+to give the priority to a bean when there is more the one implementation to the same interface 
 - **المعنى:** إعطاء أولوية افتراضية لـ Bean معين عندما يتوفر أكثر من Implementation لنفس الـ Interface.
 - **المكان:** Class-level أو على `@Bean` method.
 ```java
@@ -97,8 +101,11 @@ public class ElectricEngine implements Engine { ... }
 ```
 
 ### `@Qualifier`
+to determine the bean name that we want to inject ,on constructor param 
 - **المعنى:** تحديد اسم الـ Bean المراد حقنه بدقة لفض التضارب عند وجود خيارات متعددة.
 - **المكان:** Constructor param أو Field-level.
+- constructor param 
+  public Person(@Qualifier("ElectricEngine") Engine engine)
 ```java
 public Car(@Qualifier("petrolEngine") Engine engine) { ... }
 ```
@@ -125,7 +132,7 @@ public class HeavyReportService { ... }
 
 ## 3. Web & REST Annotations
 
-### `@RequestMapping`
+### `@RequestMapping`:to determine the Base path to the controller or the end point 
 - **المعنى:** تحديد المسار العام (Base Path) ونوع الميثود للـ Controller أو الـ Endpoint.
 - **المكان:** Class-level أو Method-level.
 ```java
@@ -177,6 +184,18 @@ public ResponseEntity<UserDto> create(@RequestBody CreateUserDto dto) { ... }
 public UserDto create(...) { ... }
 ```
 
+@PathVariable تاخد قيمه من ال url path
+@GetMapping("/api/courses/{id}")
+public CourseResponse getById(@PathVariable Long id){//will take the id from the url}
+@RequestBody تحول ال json to object 
+بتقرا ال body بتاع ال request اللي بيكون غالبا  json وتحوله ل object عن طريق Jackson
+public CourseResponse create(@Valid @RequestBody CreateCourseRequest request)
+{
+
+}
+@ResponseBody تحول ال json to return value
+@ResponseStatus :identify Http status code
+
 ---
 
 ## 4. Validation Annotations (Jakarta / Hibernate Validator)
@@ -206,6 +225,7 @@ public class UserController { ... }
 - **`@Min(value)` / `@Max(value)`:** تحديد الحد الأدنى والأقصى للأرقام.
 - **`@Email`:** التأكد من صحة تنسيق البريد الإلكتروني.
 - **`@Pattern(regexp = "...")`:** التحقق باستخدام Regular Expression مخصص.
+
 
 ---
 

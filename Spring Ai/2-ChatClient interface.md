@@ -8,10 +8,15 @@
 ChatModel = محرك العربية
 ChatClient = السواق اللي بيسوق العربية
 ```
+chatclient is a high-level api بيسهل اننا نبعت  
+prompt and recieve response 
 
 الـ `ChatModel` هو الطبقة اللي بتكلم الـ LLM نفسه مباشرة.
 
-الـ `ChatClient` هو Wrapper فوق الـ `ChatModel` بيدي API أسهل وأقوى للتعامل مع الـ Prompt.
+الـ `ChatClient` هو Wrapper فوق الـ `ChatModel` بيدي API أسهل وأقوى للتعامل مع الـ Prompt
+
+
+app -> chatclient->chatModel->Ai Provider
 
 ---
 

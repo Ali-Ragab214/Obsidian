@@ -1,0 +1,4 @@
+spring.ai.openai.api-key=
+spring.ai.openai.chat.options.model=
+
+

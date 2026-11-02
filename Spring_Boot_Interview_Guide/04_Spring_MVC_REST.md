@@ -176,6 +176,7 @@ public ResponseEntity<ApiResponse<UserDto>> getUser(@PathVariable Long id) {
 
 ---
 
+
 ### Q4: Pagination in Interviews: Offset-based vs Cursor-based Pagination
 **Level:** Mid / Senior  
 **Related to:** Section 05 (Spring Data JPA), System Design

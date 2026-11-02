@@ -112,3 +112,25 @@ public interface LessonRepository extends JpaRepository<Lesson,Long>
 ```java
 
 ```
+
+there are one new version each 6 months and each one has new features  بس مش كلها بتتدعم لفتره طويله 
+Long Time Support (LTS)  like : 8,11,17,21,25
+
+
+
+```java
+//java is just a programming language it cant deal with requests ,so dispatcherservlet 
+@GetMapping("get/courses/{id}")
+to control HttpStatus code 
+public class ApiResponse<T> 
+{
+private boolean success;
+private String message;
+private T data;
+private LocalDateTime time;
+
+}
+we use Response entity class to mnagae full http response :header,body ,http status code 
+
+
+```

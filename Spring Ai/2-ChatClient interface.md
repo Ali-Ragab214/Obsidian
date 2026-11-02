@@ -16,6 +16,7 @@ ChatClient = السواق اللي بيسوق العربية
 ---
 
 # 1) ChatModel
+ده ال abstraction الموجود للتعامل مع ال Ai model 
 
 دا المستوى المنخفض (Low Level API).
 

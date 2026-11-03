@@ -17,9 +17,9 @@ prompts
 مثال:
 
 ```
-You are a Java instructor.
-Explain Spring Boot to a beginner.
-Use simple examples and Java code.
+You are a Java instructor.->system message
+Explain Spring Boot to a beginner.->user message 
+Use simple examples and Java code.->instructions 
 ```
 
 كل ما كان الـ Prompt واضح ومحدد، زادت فرص الحصول على Response مناسب.
@@ -65,11 +65,12 @@ Recommend a movie in the Action genre.
 
 أهم أنواع الـ Messages:
 
-|Message|الوظيفة|
-|---|---|
-|`SystemMessage`|تحديد سلوك وقواعد الـ AI|
-|`UserMessage`|تمثيل طلب المستخدم|
-|`AssistantMessage`|تمثيل رد الـ AI|
+| Message            | الوظيفة                  |
+| ------------------ | ------------------------ |
+| `SystemMessage`    | تحديد سلوك وقواعد الـ AI |
+| `UserMessage`      | تمثيل طلب المستخدم       |
+| `AssistantMessage` | تمثيل رد الـ AI          |
+|                    |                          |
 
 مثال:
 
@@ -140,6 +141,9 @@ Dan شبّه الـ Prompt بالـ View في Spring MVC.
 |Assistant Message|AI's response|
 |Prompt Management|Organizing and managing prompts|
 
+prompt : input set to an Ai Model 
+prompt Engineering :Designing an aeffective prompts 
+prompt template : reusable prompt with variables 
 ## الخلاصة اللي لازم تخرج بيها
 
 احفظ وفهم الخمس نقاط دول:

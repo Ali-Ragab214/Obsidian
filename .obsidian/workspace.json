@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dan Vega Spring Ai/1-Intro.md",
+                "file": "Kammel/Kammel_Project_Documentation/04_DOMAIN_MODEL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Intro"
+              "title": "04_DOMAIN_MODEL"
+            }
+          },
+          {
+            "id": "560e2dc644b97673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kammel/Kammel_Project_Documentation/02_MVP_AND_PRODUCT_ROADMAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_MVP_AND_PRODUCT_ROADMAP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.27367782592773
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -186,37 +201,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f504aea9ab6c6d52",
+  "active": "a2fda2b07a28b7f2",
   "lastOpenFiles": [
+    "Kammel/Kammel_Project_Documentation/01_BUSINESS_REQUIREMENTS.md",
+    "Kammel/Kammel_Project_Documentation/00_PROJECT_OVERVIEW.md",
+    "Kammel/Kammel_Project_Documentation/README.md",
+    "Kammel/Kammel_Project_Documentation/10_TESTING_STRATEGY.md",
+    "Kammel/Kammel_Project_Documentation/03_SYSTEM_ARCHITECTURE.md",
+    "Kammel/Kammel_Project_Documentation/14_ENGINEERING_STANDARDS.md",
+    "Kammel/Kammel_Project_Documentation/13_IMPLEMENTATION_ROADMAP.md",
+    "Kammel/Kammel_Project_Documentation/08_BUSINESS_LOGIC_AND_STATE_MACHINES.md",
+    "Kammel/Kammel_Project_Documentation/12_AI_INTEGRATION_ROADMAP.md",
+    "Kammel/Kammel_Project_Documentation/11_BACKGROUND_JOBS_AND_NOTIFICATIONS.md",
+    "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
+    "Kammel/Kammel_Project_Documentation/09_REDIS_CACHING.md",
+    "Kammel/Kammel_Project_Documentation/07_API_DESIGN.md",
+    "Kammel/Kammel_Project_Documentation/06_SECURITY_AND_MULTI_TENANCY.md",
+    "Kammel/Kammel_Project_Documentation/04_DOMAIN_MODEL.md",
+    "Kammel/Kammel_Project_Documentation/02_MVP_AND_PRODUCT_ROADMAP.md",
+    "Kammel/Kammel_Project_Documentation/05_DATABASE_DESIGN.md",
+    "Kammel/1-doc2.md",
+    "Kammel/Kammel_Project_Documentation",
+    "Kammel/0-doc.md",
+    "Dan Vega Spring Ai/1-Intro.md",
+    "Kammel",
     "Pasted image 20261102222110.png",
     "Spring Ai/2-ChatClient interface.md",
-    "Dan Vega Spring Ai/1-Intro.md",
     "Dan Vega Spring Ai",
-    "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
     "Untitled.md",
     "Pasted image 20260720170455.png",
     "Spring_Boot_Interview_Guide/04_Spring_MVC_REST.md",
     "Medability/PROJECT_EVALUATION.md",
     "Medability/4-All details.md",
     "PROJECT_EVALUATION.md",
-    "ORM/DAY1/1.1-Exp 1 till Jpa Arch.md",
-    "Spring_Boot_Interview_Guide/03_Annotations.md",
-    "JAVA CORE☕/INTERVIEW questions/73-Records.md",
-    "HABSA/HABSA_JS_ROADMAP.md",
-    "System Design/8-Scalability.md",
     "HABSA",
-    "Project Ideas/1-One.md",
-    "Untitled 2.md",
-    "Amr/50-Question Exam - Unit 9 (Arabic).md",
-    "Amr/50-Question Exam - Unit 9.md",
-    "Amr/50-Question Exam 3 - Units 1-9.md",
-    "Amr/50-Question Exam 2 - Units 1-9.md",
-    "Amr/50-Question Exam - Units 1-9.md",
-    "Amr/7-Unit 7.md",
-    "Amr/6-Unit 6.md",
-    "test.md",
-    "Amr/5-Unit 5.md",
-    "Amr/4-Unit 4.md",
     "Medability",
     "Untitled 1",
     "AAsara",
@@ -230,10 +248,7 @@
     "Pasted image 20261012153610.png",
     "Database Indexing",
     "Pasted image 20261010203847.png",
-    "Pasted image 20261010203814.png",
     "Sticky notes",
-    "Data Center",
-    "Amr",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

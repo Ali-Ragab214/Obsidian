@@ -134,3 +134,57 @@ we use Response entity class to mnagae full http response :header,body ,http sta
 
 
 ```
+
+tenant =>client or organization use my saas 
+single tennant=>each client has its server and db so we have a large customization for each tennant 
+has cons like :
+hard to scale and maintain , more cost  
+
+3 approaches : each tenant has its app and db ,each tenant has a different schema ,shared schema and db for all tenants 
+
+create table workouts(
+id BIGSERIAL primary key ,
+name varchar(30),
+tenant_id BIGINT NOT NULL,
+CONSTRAINT fk_workout_tennant
+FOREIGN KEY (tenant_id)
+refrences tenants(id)
+)
+one database has more than one schema and each schema has a set of tables 
+
+
+```mysql 
+CREATE DATABASE gym;
+CREATE SCHEMA gyma;
+CREATE SCHEMA gymb;
+CREATE SCHEMA gymc;
+
+CREATE TABLE gyma.users(
+id BIGSERIAL PRIMARY KEY ,
+name VARCHAR(30)
+)
+
+CREATE TABLE gymb.users(
+id BIGSERIAL PRIMARY KEY ,
+name VARCHAR(30)
+)
+
+CREATE TABLE gymb.users(
+id BIGSERIAL PRIMARY KEY ,
+name VARCHAR(30)
+)
+
+SELECT * FROM gymb.users;
+-- if the schema has a tables i cant delete it 
+-- DROP SCHEMA gymb ; 
+```
+
+
+
+build one app but serve multiple clients
+
+# ==🔴shared db== and same schema has disadvantages like : 
+- data leak probability from one tenant to another  so we must achieve data isolation
+- one large tenant can slow down others  
+- limited customization  
+

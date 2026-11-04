@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kammel/Kammel_Project_Documentation/02_MVP_AND_PRODUCT_ROADMAP.md",
+                "file": "Kammel/order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_MVP_AND_PRODUCT_ROADMAP"
+              "title": "order"
+            }
+          },
+          {
+            "id": "5eb2fb741bb73180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single & Multi tennancy/Database Schemas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database Schemas"
+            }
+          },
+          {
+            "id": "694893eb097ba360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.27367782592773
+    "width": 200
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -201,54 +229,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2fda2b07a28b7f2",
+  "active": "694893eb097ba360",
   "lastOpenFiles": [
-    "Kammel/Kammel_Project_Documentation/01_BUSINESS_REQUIREMENTS.md",
-    "Kammel/Kammel_Project_Documentation/00_PROJECT_OVERVIEW.md",
-    "Kammel/Kammel_Project_Documentation/README.md",
-    "Kammel/Kammel_Project_Documentation/10_TESTING_STRATEGY.md",
-    "Kammel/Kammel_Project_Documentation/03_SYSTEM_ARCHITECTURE.md",
-    "Kammel/Kammel_Project_Documentation/14_ENGINEERING_STANDARDS.md",
-    "Kammel/Kammel_Project_Documentation/13_IMPLEMENTATION_ROADMAP.md",
-    "Kammel/Kammel_Project_Documentation/08_BUSINESS_LOGIC_AND_STATE_MACHINES.md",
-    "Kammel/Kammel_Project_Documentation/12_AI_INTEGRATION_ROADMAP.md",
-    "Kammel/Kammel_Project_Documentation/11_BACKGROUND_JOBS_AND_NOTIFICATIONS.md",
-    "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
-    "Kammel/Kammel_Project_Documentation/09_REDIS_CACHING.md",
-    "Kammel/Kammel_Project_Documentation/07_API_DESIGN.md",
-    "Kammel/Kammel_Project_Documentation/06_SECURITY_AND_MULTI_TENANCY.md",
-    "Kammel/Kammel_Project_Documentation/04_DOMAIN_MODEL.md",
-    "Kammel/Kammel_Project_Documentation/02_MVP_AND_PRODUCT_ROADMAP.md",
-    "Kammel/Kammel_Project_Documentation/05_DATABASE_DESIGN.md",
-    "Kammel/1-doc2.md",
-    "Kammel/Kammel_Project_Documentation",
-    "Kammel/0-doc.md",
-    "Dan Vega Spring Ai/1-Intro.md",
-    "Kammel",
-    "Pasted image 20261102222110.png",
-    "Spring Ai/2-ChatClient interface.md",
-    "Dan Vega Spring Ai",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "Pasted image 20260720170455.png",
-    "Spring_Boot_Interview_Guide/04_Spring_MVC_REST.md",
-    "Medability/PROJECT_EVALUATION.md",
-    "Medability/4-All details.md",
-    "PROJECT_EVALUATION.md",
-    "HABSA",
-    "Medability",
-    "Untitled 1",
-    "AAsara",
-    "Spring_Boot_Interview_Guide",
-    "Pasted image 20261013182010.png",
-    "Pasted image 20261013181351.png",
-    "Pasted image 20261013181146.png",
-    "Pasted image 20261013150714.png",
-    "Pasted image 20261013145955.png",
-    "Pasted image 20261013145542.png",
-    "Pasted image 20261012153610.png",
-    "Database Indexing",
-    "Pasted image 20261010203847.png",
-    "Sticky notes",
+    "Courses_Pilot/0-Project Details.md",
+    "Single & Multi tennancy/Database Schemas.md",
+    "Kammel/Kammel_Project_Documentation/04_DOMAIN_MODEL.md",
+    "Kammel/order.md",
+    "Pasted image 20261104162943.png",
+    "Pasted image 20261104162933.png",
+    "Pasted image 20261104162856.png",
+    "Pasted image 20261104162829.png",
+    "Pasted image 20261104162810.png",
+    "Pasted image 20261104162801.png",
+    "Pasted image 20261104162721.png",
+    "Pasted image 20261104162704.png",
+    "Pasted image 20261104162654.png",
+    "Single & Multi tennancy/Explaination 0.md",
+    "Pasted image 20261104151508.png",
+    "Single & Multi tennancy/Exp1.md",
+    "Kammel/implementation-plan/features/subscription/domain-design.md",
+    "Single & Multi tennancy",
+    "Kammel/implementation-plan/architecture/security-strategy.md",
+    "Kammel/implementation-plan/ai/ai-overview.md",
+    "Kammel/implementation-plan/ai/ai-integration-roadmap.md",
+    "Kammel/implementation-plan/development-roadmap/master-checklist.md",
+    "Kammel/implementation-plan/development-roadmap/integration-roadmap.md",
+    "Kammel/implementation-plan/development-roadmap/implementation-phases.md",
+    "Kammel/implementation-plan/README.md",
+    "Kammel/implementation-plan/features/member-portal/implementation-plan.md",
+    "Kammel/implementation-plan/api-design.md",
+    "Kammel/implementation-plan/testing-strategy.md",
+    "Kammel/implementation-plan/features/member-portal/README.md",
+    "Kammel/implementation-plan/features/lead/implementation-plan.md",
+    "Kammel/implementation-plan/features/lead/README.md",
+    "Kammel/implementation-plan/features/shift/implementation-plan.md",
+    "Kammel/implementation-plan/features/shift/README.md",
+    "Kammel/implementation-plan/features/member",
+    "Kammel/implementation-plan/features/tenancy",
+    "Kammel/implementation-plan/features/subscription",
+    "Kammel/implementation-plan/features/shift",
+    "Kammel/implementation-plan/features/risk",
+    "Kammel/implementation-plan/features/reporting",
+    "Kammel/implementation-plan/features/plan",
+    "Kammel/implementation-plan/features/payment",
+    "Kammel/implementation-plan/features/notification",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

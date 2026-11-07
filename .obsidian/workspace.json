@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/106-@PrePersisit.md",
+                "file": "Single & Multi tennancy/flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "106-@PrePersisit"
+              "title": "flow"
+            }
+          },
+          {
+            "id": "87f195083245d540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -229,10 +244,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "694893eb097ba360",
+  "active": "87f195083245d540",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 4.md",
+    "Single & Multi tennancy/flow.md",
+    "Pasted image 20261106150410.png",
+    "Single & Multi tennancy/Explaination 0.md",
+    "Single & Multi tennancy/Exp1.md",
+    "JAVA CORE☕/INTERVIEW questions/107-@Builder  ...  @SuperBuilder.md",
     "JAVA CORE☕/INTERVIEW questions/106-@PrePersisit.md",
+    "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -249,9 +270,6 @@
     "Pasted image 20261104162721.png",
     "Pasted image 20261104162704.png",
     "Pasted image 20261104162654.png",
-    "Single & Multi tennancy/Explaination 0.md",
-    "Pasted image 20261104151508.png",
-    "Single & Multi tennancy/Exp1.md",
     "Kammel/implementation-plan/features/subscription/domain-design.md",
     "Single & Multi tennancy",
     "Kammel/implementation-plan/architecture/security-strategy.md",
@@ -265,9 +283,6 @@
     "Kammel/implementation-plan/api-design.md",
     "Kammel/implementation-plan/testing-strategy.md",
     "Kammel/implementation-plan/features/member-portal/README.md",
-    "Kammel/implementation-plan/features/lead/implementation-plan.md",
-    "Kammel/implementation-plan/features/lead/README.md",
-    "Kammel/implementation-plan/features/shift/implementation-plan.md",
     "Kammel/implementation-plan/features/member",
     "Kammel/implementation-plan/features/tenancy",
     "Kammel/implementation-plan/features/subscription",

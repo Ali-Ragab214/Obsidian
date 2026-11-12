@@ -6,7 +6,7 @@ check the Section existent ,create lesson ,save it ,return its response
 
 controller recieves the request from the client ,and validate the dto  , then business logic ,then repository then db call
 
-```java
+
 @RestCOntroller
 @RequestMappint("/api/course")
 @RequiredArgsConstructor
@@ -17,3 +17,19 @@ private final CourseService courseService;
 public ResponseEntity<Course
 }
 ```
+```   
+
+
+
+spring.jpa.hibernate.ddl-auto=none/validate/update /create /create-drop
+
+
+Alter table user
+Add COLUMN username varchar(255);
+هو hi
+
+
+
+==🔵spring.jpa.hibernate.ddl-auto=validate;==
+//hibernate will make sure that the  entities matches the schema 
+==🔵spring.flyway.enabled=true;==

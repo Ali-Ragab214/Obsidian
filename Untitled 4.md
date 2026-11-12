@@ -48,3 +48,10 @@ CURRENT_TENANT.remove();
 }
 }
 ```
+
+%s
+%
+println => normal paste 
+printf للطباعه بفورمات معين 
+String.format 
+String hour = 30 ? "passed" : "not passed";

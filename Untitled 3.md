@@ -24,3 +24,10 @@ through reduce configuration and come with embedded web server and starter depen
 @SpringBootConfiguration is derived from @Configuration 
 @EnableAutoConfiguration 
 @ComponentScan => بتخلي سبرينج  يدور علي ال  stereotype annotations 
+
+
+rr  doesnot make health checks 
+lb algorithms => -rr
+-least connections 
+
+A component that distributes the incoming trrafic across multiple servers to improve availabaility ,scalability and reliability 

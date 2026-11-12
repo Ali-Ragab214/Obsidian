@@ -214,6 +214,8 @@ public class TenantFilter implements Filter {
         return null;
     }
 }
+
+}
 ```
 
 ## الكلاس ده بيعمل إيه؟
@@ -230,7 +232,7 @@ client ->filter chain -> dispatcher servlet ->controller
 
 ### 1. @Component
 
-```
+```java
 @Component
 ```
 
@@ -238,8 +240,9 @@ client ->filter chain -> dispatcher servlet ->controller
 
 ### 2. @Order
 
-```
+```java
 @Order(Ordered.HIGHEST_PRECEDENCE)
+//THIS FILTER WILL HAS A HIGH PRIORITY BETWEEN FILTERS  
 ```
 
 بنحدد إن الـ Filter ده يكون من أعلى الأولويات في ترتيب الـ Filters.
@@ -393,7 +396,14 @@ private String resolveHeader(final HttpServletRequest request) {
 
 استخدمنا `Locale.ROOT` علشان تحويل الأحرف يكون ثابتًا بغض النظر عن الـ Locale الخاص بالسيرفر.
 
-الخلاصة: `TenantFilter` بيستخرج الـ Tenant ID من الـ HTTP Request ويحطه في `TenantContext`، وبعد انتهاء الـ Request بيمسحه.
+==🔴الخلاصة: `TenantFilter` بيستخرج الـ Tenant ID من الـ HTTP Request ويحطه في `TenantContext`، وبعد انتهاء الـ Request بيمسحه.==
+
+يعني ال tenantfilter بيجيب ال tenantId من ال header اللي مبعوت مع ال request ويحطه في ال tenantContext وبعد انتهاء الريكويست بيمسحه عشان لما نفس الثريد يجي تاني يضمن انو مش لنفس ال  tenant 
+
+---
+---
+---
+
 
 # 3. TenantHibernateFilter
 
@@ -401,7 +411,7 @@ private String resolveHeader(final HttpServletRequest request) {
 
 ## الكود بالكامل
 
-```
+```java
 
 package ali.ragab.saas_multi_tennant_app.config;
 
@@ -417,6 +427,8 @@ import org.springframework.stereotype.Component;
 public class TenantHibernateFilter {
 
     @PersistenceContext
+    //الـ EntityManager هو الـ JPA interface المسؤول عن التعامل مع الـ Persistence Context وإدارة الـ Entities.
+    //إحنا محتاجينه علشان نوصل للـ Hibernate Session.
     private EntityManager entityManager;
 
     @Before("execution(* ali.ragab.saas_multi_tennant_app.services.*.*(..))")

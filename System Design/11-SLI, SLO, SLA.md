@@ -26,6 +26,7 @@
 
 ---
 
+sli :  service level indicator  ,slo :service level  ,sla  : service level object 
 ## العلاقة بينهم
 
 ```

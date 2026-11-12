@@ -14,3 +14,9 @@ web server is an app that recieves a requests from the internet
 ```
 
 input validation ,business logic,authentication,db constraints 
+
+يعني الثريد لما الريكوست يوصله 
+we have 
+TenantContext:to store tenant id ,and clear it from threadlocal
+TenantFilter:to get the tenantid from the header of the request 
+HibernateTenantFilter:to make database querors 

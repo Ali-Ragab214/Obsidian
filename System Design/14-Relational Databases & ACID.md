@@ -561,6 +561,8 @@ Transaction
 
 # What Is A Transaction?
 
+
+
 مجموعة عمليات تنجح كلها أو تفشل كلها.
 
 ```sql

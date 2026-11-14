@@ -1,4 +1,4 @@
-بص يا علي، التلات Classes دول بيعملوا مع بعض جزء مهم جدًا من الـ Multi-Tenancy باستخدام Shared Database + Shared Schema.
+ بص يا علي، التلات Classes دول بيعملوا مع بعض جزء مهم جدًا من الـ Multi-Tenancy باستخدام Shared Database + Shared Schema.
 
 الفكرة الأساسية إننا عايزين كل Request يدخل السيستم نعرف هو تابع لأنهي Tenant، ونخلي أي Database Query تتنفذ تشوف بيانات الـ Tenant ده بس.
 

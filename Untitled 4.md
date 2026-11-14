@@ -55,3 +55,9 @@ println => normal paste
 printf للطباعه بفورمات معين 
 String.format 
 String hour = 30 ? "passed" : "not passed";
+set of procecess on the db that considered as a unit of work 
+A : Either every thing succeded or everything fails 
+@Transactional 
+Consistency <=> db always remains valid  يعني مينفعش رصيد بالسالب 
+Isolation كل عمليه تتصرف كانها لوحدها في الداتا بيز
+

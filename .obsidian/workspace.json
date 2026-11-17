@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
+                "file": "System Design/21-Replication Types, Lag , Data Consistency Across Shards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Spring_Data_JPA"
+              "title": "21-Replication Types, Lag , Data Consistency Across Shards"
             }
           }
         ],
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.46744918823242
+    "width": 200
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -203,6 +203,12 @@
   },
   "active": "c65c17d669cac0f9",
   "lastOpenFiles": [
+    "System Design/20-Failover & Leader Election & split brain.md",
+    "System Design/19-Stale Read.md",
+    "System Design/18-DB Reblication.md",
+    "System Design/16-Software Architecture and patterns.md",
+    "JAVA CORE☕/INTERVIEW questions/108-Soft & Hard Deletion.md",
+    "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
     "Single & Multi tennancy/Database Schemas.md",
     "System Design/15-ACID.md",
     "System Design/14-Relational Databases & ACID.md",
@@ -212,7 +218,6 @@
     "Untitled 1.md",
     "notes.md",
     "System Design/13.1.0 AWS.md",
-    "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
     "Untitled.md",
     "Courses_Pilot/NOTES/15-@SuberBUilder and Auditing.md",
     "Kammel/implementation-plan/architecture/shared-foundation.md",
@@ -224,12 +229,7 @@
     "WebSocket/1-Push & Pull.md",
     "System Design/11-SLI, SLO, SLA.md",
     "System Design/System Design - Gap Analysis Report.md",
-    "Kafka/Prerequisites/0-Prerequisites.md",
-    "JAVA CORE☕/INTERVIEW questions/25-Runtime & Compile time Polymorphism.md",
-    "JAVA CORE☕/INTERVIEW questions/9.1 Method Hiding and Override.md",
-    "JAVA CORE☕/INTERVIEW questions/9-Can static methods be overridden? (Method hiding)..md",
     "Pasted image 20261110212449.png",
-    "Single & Multi tennancy/flow.md",
     "Pasted image 20261106150410.png",
     "Pasted image 20261104162943.png",
     "Pasted image 20261104162933.png",

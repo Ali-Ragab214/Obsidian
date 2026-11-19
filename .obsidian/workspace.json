@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/21-Replication Types, Lag , Data Consistency Across Shards.md",
+                "file": "System Design/22-Rate Limiting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21-Replication Types, Lag , Data Consistency Across Shards"
+              "title": "22-Rate Limiting"
+            }
+          },
+          {
+            "id": "1710870a4c8add86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/22-Rate Limiting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22-Rate Limiting"
+            }
+          },
+          {
+            "id": "2f7fe2c4bd905083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stock savvy smart inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stock savvy smart inventory"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d9ded0d41573333b",
@@ -201,34 +230,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c65c17d669cac0f9",
+  "active": "1710870a4c8add86",
   "lastOpenFiles": [
-    "System Design/20-Failover & Leader Election & split brain.md",
-    "System Design/19-Stale Read.md",
-    "System Design/18-DB Reblication.md",
-    "System Design/16-Software Architecture and patterns.md",
-    "JAVA CORE☕/INTERVIEW questions/108-Soft & Hard Deletion.md",
-    "Spring_Boot_Interview_Guide/05_Spring_Data_JPA.md",
-    "Single & Multi tennancy/Database Schemas.md",
-    "System Design/15-ACID.md",
-    "System Design/14-Relational Databases & ACID.md",
+    "stock savvy smart inventory.md",
+    "System Design/22-Rate Limiting.md",
+    "Stock-Movement-Vault/03 - Core Features.md",
+    "Stock-Movement-Vault/02 - Business Problem.md",
+    "Stock-Movement-Vault/01 - Project Overview.md",
+    "Stock-Movement-Vault/00 - Index.md",
+    "Stock Movement Management System.md",
+    "Stock-Movement-Vault/Appendix C - Audit Scope and Method.md",
+    "Stock-Movement-Vault/Appendix B - Engineering Risk Register.md",
+    "Stock-Movement-Vault/Appendix A - Proposed Feature Catalog.md",
+    "Stock-Movement-Vault/17 - Future Enhancements.md",
+    "Stock-Movement-Vault/16 - Project Roadmap.md",
+    "Stock-Movement-Vault/15 - Deployment Instructions.md",
+    "Stock-Movement-Vault/14 - Testing.md",
+    "Stock-Movement-Vault/13 - Performance and Scalability.md",
+    "Stock-Movement-Vault/12 - Security Considerations.md",
+    "Stock-Movement-Vault/11 - AI Capabilities.md",
+    "Stock-Movement-Vault/10 - API Documentation.md",
+    "Stock-Movement-Vault/09 - Stock Movement Lifecycle.md",
+    "Stock-Movement-Vault/08 - Database Design.md",
+    "Stock-Movement-Vault/07 - Authentication and Authorization.md",
+    "Stock-Movement-Vault/06 - Multi-Tenancy Strategy.md",
+    "Stock-Movement-Vault/05 - Architecture Overview.md",
+    "Stock-Movement-Vault/04 - Technology Stack.md",
+    "Stock-Movement-Vault",
     "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "notes.md",
-    "System Design/13.1.0 AWS.md",
-    "Untitled.md",
-    "Courses_Pilot/NOTES/15-@SuberBUilder and Auditing.md",
-    "Kammel/implementation-plan/architecture/shared-foundation.md",
-    "Single & Multi tennancy/5-implementation.md",
-    "System Design/13.1 LB.md",
-    "System Design/13-DNS & Load Balancer.md",
-    "System Design/12-Api Design.md",
-    "Flyway (DB Migrations)/1- Part 1.md",
-    "WebSocket/1-Push & Pull.md",
-    "System Design/11-SLI, SLO, SLA.md",
-    "System Design/System Design - Gap Analysis Report.md",
+    "Survival English — إنجليزي المواقف اليومية.md",
     "Pasted image 20261110212449.png",
     "Pasted image 20261106150410.png",
     "Pasted image 20261104162943.png",
@@ -248,7 +278,6 @@
     "Kammel/implementation-plan/features/reporting",
     "Kammel/implementation-plan/features/plan",
     "Kammel/implementation-plan/features/payment",
-    "Kammel/implementation-plan/features/notification",
     "Untitled.canvas",
     "x/Untitled.canvas"
   ]

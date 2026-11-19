@@ -1,0 +1,18 @@
+/* RTL للنوتس اللي فيها cssclasses: rtl — الكود والـ Mermaid بيفضلوا LTR */
+.rtl.markdown-preview-view,
+.rtl .markdown-preview-sizer,
+.rtl.markdown-source-view .cm-content {
+  direction: rtl;
+  text-align: right;
+}
+.rtl pre, .rtl code, .rtl .cm-line.HyperMD-codeblock,
+.rtl .mermaid, .rtl .block-language-mermaid {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: plaintext;
+}
+.rtl ul, .rtl ol { padding-inline-start: 1.6em; padding-inline-end: 0; }
+.rtl blockquote, .rtl .callout { direction: rtl; text-align: right; }
+.rtl table { direction: rtl; }
+.rtl th, .rtl td { text-align: right; }
+.rtl .callout-title { flex-direction: row; }

@@ -31,3 +31,25 @@ lb algorithms => -rr
 -least connections 
 
 A component that distributes the incoming trrafic across multiple servers to improve availabaility ,scalability and reliability 
+
+
+Synch Replica : the request go to the replica and the response has data consistency as there is no lag in i,
+Asynch replica : the request read tha data from the replica and this data maybe stale data  يعني ممكن الداتا تبقا قديمه لسه متحدثتش من البريماري 
+وعيبه ان ممكن يبقا في  replication lag اللي يؤدي الي stale data 
+ولنظام payment هختار synchronous طبعا عشان اضمن ال data consistency  ول socail media هتخار asynchronus عشان مقبول فيه التاخير في performance شويه 
+
+
+High Availabilty ان السيرفر يكون متاح اكبر فتره ممكنه من غير ما يقع 
+Fault tolerance :  ان السيرفر يفضل شغال حتي لو جزء منه وقع يعني مثلا لو عندي 
+ primary and replica db 
+  وال primary وقعت يبقا ال rplica شغاله 
+
+### ls
+
+#### سؤال 4 من 30
+
+**Replication بتحسّن Read Scalability ولا Write Scalability؟ ولو DB بتتحمل 10,000 read/sec وعملت 3 Replicas، ليه الزيادة مش بالضرورة Linear؟**
+
+اكتب إجابتك تحت 👇
+Replication improve  Read Scalability not write , 
+if i have  DB بتتحمل 10,000 read/sec وعملت 3  replicas   مش هيفرق في حاجه لان كله هيقرا من ال primary  بردوا 

@@ -49,6 +49,7 @@ public class Car {
         this.engine = engine;
     }
 }
+//we use composition with DI 
 
 // الاستخدام
 Car gasCar      = new Car(new V8Engine());
@@ -243,13 +244,13 @@ Composition  =  قررت إن الكلاس "يحتوي على" حاجة
 DI           =  قررت إن الحاجة دي "تيجي من برا"
 ```
 
-|السؤال|الإجابة|
-|---|---|
-|Car لازم يبقالها Engine؟|**Composition**|
-|مين بيعمل الـ Engine دي؟|**DI**|
-|أنهو أحسن؟|**الاتنين مع بعض** ✅|
-|في Spring بستخدم إيه؟|**Composition + Constructor DI دايماً** ✅|
+| السؤال                   | الإجابة                                   |
+| ------------------------ | ----------------------------------------- |
+| Car لازم يبقالها Engine؟ | **Composition**                           |
+| مين بيعمل الـ Engine دي؟ | **DI**                                    |
+| أنهو أحسن؟               | **الاتنين مع بعض** ✅                      |
+| في Spring بستخدم إيه؟    | **Composition + Constructor DI دايماً** ✅ |
+| في Spring بستخدم         | Composition + DI => Always                |
 
 ---
 
-عايز أكمل على **IoC Container** وإزاي Spring بيدير الـ DI كله أوتوماتيك؟ 🔥

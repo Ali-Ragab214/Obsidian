@@ -593,11 +593,13 @@ public class Main {
 
 ```java
 class Base {
-    void print(Object o) { System.out.println("Base(Object)"); }
+     void print(Object o)
+     { System.out.println("Base(Object)"); }
 }
 
 class Derived extends Base {
-    void print(String s) { System.out.println("Derived(String)"); }
+    void print(String s)
+     { System.out.println("Derived(String)"); }
 }
 
 Base b = new Derived();
@@ -710,7 +712,9 @@ class Parent {
 }
 
 class Child extends Parent {
-    Child() { } // ❌ compile error: no suitable constructor Parent()
+    Child() { } 
+    
+    // ❌ compile error: no suitable constructor Parent()
     // الحل:
     // Child() { super(0); }
 }
@@ -842,7 +846,41 @@ final class Customer extends Entity {
 5. إزاي تمنع الوراثة في Java؟ (`final class` أو private constructor)
 6. ليه استدعاء overridable method من constructor خطر؟ (الحقول لسه default)
 7. هل الـ `final` field ممكن يتعين في instance block؟ (أيوه، طالما مرة واحدة)
-8. إيه الفرق بين `super()` و`this()` من ناحية الـ binding؟
+```java
+class User {
+    final int age;
+
+    User() {
+        age = 23;
+        age = 25; // Compile Error
+    }
+}
+class User {
+    final int age;
+
+    User() {
+        age = 23;
+        age = 25; // Compile Error
+    }
+}
+```
+
+```java
+class User {
+    final int age;
+
+    User() {
+        age = 20;
+    }
+
+    User(int x) {
+        age = 25;
+    }
+}
+```
+ده صحيح؛ لأن كل Constructor بيهيّئ الـ `final field` مرة واحدة.
+
+1. إيه الفرق بين `super()` و`this()` من ناحية الـ binding؟
 
 **⚠️ Common Interview Trap:**
 
@@ -1501,7 +1539,7 @@ record Order(String id, List<OrderLine> lines) {
 
 ```java
 enum OrderStatus {
-    NEW, PAID, SHIPPED, DELIVERED, CANCELLED;
+    NEW, PAID, SHIPPED, DELIVERED, CANCELLED;//instances are fixed set of constants
 }
 ```
 
@@ -1637,6 +1675,40 @@ switch (status) {
 ```
 
 الـ switch on enum **exhaustive** بطبيعته لو غطيت كل القيم (بدون `default`)، وأي constant جديد بيسبب warning/compile error حسب الحالة.
+```java
+public enum PaymentType {
+
+    CASH {
+        @Override
+        public void pay() {
+            System.out.println("Cash payment");
+        }
+    },
+
+    VISA {
+        @Override
+        public void pay() {
+            System.out.println("Visa payment");
+        }
+    };
+
+    public abstract void pay();
+}
+```
+
+ ```java
+ CASH {
+        @Override
+        public void pay() {
+            System.out.println("Cash payment");
+        }
+    },
+
+ ```  
+
+# بص ال cash  دا يعتبر object من ال enum عشان كدا لازم يعمل override لل abstract ميثود اللي في ال enum
+
+
 
 **💻 Practical Example:**
 

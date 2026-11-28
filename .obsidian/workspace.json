@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "177c067f0b074993",
+        "id": "87fff02a2263febc",
         "type": "tabs",
         "children": [
           {
-            "id": "fc029b81ffe462d3",
+            "id": "341d5f2570d08e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/14-Relational Databases & ACID.md",
+                "file": "p1t1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14-Relational Databases & ACID"
-            }
-          },
-          {
-            "id": "c65c17d669cac0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/22-Rate Limiting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22-Rate Limiting"
-            }
-          },
-          {
-            "id": "1710870a4c8add86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/31.1-Sharding vs Replication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "31.1-Sharding vs Replication"
-            }
-          },
-          {
-            "id": "2f7fe2c4bd905083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/109-JPA Auditing vs Advanced Auditing (Tracking Current User).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "109-JPA Auditing vs Advanced Auditing (Tracking Current User)"
-            }
-          },
-          {
-            "id": "1dc4fdb93c7e8ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA CORE☕/JAVA_CORE_COMPREHENSIVE_INTERVIEW_QUESTIONS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JAVA_CORE_COMPREHENSIVE_INTERVIEW_QUESTIONS"
-            }
-          },
-          {
-            "id": "594139576cdbb764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA CORE☕/INTERVIEW questions/110-abstract class vs interface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "110-abstract class vs interface"
+              "title": "p1t1"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@MappedSuperClass",
+                "query": "Shallow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.6842460632324,
+    "width": 242.31379318237305,
     "collapsed": true
   },
   "right": {
@@ -258,36 +187,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dc4fdb93c7e8ebd",
+  "active": "341d5f2570d08e2a",
   "lastOpenFiles": [
-    "JAVA CORE☕/INTERVIEW questions/111-important notes on oop.md",
-    "JAVA CORE☕/JAVA_CORE_COMPREHENSIVE_INTERVIEW_QUESTIONS.md",
-    "JAVA CORE☕/9-Composition with DI.md",
-    "JAVA CORE☕/8-Dependnecy Injection vs Composition.md",
-    "Stock savvy notes/1-.md",
+    "stocksavvy-agent-tasks/TASKS/P0-T1_platform_bootstrap_and_tenant_isolation.md",
     "JAVA CORE☕/INTERVIEW questions/110-abstract class vs interface.md",
-    "JAVA CORE☕/XX8HscQN",
+    "JAVA CORE☕/JAVA_CORE_COMPREHENSIVE_INTERVIEW_QUESTIONS.md",
+    "p1t1.md",
+    "Pasted image 20260314205515.png",
+    "JAVA CORE☕/INTERVIEW questions/73-Records.md",
+    "JAVA CORE☕/7-records.md",
+    "JAVA CORE☕/INTERVIEW questions/85-What is the difference between shallow copy and deep copy? How do you achieve each in Java?.md",
+    "JAVA CORE☕/INTERVIEW questions/0-Sample questions.md",
+    "JAVA CORE☕/INTERVIEW questions/113-.md",
+    "LOMBOK Library.md",
+    "Stock Movement Management System.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Untitled 2.md",
-    "System Design/25-Idempotency exp.md",
-    "Stock savvy notes",
-    "System Design/24-Idempotency.md",
-    "security-gaps.md",
-    "JAVA CORE☕/INTERVIEW questions/109-JPA Auditing vs Advanced Auditing (Tracking Current User).md",
-    "Single & Multi tennancy/MultiTenantConnectionProvider.md",
-    "stocksavvy-agent-tasks/00_CONTEXT/01_project_snapshot.md",
-    "stocksavvy-agent-tasks/00_CONTEXT/00_agent_rules.md",
+    "Untitled 3.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Multi tenancy in the proj.md",
+    "stocksavvy-agent-tasks/TASKS/P1-T2_stock_ledger_balances_operations.md",
     "stocksavvy-agent-tasks/TASKS/P1-T1_sku_management.md",
-    "stocksavvy-agent-tasks/GUIDE_AR.md",
-    "stocksavvy-agent-tasks/README.md",
-    "stocksavvy-agent-tasks/TASKS/P9-T1_dashboard_demo_data_defense_artifacts.md",
-    "stocksavvy-agent-tasks/TASKS/P8-T1_anomaly_detection_agent.md",
-    "stocksavvy-agent-tasks/TASKS/P7-T1_negotiation_agent.md",
-    "stocksavvy-agent-tasks/TASKS/P6-T1_reorder_agent.md",
-    "stocksavvy-agent-tasks/TASKS/P5-T1_demand_forecasting_agent.md",
-    "stocksavvy-agent-tasks/TASKS/P4-T2_rag_retrieval_and_chat.md",
-    "stocksavvy-agent-tasks/TASKS/P4-T1_rag_foundation_ingestion.md",
-    "stocksavvy-agent-tasks/TASKS/P3-T1_approval_queue_and_audit_trail.md",
-    "stocksavvy-agent-tasks/TASKS/P2-T2_purchase_orders.md",
+    "JAVA CORE☕/INTERVIEW questions/113-AuthenticationEntryPoint interface in Spring Security.md",
+    "stocksavvy-agent-tasks/TASKS/P0-T2_personas_auth_rbac.md",
+    "JAVA CORE☕/INTERVIEW questions/91-What is autoboxing? What are the potential performance or bug issues with it?.md",
+    "JAVA CORE☕/INTERVIEW questions/59-Difference between for and while loop.md",
+    "JAVA CORE☕/INTERVIEW questions/112-Overloading can occurs in a  child.md",
+    "JAVA CORE☕/INTERVIEW questions/111-important notes on oop.md",
+    "JAVA CORE☕/XX8HscQN",
+    "Stock savvy notes",
     "stocksavvy-agent-tasks/TASKS",
     "stocksavvy-agent-tasks/99_REFERENCE",
     "stocksavvy-agent-tasks/00_CONTEXT",
@@ -302,7 +232,6 @@
     "Pasted image 20261104162810.png",
     "Pasted image 20261104162801.png",
     "Pasted image 20261104162721.png",
-    "Pasted image 20261104162704.png",
     "Single & Multi tennancy",
     "Kammel/implementation-plan/features/member",
     "Kammel/implementation-plan/features/tenancy",

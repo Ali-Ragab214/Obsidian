@@ -2,13 +2,13 @@
 
 # 1. يعني إيه `record` أصلًا؟
 
-الـ **Record** هو نوع خاص من الـ classes اتضاف في **Java 16**، هدفه الأساسي إنك تمثل **بيانات ثابتة Immutable Data** بطريقة مختصرة.
-ال Record   اصلا final يعني مينفعش ي extend another one fw
+الـ **Record** هو نوع خاص من الـ classes اتضاف في **Java 16**، هدفه الأساسي إنك تمثل **بيانات ثابتة  Immutable Data** بطريقة مختصرة.
+ال Record   اصلا final يعني مينفعش ي extend another one 
 
 يعني بدل ما تعمل Class بالشكل التقليدي:
 
 his fields is private and final 
-record is data carried and used to present immutable data  => مفيش  لوجيك ولا ستيت بيتغير 
+record is data carrier and used to present immutable data  => مفيش  لوجيك ولا ستيت بيتغير 
 
 ```java
 public class UserDto {
@@ -55,6 +55,23 @@ public record UserDto(
 
 الـ Java compiler بيولّد لك حاجات مهمة تلقائيًا.
 
+```java
+public final class UserDto extends Java.Lang.records
+{
+private final Long id;
+private final String name ;
+private final String email;
+
+public UserDto(Long id,String name,String email)
+{
+this.id=id; 
+this.name =name;
+this.email=email ;
+}
+//getters 
+}
+```
+
 ---
 
 # 2. إيه اللي الـ Record بيعملهولي؟
@@ -71,7 +88,7 @@ public record UserDto(
 
 الـ Java بتوفر لك تلقائيًا:
 
-### Constructor
+### Constructor 
 
 ```java
 new UserDto(1L, "Ali", "ali@gmail.com");
@@ -197,6 +214,7 @@ setName()
 هنا فيه Interview trap 👀
 
 الـ record نفسه **shallowly immutable**.
+# not fully immutable 
 
 يعني لو عندي:
 
@@ -338,6 +356,10 @@ public record User(
 }
 ```
 
+
+```
+
+
 ده اسمه:
 
 **Compact Constructor**
@@ -352,7 +374,10 @@ public record User(
 
 مثلاً:
 
-```java
+
+
+
+``````java
 public interface Identifiable {
     Long id();
 }
